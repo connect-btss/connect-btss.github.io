@@ -1,7 +1,6 @@
 ---
 layout: page
 title: events
-cover-img: /assets/img/events_blank.png
 ---
 
 > The BiTS Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:partnership@manybabies.org)!
