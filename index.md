@@ -8,7 +8,9 @@ Notes
 	- logo and project placeholders follow it.
 --->
 
-# Coordinated Network of Networks for Enhancing Collaborative Teams (CONNECT)
+# CONNECT
+
+### Coordinated Network of Networks for Enhancing Collaborative Teams 
 
 ***
 
