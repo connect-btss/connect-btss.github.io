@@ -10,7 +10,7 @@ Notes
 
 # CONNECT
 
-### Coordinated Network of Networks for Enhancing Collaborative Teams 
+> **Co**ordinated **N**etwork of **N**etworks for **E**nhancing **C**ollaborative **T**eams 
 
 ***
 
