@@ -24,7 +24,7 @@ navbar-links:
   Events: "events"
   News: "news"
   Resources:
-    - Calendar: ""
+    - Calendar: "calendar"
 
 ################
 # --- Logo --- #
