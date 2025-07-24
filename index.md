@@ -14,7 +14,7 @@ Notes
 
 ***
 
-<img src="assets/img/connect-structure.png">
+<img src="assets/img/connect-structure.png" />
 
 ***
 ## Partner Organizations
