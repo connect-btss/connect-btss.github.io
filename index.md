@@ -21,7 +21,7 @@ Notes
 
 ### Network Partners
 
-* [ManyBabies](manybabies.github.io)
+* [ManyBabies](https://manybabies.org/)
 * [ManyBirds](http://themanybirds.com)
 * [ManyDogs](https://manydogsproject.github.io)
 * [ManyFishes](https://twitter.com/TheManyFishes)
