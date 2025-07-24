@@ -15,7 +15,6 @@ You can read more about the award [here](https://research.ubc.ca/news/july-9-202
 >CONNECT director Kiley Hamlin (left) with Canada's Minister of Innovation, Science and Industry, Mélanie Joly and others
 
 <br>
-<br>
 
 <img src="/assets/img/Web-045-GWLL4134.jpeg" style="width:60%"><br>
 >CONNECT director Kiley Hamlin (right) with Canada's Minister of Innovation, Science and Industry, Mélanie Joly (third from left) and others
