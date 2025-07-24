@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/BiTS_header-alt.png
+cover-img: /assets/img/connect-structure.png
 ---
 
 <!---
@@ -9,8 +9,7 @@ Notes
 	- logo and project placeholders follow it.
 --->
 
-The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conversations between members of large-scale collaborations and to advance the work done by these groups.
-
+# Coordinated Network of Networks for Enhancing Collaborative Teams (CONNECT)
 
 ***
 ## Partner Organizations
@@ -45,5 +44,5 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 
 ## Funding
 
-Activities of the Big Team Science Lab were originally supported by a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) and are currently supported by a [Partnership Grant](https://sshrc-crsh.canada.ca/en/funding/opportunities/partnership-grants.aspx), both awarded by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/). You can find our application materials [here](https://osf.io/xavnd/) and [here](https://drive.google.com/file/d/1rzwoVNW7M8pBDB3SBpnh5IqkK-wuebI2/view?usp=drive_link).
+Activities of CONNECT were originally supported by a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) and are currently supported by a [Partnership Grant](https://sshrc-crsh.canada.ca/en/funding/opportunities/partnership-grants.aspx), both awarded by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/). You can find our application materials [here](https://osf.io/xavnd/) and [here](https://drive.google.com/file/d/1rzwoVNW7M8pBDB3SBpnh5IqkK-wuebI2/view?usp=drive_link).
 <br>
