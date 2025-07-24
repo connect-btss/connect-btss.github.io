@@ -1,6 +1,5 @@
 ---
 layout: page
-cover-img: /assets/img/connect-structure.png
 ---
 
 <!---
@@ -10,6 +9,10 @@ Notes
 --->
 
 # Coordinated Network of Networks for Enhancing Collaborative Teams (CONNECT)
+
+***
+
+<img src="assets/img/connect-structure.png">
 
 ***
 ## Partner Organizations
