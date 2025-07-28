@@ -12,12 +12,12 @@ You can read more about the award [here](https://research.ubc.ca/news/july-9-202
 
 
 <img src="/assets/img/Web-047-GWLL4147.jpeg" style="width:60%"><br>
->CONNECT director Kiley Hamlin (left) with Canada's Minister of Innovation, Science and Industry, Mélanie Joly and others
+>CONNECT director Kiley Hamlin (left) with Canada's Minister of Innovation, Science and Industry, Mélanie Joly (second from left) and other funding recipients
 
 <br>
 
 <img src="/assets/img/Web-045-GWLL4134.jpeg" style="width:60%"><br>
->CONNECT director Kiley Hamlin (right) with Canada's Minister of Innovation, Science and Industry, Mélanie Joly (third from left) and others
+>CONNECT director Kiley Hamlin (right) with: Member of Parliament Wade Grant (left), Canada's Minister of Innovation, Science and Industry, Mélanie Joly (third from left), Member of Parliament Zoe Royer (second from right) and other funding recipients.
 
 <br>
 
