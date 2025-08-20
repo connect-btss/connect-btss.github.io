@@ -20,11 +20,13 @@ author: CONNECT
 ###############################################
 
 navbar-links:
-  People: "people"
+  About: "about"
+  Hubs/Working Groups: "hubs"
   Events: "events"
   News: "news"
   Resources:
     - Calendar: "calendar"
+  Get Involved: "getinvolved"
 
 ################
 # --- Logo --- #
