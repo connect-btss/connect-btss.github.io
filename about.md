@@ -16,8 +16,6 @@ CONNECT brings together the people best equipped to solve these challenges: thos
 
 <img src="/assets/img/connect-partners.png" />
 
-<br>
-
 ### Network Partners: 
 
 * [ManyBabies](https://manybabies.org/)
