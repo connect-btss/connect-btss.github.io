@@ -13,7 +13,8 @@ CONNECT brings together the people best equipped to solve these challenges: thos
 
 ## Our Partners
 
-<img src="assets/img/connect-partners.png" />
+<img src="assets/img/connect-structure.png" />
+
 
 ### Network Partners: 
 
