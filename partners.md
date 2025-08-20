@@ -12,11 +12,11 @@ title: partners
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-6" align="right">
+      <div class="col-sm-3" align="center">
         <br>
-        <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" width="100" height="100"></a>
+        <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" height="100"></a>
       </div>
-      <div class="col-sm-6" align="left">
+      <div class="col-sm-9">
         <br>
         <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
         <i>A collaborative project for replication and best practices in developmental psychology research</i>
@@ -26,10 +26,11 @@ title: partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>        
-        <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" width="100" height="100"></a>
+        <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
+        <h4><a href="http://themanybirds.com">ManyBirds</a></h4>
+        <i>Aims to provide new insight into the evolution of avian cognition and behaviour through multi-site comparative studies and large-scale collaboration</i>
       </div>
     </div>
   </div>
