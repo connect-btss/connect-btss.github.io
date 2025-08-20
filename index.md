@@ -7,7 +7,7 @@ layout: page
 
 *Learn more about:*
 
-* ### [The challenges we’re addressing]({{site.baseurl}}/about/)
+* ### [The challenge we’re addressing]({{site.baseurl}}/about/)
 * ### [Our hubs and working groups]({{site.baseurl}}/hubs/)
 * ### [News about CONNECT]({{site.baseurl}}/news/)
 * ### [Get involved]({{site.baseurl}}/get involved/)
