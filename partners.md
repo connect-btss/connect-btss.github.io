@@ -12,12 +12,14 @@ title: partners
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-6" align="right">
         <br>
         <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" width="100" height="100"></a>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-6" align="left">
+        <br>
         <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
+        <i>A collaborative project for replication and best practices in developmental psychology research</i>
       </div>
     </div>
     <hr>
