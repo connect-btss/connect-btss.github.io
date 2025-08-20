@@ -3,13 +3,17 @@ layout: page
 title: get involved
 ---
 
-## BiTS Lab
-BiTS lab meetings are open to researchers at any career stage involved in Big Team Social Science. For information about joining, contact the [BiTS Lab director](heidib@manybabies.org).
-
 
 ## Working groups
 CONNECT working groups meet monthly and welcome participation from researchers with a deep interest in or expertise in each topic. To get involved, contact a working group lead (see [Hubs and Working Groups]({{site.baseurl}}/hubs/).
 
+## Big Team Science (BiTS) Lab
+BiTS lab meetings are open to researchers at any career stage involved in Big Team Social Science. For information about joining, contact the [BiTS Lab director](heidib@manybabies.org).
+
+## ManyManys
+ManyManys projects are open to everyone, not just members of CONNECT partner networks. You can learn more on the [ManyManys website](https://manymanys.github.io/).
+
+***
 
 ## General contact information
 
