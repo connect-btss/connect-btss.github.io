@@ -22,7 +22,7 @@ author: CONNECT
 navbar-links:
   About: 
     - About CONNECT: "about"
-    - Hubs/Working Groups: "hubs"
+    - Hubs & Working Groups: "hubs"
   Resources:
     - News: "news"
     - Events: "events"
