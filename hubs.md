@@ -5,6 +5,8 @@ title: hubs and working groups
 
 CONNECT operates through **two collaborative research hubs** that facilitate knowledge co-creation and translation, supported by **four specialized working groups** that drive our core initiatives.
 
+<img src="assets/img/connect-structure.png" />
+
 
 ## Research Hubs
 
