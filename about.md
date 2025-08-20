@@ -4,34 +4,19 @@ title: about
 ---
 
 ## The Challenge We're Addressing
-The replication crisis has shaken public trust in social science. Traditional small-scale studies with unrepresentative samples have produced findings that often fail to replicate. Big Team Social Science offers unprecedented opportunities to enhance research quality through larger sample sizes, standardized methodologies, diverse participants and researchers, and expanded research scope. However, scaling up social science research presents unique challenges that physics or genomics solutions can't address—social behavior varies dramatically across contexts, cultures, and species.
+The replication crisis has shaken public trust in social science. Traditional small-scale studies with unrepresentative samples have produced findings that often fail to replicate. **Big Team Social Science (BTSS)** offers unprecedented opportunities to enhance research quality through larger sample sizes, standardized methodologies, diverse participants and researchers, and expanded research scope. However, scaling up social science research presents unique challenges that physics or genomics solutions can't address—social behavior varies dramatically across contexts, cultures, and species.
 
+***
 
 ## Our Solution
 CONNECT brings together the people best equipped to solve these challenges: those actually conducting BTSS research. Rather than forcing each network to reinvent solutions independently, we create forums to unite expertise, share resources, and collectively improve research practices.
 
-***
+##### We aim to achieve these goals via three main initiatives:
 
-## Our Partners
+1. Better understand current processes and workflows in BTSS
+2. Improve efficiency and effectiveness in BTSS
+3. Promote equity, diversity, and inclusivity (EDI) in all aspects of BTSS
 
-<img src="/assets/img/connect-partners.png" />
-
-### Network Partners: 
-
-* [ManyBabies](https://manybabies.org/)
-* [ManyBirds](http://themanybirds.com)
-* [ManyDogs](https://manydogsproject.github.io)
-* [ManyFishes](https://twitter.com/TheManyFishes)
-* [ManyPrimates](https://manyprimates.github.io)
-* [Psychological Science Accelerator](https://psysciacc.org)
-* [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
-
-### Community Partners
-
-* [ABRIR](https://abrirpsy.org/)
-* [Canadian Reproducibility Network](https://carn-recar.ca/)
-* [Center for Open Science](https://www.cos.io/)
-* [Children Helping Science powered by Lookit](https://lookit.mit.edu)
 
 ***
 

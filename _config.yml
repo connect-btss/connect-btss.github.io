@@ -22,6 +22,7 @@ author: CONNECT
 navbar-links:
   About: 
     - About CONNECT: "about"
+    - Partners: "partners"
     - Hubs & Working Groups: "hubs"
   Resources:
     - News: "news"
