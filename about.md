@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: about CONNECT
 ---
 
 ## The Challenge We're Addressing
@@ -17,8 +17,11 @@ CONNECT brings together the people best equipped to solve these challenges: thos
 2. Improve efficiency and effectiveness in BTSS
 3. Promote equity, diversity, and inclusivity (EDI) in all aspects of BTSS
 
+<br>
 
 ***
 
 ## Our Funding
 Activities of CONNECT were originally supported by a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) and are currently supported by a [Partnership Grant](https://sshrc-crsh.canada.ca/en/funding/opportunities/partnership-grants.aspx), both awarded by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/). You can find our application materials [here](https://osf.io/xavnd/) and [here](https://drive.google.com/file/d/1rzwoVNW7M8pBDB3SBpnh5IqkK-wuebI2/view?usp=drive_link).
+
+<img src="/assets/img/sshrc-logo.jpg" style="width:50%">
