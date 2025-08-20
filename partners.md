@@ -9,6 +9,32 @@ title: partners
 
 ### Network Partners: 
 
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>        
+        <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
+
+
 * [ManyBabies](https://manybabies.org/)
 * [ManyBirds](http://themanybirds.com)
 * [ManyDogs](https://manydogsproject.github.io)

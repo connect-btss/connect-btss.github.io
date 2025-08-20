@@ -24,4 +24,4 @@ CONNECT brings together the people best equipped to solve these challenges: thos
 ## Our Funding
 Activities of CONNECT were originally supported by a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) and are currently supported by a [Partnership Grant](https://sshrc-crsh.canada.ca/en/funding/opportunities/partnership-grants.aspx), both awarded by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/). You can find our application materials [here](https://osf.io/xavnd/) and [here](https://drive.google.com/file/d/1rzwoVNW7M8pBDB3SBpnh5IqkK-wuebI2/view?usp=drive_link).
 
-<img src="/assets/img/sshrc-logo.jpg" style="width:50%">
+<a href="https://www.sshrc-crsh.gc.ca/" alt="CRSH:Conseil de recherches en sciences humaines du Canada; SSHRC: Social Sciences and Humanities Research Council of Canada" target="_blank"><img src="/assets/img/sshrc-logo.jpg" style="width:50%"></a>
