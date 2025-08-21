@@ -32,14 +32,22 @@ title: partners
         <i>Aims to provide new insight into the evolution of avian cognition and behaviour through multi-site comparative studies and large-scale collaboration</i>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>        
+        <a href="https://manydogsproject.github.io"><img src="/assets/img/manydogs-logo.png" alt="ManyDogs logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manydogsproject.github.io">ManyDogs</a></h4>
+        <i></i>
+      </div>
+    </div>
   </div>
 </section>
 <br>
 
 
-* [ManyBabies](https://manybabies.org/)
-* [ManyBirds](http://themanybirds.com)
-* [ManyDogs](https://manydogsproject.github.io)
 * [ManyFishes](https://twitter.com/TheManyFishes)
 * [ManyPrimates](https://manyprimates.github.io)
 * [Psychological Science Accelerator](https://psysciacc.org)
