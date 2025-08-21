@@ -17,7 +17,6 @@ title: partners
         <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <br>
         <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
         <i>A collaborative project for replication and best practices in developmental psychology research</i>
       </div>
