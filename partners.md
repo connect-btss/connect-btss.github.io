@@ -42,12 +42,20 @@ title: partners
         <i>An international consortium of researchers interested in canine science</i>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="https://themanyfishes.github.io/"><img src="/assets/img/manyfishes-logo.png" alt="ManyFishes logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://themanyfishes.github.io/">ManyFishes</a></h4>
+        <i>A large-scale collaborative project dedicated to fish cognition and behavior</i>
+      </div>
+    </div>
   </div>
 </section>
 <br>
 
-
-* [ManyFishes](https://twitter.com/TheManyFishes)
 * [ManyPrimates](https://manyprimates.github.io)
 * [Psychological Science Accelerator](https://psysciacc.org)
 * [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
