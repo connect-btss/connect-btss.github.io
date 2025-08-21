@@ -138,7 +138,7 @@ title: CONNECT partners
       </div>
       <div class="col-sm-9">
         <h4><a href="https://childrenhelpingscience.com/">Children Helping Science powered by Lookit</a></h4>
-        <i></i>
+        <i>Fascilitating online data collection for a more representative developmental science</i>
       </div>
     </div>
   </div>
