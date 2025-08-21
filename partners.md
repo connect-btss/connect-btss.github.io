@@ -55,7 +55,7 @@ title: partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://manyprimates.github.io/"><img src="/assets/img/manyprimates-logo.png" alt="ManyPrimates logo" height="100"></a>
+        <a href="https://manyprimates.github.io/"><img src="/assets/img/manyprimates-logo.png" alt="ManyPrimates logo" width="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://manyprimates.github.io/">ManyPrimates</a></h4>
