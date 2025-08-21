@@ -1,9 +1,8 @@
 ---
 layout: page
-title: partners
+title: CONNECT partners
 ---
 
-## CONNECT Partners
 
 <img src="/assets/img/connect-partners.png" />
 
@@ -85,8 +84,6 @@ title: partners
   </div>
 </section>
 <br>
-
-* [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
 
 ### Community Partners
 
