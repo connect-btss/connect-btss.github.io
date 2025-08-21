@@ -17,6 +17,7 @@ title: partners
         <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" height="100"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h4><a href="https://manybabies.org/">ManyBabies</a></h4>
         <i>A collaborative project for replication and best practices in developmental psychology research</i>
       </div>
@@ -24,10 +25,11 @@ title: partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <br>        
+        <br>
         <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" width="100"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h4><a href="http://themanybirds.com">ManyBirds</a></h4>
         <i>Aims to provide new insight into the evolution of avian cognition and behaviour through multi-site comparative studies and large-scale collaboration</i>
       </div>
@@ -39,8 +41,9 @@ title: partners
         <a href="https://manydogsproject.github.io"><img src="/assets/img/manydogs-logo.png" alt="ManyDogs logo" width="100"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h4><a href="https://manydogsproject.github.io">ManyDogs</a></h4>
-        <i></i>
+        <i>An international consortium of researchers interested in canine science</i>
       </div>
     </div>
   </div>
