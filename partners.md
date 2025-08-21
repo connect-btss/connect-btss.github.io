@@ -127,7 +127,7 @@ title: CONNECT partners
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www.cos.io/">Center for Open Science</a></h4>
-        <i></i>
+        <i>An organization to increase openness, integrity, and reproducibility of research</i>
       </div>
     </div>
     <hr>
