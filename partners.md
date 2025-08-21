@@ -94,7 +94,54 @@ title: CONNECT partners
 
 ### Community Partners
 
-* [ABRIR](https://abrirpsy.org/)
-* [Canadian Reproducibility Network](https://carn-recar.ca/)
-* [Center for Open Science](https://www.cos.io/)
-* [Children Helping Science powered by Lookit](https://lookit.mit.edu)
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3" align="center">
+        <br>
+        <br>
+        <a href="https://abrirpsy.org/"><img src="/assets/img/abrir-logo.png" alt="ABRIR logo" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <br>
+        <h4><a href="https://abrirpsy.org/">ABRIR</a></h4>
+        <i>Advancing Big-team Reproducible Science through Increased Representation</i>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://carn-recar.ca/"><img src="/assets/img/carn-logo.png" alt="CaRN logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://carn-recar.ca/">Canadian Reproducibility Network</a></h4>
+        <i>A national peer-led consortium that aims to promote a healthy and vigorous Canadian research ecosystem where all outputs are trustworthy, rigorous, and reproducible</i>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://www.cos.io/"><img src="/assets/img/cos-logo.png" alt="Center for Open Science logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://www.cos.io/">Center for Open Science</a></h4>
+        <i></i>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://childrenhelpingscience.com/"><img src="/assets/img/chs-logo.png" alt="Children Helping Science powered by Lookit logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://childrenhelpingscience.com/">Children Helping Science powered by Lookit</a></h4>
+        <i></i>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
+
