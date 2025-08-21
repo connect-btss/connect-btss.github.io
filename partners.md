@@ -64,6 +64,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://psysciacc.org/"><img src="/assets/img/psa-logo.png" alt="Psychological Science Accelerator logo" width="100"></a>
       </div>
       <div class="col-sm-9">
@@ -74,6 +75,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://www.strengtheningdemocracychallenge.org/"><img src="/assets/img/sdc-logo.png" alt="Strengthening Democracy Challenge logo" width="100"></a>
       </div>
       <div class="col-sm-9">
