@@ -13,6 +13,7 @@ title: CONNECT partners
     <div class="row">
       <div class="col-sm-3" align="center">
         <br>
+        <br>
         <a href="https://manybabies.org/"><img src="/assets/img/manybabies-logo.png" alt="ManyBabies logo" height="100"></a>
       </div>
       <div class="col-sm-9">
@@ -24,6 +25,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" width="100"></a>
       </div>
       <div class="col-sm-9">
@@ -34,6 +36,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://manydogsproject.github.io"><img src="/assets/img/manydogs-logo.png" alt="ManyDogs logo" width="100"></a>
       </div>
       <div class="col-sm-9">
@@ -44,6 +47,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://themanyfishes.github.io/"><img src="/assets/img/manyfishes-logo.png" alt="ManyFishes logo" width="100"></a>
       </div>
       <div class="col-sm-9">
@@ -54,6 +58,7 @@ title: CONNECT partners
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://manyprimates.github.io/"><img src="/assets/img/manyprimates-logo.png" alt="ManyPrimates logo" width="100"></a>
       </div>
       <div class="col-sm-9">
