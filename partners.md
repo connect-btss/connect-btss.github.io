@@ -77,7 +77,7 @@ title: CONNECT partners
         <a href="https://www.strengtheningdemocracychallenge.org/"><img src="/assets/img/sdc-logo.png" alt="Strengthening Democracy Challenge logo" width="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www.strengtheningdemocracychallenge.org/">Strengthening Democracy Challenge]</a></h4>
+        <h4><a href="https://www.strengtheningdemocracychallenge.org/">Strengthening Democracy Challenge</a></h4>
         <i>A collective effort to identify effective interventions to improve Americans' commitment to democratic principles of political engagement</i>
       </div>
     </div>
