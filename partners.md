@@ -62,11 +62,30 @@ title: partners
         <i>Establishing a culture of collaboration in primate cognition research</i>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="https://psysciacc.org/"><img src="/assets/img/psa-logo.png" alt="Psychological Science Accelerator logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://psysciacc.org/">Psychological Science Accelerator</a></h4>
+        <i>A globally distributed network of researchers that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science</i>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="https://www.strengtheningdemocracychallenge.org/"><img src="/assets/img/sdc-logo.png" alt="Strengthening Democracy Challenge logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://www.strengtheningdemocracychallenge.org/">Strengthening Democracy Challenge]</a></h4>
+        <i>A collective effort to identify effective interventions to improve Americans' commitment to democratic principles of political engagement</i>
+      </div>
+    </div>
   </div>
 </section>
 <br>
 
-* [Psychological Science Accelerator](https://psysciacc.org)
 * [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
 
 ### Community Partners
