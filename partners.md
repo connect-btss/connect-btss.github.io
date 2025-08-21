@@ -25,7 +25,7 @@ title: partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>        
-        <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" height="100"></a>
+        <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" width="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="http://themanybirds.com">ManyBirds</a></h4>
