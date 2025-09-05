@@ -25,11 +25,11 @@ This working group conducts metascientific research to understand current proces
 
 ### Infrastructure & Tool Development
 This working group translates research insights into practical solutions by designing, implementing, and refining tools and infrastructure to enhance BTSS efficiency. Current focus areas include developing a data validator tool, and customizable BTSS lab manuals.<br>
-*Working group leads: [Melanie Soderstrom](mailto:melsod@babylanguagelab.org) and [Francis Yuen](mailto:francis.yuen@psych.ubc.ca)*
+***Working group leads:** [Melanie Soderstrom](mailto:melsod@babylanguagelab.org) and [Francis Yuen](mailto:francis.yuen@psych.ubc.ca)*
 
 ### Equity, Diversity, and Inclusion (EDI)
 This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.<br>
-***Our regional outreach coordinators:** TBD* <br>
+***Regional Outreach Coordinators:** TBD* <br>
 ***Working group leads:** [Nadia Corral-Frias](mailto:nadia.corral@unison.mx), [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca), and [Eon-Suk Ko](mailto:eonsuk@gmail.com)*
 
 ### Knowledge Mobilization and Training
