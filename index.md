@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/connect_horizontal-default.png
+cover-img: /assets/img/connect_header.png
 ---
 
 <!--
