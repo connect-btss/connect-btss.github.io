@@ -6,8 +6,8 @@ title: contact
 ## General contact information
 
 * **Project Directors: [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca), [Krista Byers-Heinlein](mailto:k.byers@concordia.ca), & [Melanie Soderstrom](mailto:m.soderstrom@umanitoba.ca)**
-* **Project Coordination Assistants: [Brittany Tsang and Kyra Gorsuch](mailto:connect-admin@manybabies.org)**
 * **Network Coordinator & BiTS Lab Director: [Heidi Baumgartner](mailto:heidib@manybabies.org)**
+* **Project Coordination Assistants: [Brittany Tsang and Kyra Gorsuch](mailto:connect-admin@manybabies.org)**
 * **Project Management Council: [Directors + Coordinators](mailto:connect-pmc@manybabies.org)**
 
 ***
