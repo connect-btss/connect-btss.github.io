@@ -16,5 +16,5 @@ is an [SSHRC](https://sshrc-crsh.canada.ca/en.aspx)-funded [partnership](https:/
 * ### [The composition of our partnership]({{site.baseurl}}/partners/)
 * ### [Our hubs and working groups]({{site.baseurl}}/hubs/)
 * ### [News about CONNECT]({{site.baseurl}}/news/)
-* ### [How to get involved]({{site.baseurl}}/getinvolved/)
+* ### [How to get involved]({{site.baseurl}}/contact/)
 

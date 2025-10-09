@@ -3,11 +3,11 @@ layout: page
 title: events
 ---
 
-> The BiTS Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:partnership@manybabies.org)!
+> The BiTS Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:connect-admin@manybabies.org)!
 
 ***
 
-#### *Upcoming Events*
+#### *Past*
 
 ### October 6-8, 2025 
 ## 2025 Big Team Science Conference

@@ -43,6 +43,6 @@ title: people
 ***
 
 ## Get involved
-We encourage representatives of Big Team Social Science networks to [get involved]({{site.baseurl}}/get_involved/)!
+We encourage representatives of Big Team Social Science networks to [get involved]({{site.baseurl}}/contact/)!
 
 
