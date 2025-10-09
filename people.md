@@ -4,19 +4,19 @@ title: people
 ---
 
 
-## CONNECT Co-Directors
+## Co-Directors
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), ***University of British Columbia, Canada; ManyBabies***
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), ***Concordia University, Canada; ManyBabies***
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), ***University of Manitoba, Canada; ManyBabies***
 
-## CONNECT Network Coordinator and BiTS Lab Director
+## Network Coordinator & BiTS Lab Director
 * [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
 
-## CONNECT Project Coordination Assistants
+## Project Coordination Assistants
 * Brittany Tsang, *University of British Columbia, Canada*
 * Kyra Gorsuch, *University of British Columbia, Canada*
 
-## CONNECT Network Partner Representatives
+## Network Partner Representatives
 * [Drew Altschul](https://www.ed.ac.uk/profile/drewmaltschul), ***University of Edinburgh, UK; ManyPrimates***
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), ***University of Applied Sciences, Germany**; Max Planck Institute for Psycholinguistics, Netherlands; ManyBabies*
 * [Kelly Cobey](https://www.ottawaheart.ca/profile/cobey-kelly), *University of Ottawa, Canada; **Canadian Reproducibility Network***
