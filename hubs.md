@@ -30,7 +30,7 @@ This working group translates research insights into practical solutions by desi
 ### Equity, Diversity, and Inclusion (EDI)
 This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.<br>
 ***Regional Outreach Coordinators:** TBD* <br>
-***Working group leads:** [Nadia Corral-Frias](mailto:nadia.corral@unison.mx), [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca), and [Eon-Suk Ko](mailto:eonsuk@gmail.com)*
+***Working group leads:** [Nadia Corral-Frias](mailto:nadia.corral@unison.mx), [Alma Jeftic](mailto:alma.jeftic@gmail.com), and [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca)*
 
 ### Knowledge Mobilization and Training
 This cross-cutting working group ensures that insights, tools, and best practices reach both network partners and the broader scientific community through peer-reviewed publications, how-to videos and workshops, conference presentations, training opportunities, and coordination between all other working groups.<br>
