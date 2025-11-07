@@ -5,6 +5,9 @@ title: CONNECT events
 
 > The Big Team Science (BiTS) Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:connect-admin@manybabies.org)!
 
+<br>
+
+***
 
 ### November 10, 2025
 ## BiTS Lab autumn meeting
@@ -12,6 +15,8 @@ title: CONNECT events
 Join CONNECT directors, coordinators, and partner representatives for the quarterly meeting of the Big Team Science Lab.
 
 ##### [Link to calendar]({{site.baseurl}}/calendar/)
+
+<br>
 
 
 ***
