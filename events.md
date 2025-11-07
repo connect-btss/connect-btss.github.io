@@ -1,6 +1,6 @@
 ---
 layout: page
-title: events
+title: CONNECT events
 ---
 
 > The Big Team Science (BiTS) Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:connect-admin@manybabies.org)!

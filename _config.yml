@@ -28,6 +28,7 @@ navbar-links:
     - News: "news"
     - Events: "events"
     - Calendar: "calendar"
+    - Publications: "publications"
   Contact: "contact"
 
 ################
