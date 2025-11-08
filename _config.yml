@@ -24,8 +24,8 @@ navbar-links:
     - About CONNECT: "about"
     - Partners: "partners"
     - Hubs & Working Groups: "hubs"
-  Resources:
     - News: "news"
+  Resources:
     - Events: "events"
     - Calendar: "calendar"
     - Publications: "publications"
