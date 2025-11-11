@@ -1,0 +1,19 @@
+# global variables for MB site
+
+### EXAMPLES
+# author:
+#   name: Jane Doe
+#   twitter: janedoe
+# contact_email: jane@example.com
+
+# use them elsewhere like this: {{ site.data.global.author.name }}
+
+  
+contact:
+  general: connect-contact@manybabies.org
+  admin: connect-admin@manybabies.org
+  pmc: connect-pmc@manybabies.org
+  heidi: heidib@manybabies.org
+  
+listserv:
+  connect-all: connect-partners@manybabies.org
