@@ -25,6 +25,6 @@ Join CONNECT directors, coordinators, and partner representatives for the quarte
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
 
-> [Learn more]({{site.baseurl}}/news/2025-10-09-btscon)
+> [Learn more]({{site.baseurl}}/2025-10-09-btscon)
 
 ***
