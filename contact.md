@@ -8,8 +8,8 @@ title: contact
 #### >> General contact: [{{ site.data.global.contact.general }}](mailto:{{ site.data.global.contact.general }}) <<
 * **Project Directors: [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca), [Krista Byers-Heinlein](mailto:k.byers@concordia.ca), & [Melanie Soderstrom](mailto:m.soderstrom@umanitoba.ca)**
 * **Network Coordinator & BiTS Lab Director: [Heidi Baumgartner](mailto:heidib@manybabies.org)**
-* **Project Coordination Assistants: [Brittany Tsang and Kyra Gorsuch](mailto:connect-admin@manybabies.org)**
-* **Project Management Council: [Directors + Coordinators](mailto:connect-pmc@manybabies.org)**
+* **Project Coordination Assistants: [Brittany Tsang and Kyra Gorsuch][{{ site.data.global.contact.admin }}](mailto:{{ site.data.global.contact.admin }})**
+* **Project Management Council: [Directors + Coordinators](mailto:{{ site.data.global.contact.pmc }})**
 
 ***
 
