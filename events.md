@@ -12,11 +12,13 @@ title: events
 ### November 10, 2025
 ## BiTS Lab autumn meeting
 
-**Agenda:** 
-* overview of new resources
-* working group updates
-* goals for tangible actions/working group priorities
-* goals for advocacy to improve Big Team Science 
+<p><b>Agenda:</b></p> 
+<ul style="margin-top:-30px;">
+  <li>overview of new resources</li>
+  <li>working group updates</li>
+  <li>goals for tangible actions/working group priorities</li>
+  <li>goals for advocacy to improve Big Team Science</li>
+</ul>
 
 
 ***
