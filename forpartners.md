@@ -4,7 +4,8 @@ title: CONNECT partner resources
 ---
 
 
-### This page is in development! [Contact us with ideas for partner resources](mailto:{{ site.data.global.contact.general }})
+### This page is in development! 
+[Contact us](mailto:{{ site.data.global.contact.general }})with ideas for partner resources
 
 ***
 
