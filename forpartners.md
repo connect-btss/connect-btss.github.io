@@ -11,8 +11,8 @@ title: CONNECT partner resources
 
 ## Reporting
 
-* CONNECT Deliverables form: https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form
-* Big Team Science Resources form: https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form
+* [CONNECT Deliverables form](https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form)
+* [Big Team Science Resources form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
 
 ***
 
