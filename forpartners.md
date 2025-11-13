@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CONNECT partner resources
+title: partner resources
 ---
 
 
