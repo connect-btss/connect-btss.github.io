@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CONNECT resources
+title: Big Team Science resources
 ---
 
 
