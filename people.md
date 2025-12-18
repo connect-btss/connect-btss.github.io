@@ -31,7 +31,7 @@ title: people
 * [Casey Lew-Willams](https://psych.princeton.edu/person/casey-lew-williams), ***Princeton University, USA**; ManyBabies*
 * [Brianna McMillan](https://www.smith.edu/academics/faculty/brianna-mcmillan), ***Smith College, USA**; ManyBabies*
 * [Rachael Miller (Harrison)](https://www.drrachaelmiller.com/), *University of Cambridge & Anglia Ruskin University, UK; **ManyBirds***
-* [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, USA; **ManyFishes***
+* [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburg State University, USA; **ManyFishes***
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, USA; **ManyDogs***
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Stanford University, USA; **Strengthening Democracy Challenge***
 
