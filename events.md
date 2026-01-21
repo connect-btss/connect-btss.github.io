@@ -7,7 +7,7 @@ title: events
 
 > View CONNECT events on our [calendar]({{site.baseurl}}/calendar/)
 
-> Add your CONNECT-related event to this list via <a href="https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form" target="_blank"><b>THIS FORM</b></a>. 
+> Add your CONNECT-related event via <a href="https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form" target="_blank"><b>THIS FORM</b></a>. 
 
 ***
 
