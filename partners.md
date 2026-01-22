@@ -141,6 +141,17 @@ title: CONNECT partners
         <i>Fascilitating online data collection for a more representative developmental science</i>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://forrt.org/"><img src="/assets/img/forrt-logo.png" alt="FORRT logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://forrt.org/">FORRT</a></h4>
+        <i>Framework for Open and Reproducible Research Training</i>
+      </div>
+    </div>
   </div>
 </section>
 <br>
