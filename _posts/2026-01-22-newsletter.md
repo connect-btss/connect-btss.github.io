@@ -1,0 +1,925 @@
+---
+layout: post
+title: January 2026 newsletter
+tags: [newsletter]
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+      <!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+    body {width: 650px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type="text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 16px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #FEC51D;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><style>
+        h1 {
+            font-family: 'Colfax', sans-serif; /* SendGrid uses Colfax for headings */
+            color: #364362;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        h2 {
+            font-family: 'Colfax', sans-serif;
+            color: #364362;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        /* Add styles for h3, h4, h5, h6 as needed */
+    </style><!--End Head user entered-->
+    </head>
+    <body>
+      <center class="wrapper" data-link-color="#FEC51D" data-body-style="font-size:16px; font-family:arial,helvetica,sans-serif; color:#000000; background-color:#FEC51D;">
+        <div class="webkit">
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#FEC51D">
+            <tr>
+              <td valign="top" bgcolor="#FEC51D" width="100%">
+                <table width="100%" role="content-container" class="outer" align="center" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td width="100%">
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width="650">
+  <![endif]-->
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:650px;" align="center">
+                                      <tr>
+                                        <td role="modules-container" style="padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor="#ffffff" width="100%" align="left"><table class="module preheader preheader-hide" role="module" data-type="preheader" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+    <tr>
+      <td role="module-content">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="dab976a1-333c-4b80-94b4-317609c4d68f" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:5px; text-align:inherit; background-color:#FEC51D;" height="100%" valign="top" bgcolor="#FEC51D" role="module-content"><div><div color="rgb(236, 72, 1)" style="font-family: inherit; text-align: right; color: rgb(236, 72, 1)"><a href="{{Weblink}}"><em>View in browser</em></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="d49e18a9-927d-4e50-a9e2-8bac0cfecf21" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:6px 0px 10px 0px; line-height:20px; text-align:inherit; background-color:#FEC51D;" height="100%" valign="top" bgcolor="#FEC51D" role="module-content"><div><div style="font-family: Colfax, sans-serif; text-align: right"><span style="font-size: 24px; font-family: Colfax, sans-serif; color: #364362"><strong>January 2026</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="17a6336a-7b00-4c0b-832f-5f5b012fce32">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          
+        <a href="https://connect-btss.github.io/"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="650" alt="CONNECT newsletter" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/c85ef8f8-9e6d-4dd0-9dee-efd06c439b41/3380x795.png"></a></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="5px" style="line-height:5px; font-size:5px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 5px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b6b388a9-7f3d-4d36-b947-37da2b31081b" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 10px; line-height:40px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><h1 style="text-align: inherit"><span style="font-family: inherit">Welcome!</span></h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 10px 0px 10px;" bgcolor="" data-distribution="1">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="610" style="width:610px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="969ddad9-00a2-4b0a-b96e-659518f25fa3" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 10px; line-height:24px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><strong>This is the inaugural issue of the CONNECT newsletter</strong>, in which we will aim to provide information about the work of the partnership and share announcements about events and opportunities. Please <strong>share relevant info with your networks</strong> and <strong>help us improve future issues</strong> by sending suggestions to <a href="mailto:connect-contact@manybabies.org?subject=&amp;body="><strong>connect-contact@manybabies.org</strong></a>. Thank you for your interest in our partnership as we work towards a more connected future for Big Team Social Science!</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="969ddad9-00a2-4b0a-b96e-659518f25fa3.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:20px 0px 10px 0px; line-height:24px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #364362"><strong>What is CONNECT?&nbsp;</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="969ddad9-00a2-4b0a-b96e-659518f25fa3.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 10px; line-height:24px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><strong>CONNECT </strong><em>(Coordinated Network of Networks for Enhancing Collaborative Teams)</em> is an <a href="https://sshrc-crsh.canada.ca/en.aspx"><strong>SSHRC</strong></a>-funded partnership that unites <span style="color: #ec4801"><strong>four community partners</strong></span> and <span style="color: #0ca6d6"><strong>seven Big Team Social Science (BTSS) networks</strong></span> comprising more than 3,500 researchers from over 70 countries. Our mission is to apply a network-of-networks approach to understand and solve the unique challenges of large-scale social science research, making it more reliable, inclusive, and impactful. Learn more on our <a href="https://connect-btss.github.io/"><strong>website</strong></a>.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="9cd455ab-e481-47f3-87c3-88e06ea27bbd">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 10px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="NaN" alt="" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/1330460b-72c6-4517-a877-5ed70cd7fcb7/1920x1080.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="3px" style="line-height:3px; font-size:3px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 3px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b6b388a9-7f3d-4d36-b947-37da2b31081b.2" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 10px 10px; line-height:40px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><h1 style="text-align: inherit">Working Group Updates</h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="0712d919-6a08-408b-b388-e174c1ed9e30">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="142" alt="" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/a23459c3-186d-413b-9942-b9e5dbd8c00e/2099x2392.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="31c07ce8-2011-4073-8853-e820c8bc0cda" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #0ca6d6"><strong>Metascience</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="a2cdf4e6-441d-474e-a38e-d53417a47081" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit">The Metascience team is examining team assessment methodologies from organizational psychology and other relevant fields and is actively developing an instrument to evaluate BTS workflows and team experiences.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 30px 10px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="0712d919-6a08-408b-b388-e174c1ed9e30.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="142" alt="" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/55798436-aeea-4075-b164-a8301b65392c/2099x2392.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="31c07ce8-2011-4073-8853-e820c8bc0cda.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #ec4801"><strong>Tools &amp; Infrastructure</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="e6cf4624-5011-4d32-9ac8-77e334a2af67" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit">Currently, the TI working group is generating a data validator, as well as collecting a pre/post survey comparison of collaboration tools for Big Team Science.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.4">
+    <tbody>
+      <tr>
+        <td style="padding:10px 30px 10px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 20px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="0712d919-6a08-408b-b388-e174c1ed9e30.1.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="142" alt="" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/8e319648-ae44-4bd9-92a0-55edfa317ddd/2099x2392.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="31c07ce8-2011-4073-8853-e820c8bc0cda.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #fec51d"><strong>Equity, Diversity, &amp; Inclusion</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="fe28a04d-7a14-4c92-b469-30e1e2aec1c4" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit">This group has drafted a proposal for a special issue on EDI in Big Team Science. It will be an open call for articles centered around Justice, Equity, Diversity, Inclusion (JEDI) in multisite and international collaborative research.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0.1.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="3px" style="line-height:3px; font-size:3px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 3px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b6b388a9-7f3d-4d36-b947-37da2b31081b.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 10px; line-height:40px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><h1 style="text-align: inherit">Events</h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="64949416-3bab-4f31-bf9a-df88b6966d36.1.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:20px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:75% !important; width:75%; height:auto !important;" width="107" alt="Jan 27" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/b04d58bb-2c45-4cbd-9959-c245c2359f64/2341x2343.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="bc187f8f-f301-439f-ac52-ffcf133e6fae.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><em>ManyManys and CONNECT present:&nbsp;</em></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="cecc6f7c-ba46-4788-9e7b-0dbbf297f89c.2.2" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #0ca6d6"><strong>What’s the use of preregistration for Big Team Science?</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="cecc6f7c-ba46-4788-9e7b-0dbbf297f89c.2.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px; line-height:20px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 18px"><strong>Daniël Lakens, </strong></span><span style="font-size: 18px"><em><strong>Eindhoven University of Technology</strong></em></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed;" width="100%" data-muid="72aa3681-77b7-4727-a5d8-d446e020df12.1.1">
+      <tbody>
+        <tr>
+          <td align="left" bgcolor="" class="outer-td" style="padding:0px 0px 0px 0px;">
+            <table border="0" cellpadding="0" cellspacing="0" class="wrapper-mobile" style="text-align:center;">
+              <tbody>
+                <tr>
+                <td align="center" bgcolor="#0CA6D6" class="inner-td" style="border-radius:6px; font-size:16px; text-align:left; background-color:inherit;">
+                  <a href="https://manymanys.github.io/2026-01-12-preregistration-webinar/" style="background-color:#0CA6D6; border:0px solid #333333; border-color:#333333; border-radius:6px; border-width:0px; color:#ffffff; display:inline-block; font-size:16px; font-weight:normal; letter-spacing:1px; line-height:normal; padding:12px 18px 12px 18px; text-align:center; text-decoration:none; border-style:solid;" target="_blank">Learn more and register</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.2">
+    <tbody>
+      <tr>
+        <td style="padding:20px 30px 20px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="64949416-3bab-4f31-bf9a-df88b6966d36.2">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:20px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:75% !important; width:75%; height:auto !important;" width="107" alt="Feb 17" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/9c86eeb9-5dba-4135-b4fd-1bf0e6618b19/2340x2341.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="bc187f8f-f301-439f-ac52-ffcf133e6fae.2.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><em>Canadian Reproducibility Network presents:&nbsp;</em></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="cecc6f7c-ba46-4788-9e7b-0dbbf297f89c.3" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:30px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 20px; color: #0ca6d6"><strong>Responsible Research Assessment of Faculty and Staff: Maximizing Trust, Reproducibility, and Rigor in Research-Performing Organizations</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="cecc6f7c-ba46-4788-9e7b-0dbbf297f89c.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px; line-height:23px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 18px"><strong>David Moher, </strong></span><span style="font-size: 18px"><em><strong>Ottawa Hospital Research Institute</strong></em></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" class="module" data-role="module-button" data-type="button" role="module" style="table-layout:fixed;" width="100%" data-muid="72aa3681-77b7-4727-a5d8-d446e020df12.2">
+      <tbody>
+        <tr>
+          <td align="left" bgcolor="" class="outer-td" style="padding:0px 0px 0px 0px;">
+            <table border="0" cellpadding="0" cellspacing="0" class="wrapper-mobile" style="text-align:center;">
+              <tbody>
+                <tr>
+                <td align="center" bgcolor="#0CA6D6" class="inner-td" style="border-radius:6px; font-size:16px; text-align:left; background-color:inherit;">
+                  <a href="https://events.teams.microsoft.com/event/38e4048a-ef7a-4cff-9758-e6da6d8697f8@c2be8ded-1394-4718-a0c8-7e4def7e39ec" style="background-color:#0CA6D6; border:0px solid #333333; border-color:#333333; border-radius:6px; border-width:0px; color:#ffffff; display:inline-block; font-size:16px; font-weight:normal; letter-spacing:1px; line-height:normal; padding:12px 18px 12px 18px; text-align:center; text-decoration:none; border-style:solid;" target="_blank">Learn more and register</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.2.1">
+    <tbody>
+      <tr>
+        <td style="padding:20px 30px 20px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 0px 0px 0px;" bgcolor="#FFFFFF" data-distribution="1">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="630" style="width:630px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="c8a448da-bc91-4bda-ad88-e5cd2ea07fd6" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 30px 18px 30px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: center"><span style="font-size: 16px"><em>To view all upcoming events, check out our </em></span><a href="https://connect-btss.github.io/events/"><span style="font-size: 16px"><em><strong>events page</strong></em></span></a><span style="font-size: 16px"><em> and </em></span><a href="https://connect-btss.github.io/calendar/"><span style="font-size: 16px"><em><strong>calendar</strong></em></span></a><span style="font-size: 16px"><em>.&nbsp;</em></span></div>
+<div style="font-family: inherit; text-align: center"><em>If you would like to share information about an upcoming event, </em><a href="https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form"><em><strong>fill out this form</strong></em></a><em><strong> </strong></em><em>or </em><a href="mailto:connect-contact@manybabies.org?subject=&amp;body="><em><strong>email us</strong></em></a><em>.</em></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0.1.1.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="3px" style="line-height:3px; font-size:3px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 3px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b6b388a9-7f3d-4d36-b947-37da2b31081b.1.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 10px 10px; line-height:40px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><h1 style="text-align: inherit">Partner Updates</h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="eca7a9b6-1cfd-46c1-a687-cb78a113ac85">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          
+        <a href="https://themanyfishes.github.io/"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="142" alt="ManyFishes logo" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/9e8e0ffb-54ae-4a50-a925-0ec61385a2a2/941x940.png"></a></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="54f047ce-b34e-47d7-b268-633a690818a9" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 8px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit">The <strong>ManyFishes</strong> collaboration is thrilled to share that its first paper entitled "<a href="https://doi.org/10.1007/s10071-025-02031-3"><strong>ManyFishes: a big team science collaboration on fish comparative cognition</strong></a>" has just been accepted for publication in <em>Animal Cognition</em>. This is a fully open-access review article that is part of a special collection on the diversity of fish cognition.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="28419259-2aee-4db4-b56e-c1c31e920463">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="427" alt="" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/2b8d7e99-d5db-4b47-8699-3a807b6d84c0/1040x495.png">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="0d8ef528-f8ab-44cc-90af-1d33a9473ebc" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: center"><em>ManyFishes authors around the world</em></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.2.2">
+    <tbody>
+      <tr>
+        <td style="padding:20px 30px 20px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 20px 30px;" bgcolor="#FFFFFF" data-distribution="1,3">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="142" style="width:142px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="eca7a9b6-1cfd-46c1-a687-cb78a113ac85.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          
+        <a href="https://manybabies.org/"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; width:100%; height:auto !important;" width="142" alt="ManyBabies logo" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/0e16a359-612a-454d-91f5-6807e2dea257/767x767.png"></a></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="427" style="width:427px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="54f047ce-b34e-47d7-b268-633a690818a9.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><strong>ManyBabies</strong> recently launched its newest project, <a href="https://manybabies.org/MB7/"><strong>ManyBabies 7: Curiosity</strong></a>! Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list"><strong>MB7 listserv</strong></a><strong> </strong>to receive info about upcoming events.&nbsp;</div>
+<div style="font-family: inherit; text-align: inherit"><br></div>
+<div style="font-family: inherit; text-align: inherit"><a href="https://manybabies.org/MB5/"><strong>MB5</strong></a> is gearing up for data collection and held a pair of project info sessions in December.</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0.1.1.1.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="3px" style="line-height:3px; font-size:3px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 3px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b6b388a9-7f3d-4d36-b947-37da2b31081b.1.1.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 0px 0px 10px; line-height:40px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><h1 style="text-align: inherit">Reminders</h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,2">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="190" style="width:190px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="9d8d2241-1d13-4091-a2df-92d8e4ed904e">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          
+        <a href="https://bsky.app/profile/connect-btss.bsky.social"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:50% !important; width:50%; height:auto !important;" width="95" alt="bluesky logo (white butterfly in blue circle)" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/02335bb5-c4ed-44ff-8036-6b98b156a4ab/225x225.png"></a></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="380" style="width:380px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="61d2995c-3fa5-4cf4-8ed3-e2bd8c3d176b" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 18px">Follow us on Bluesky!&nbsp;</span></div>
+<div style="font-family: inherit; text-align: inherit"><a href="https://bsky.app/profile/connect-btss.bsky.social"><span style="font-size: 18px"><strong>@connect-btss.bsky.social</strong></span></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.2.2.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 30px 10px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 0px 30px;" bgcolor="#FFFFFF" data-distribution="1,2">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="190" style="width:190px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="9d8d2241-1d13-4091-a2df-92d8e4ed904e.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          
+        <a href="https://www.linkedin.com/company/connect-partnership/"><img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:50% !important; width:50%; height:auto !important;" width="95" alt="linkedIn logo (white &quot;in&quot; inside blue square)" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/2d6ca968-f620-4994-ae1e-cc8444b36f13/960x960.png"></a></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="380" style="width:380px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="61d2995c-3fa5-4cf4-8ed3-e2bd8c3d176b.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 18px">Connect with us on LinkedIn</span></div>
+<div style="font-family: inherit; text-align: inherit"><a href="https://www.linkedin.com/company/connect-partnership/"><span style="font-size: 18px"><strong>Connect partnership</strong></span></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="77afd9e4-bb86-4924-864b-c57ebbd89ab1.2.2.1.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 30px 10px 30px;" role="module-content" height="100%" valign="top" bgcolor="">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="1px" style="line-height:1px; font-size:1px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 1px 0px;" bgcolor="#FEC51D"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="module" data-type="columns" style="padding:0px 30px 20px 30px;" bgcolor="#FFFFFF" data-distribution="1,2">
+    <tbody>
+      <tr role="module-content">
+        <td height="100%" valign="top"><table width="190" style="width:190px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 0px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-0">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="wrapper" role="module" data-type="image" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="9d8d2241-1d13-4091-a2df-92d8e4ed904e.1.1">
+    <tbody>
+      <tr>
+        <td style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;" valign="top" align="center">
+          <img class="max-width" border="0" style="display:block; color:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px; max-width:50% !important; width:50%; height:auto !important;" width="95" alt="connect logo" data-proportionally-constrained="true" data-responsive="true" src="http://cdn.mcauto-images-production.sendgrid.net/22c61e97d426e2db/22dd6cf7-c989-45a8-98ff-8a38f08b1d77/636x636.png">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width="380" style="width:380px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="" class="column column-1">
+      <tbody>
+        <tr>
+          <td style="padding:0px;margin:0px;border-spacing:0;"><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="61d2995c-3fa5-4cf4-8ed3-e2bd8c3d176b.1.1" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: inherit"><span style="font-size: 18px">Help us track CONNECT deliverables (e.g., events, publications, tools) using </span><a href="https://airtable.com/appMCLqgWxKrCa1Ga/pagCIfg3ltK3PBfxN/form"><span style="font-size: 18px"><strong>THIS FORM</strong></span></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="divider" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="b9a9e079-e77a-4a84-b00d-30bf9e5ff0a0.1.1.1.1.1">
+    <tbody>
+      <tr>
+        <td style="padding:10px 0px 10px 0px;" role="module-content" height="100%" valign="top" bgcolor="#FEC51D">
+          <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" height="3px" style="line-height:3px; font-size:3px;">
+            <tbody>
+              <tr>
+                <td style="padding:0px 0px 3px 0px;" bgcolor="#364362"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="code" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="7b80be26-54c3-4c2a-ac69-98cde72cb4ae">
+    <tbody>
+      <tr>
+        <td height="100%" valign="top" role="module-content"><table class="module" role="module" data-type="social" align="center" border="0" cellpadding="10" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="9b3ced72-b2c5-4e3d-a599-8f2ac126b2d4">
+    <tbody>
+      <tr>
+        <td valign="top" style="padding:20px 0px 0px 0px; font-size:6px; line-height:10px;" align="center">
+          <table align="center" style="-webkit-margin-start:auto;-webkit-margin-end:auto;">
+            <tbody><tr align="center"><td style="padding: 0px 5px;" class="social-icon-column">
+      <a role="social-icon-link" href="https://bsky.app/profile/connect-btss.bsky.social" target="_blank" alt="Bluesky" title="Bluesky" style="display:inline-block; background-color:#FFFFFF; height:21px; width:21px;">
+        <img role="social-icon" alt="Bluesky" title="Bluesky" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPCWbgYV6Iq1wazuacc1rBLZY5omnCkH3PA&s" style="height:21px; width:21px;" height="21" width="21">
+      </a>
+        </td>
+        <td style="padding: 0px 5px;" class="social-icon-column">
+      <a role="social-icon-link" href="https://www.linkedin.com/in/connect-partnership-2804a4392/" target="_blank" alt="LinkedIn" title="LinkedIn" style="display:inline-block; background-color:#0077B5; height:21px; width:21px;">
+        <img role="social-icon" alt="LinkedIn" title="LinkedIn" src="https://mc.sendgrid.com/assets/social/white/linkedin.png" style="height:21px; width:21px;" height="21" width="21">
+      </a>
+        </td>
+        <td style="padding: 0px 5px;" class="social-icon-column">
+      <a role="social-icon-link" href="https://connect-btss.github.io/calendar/" target="_blank" alt="Calendar" title="Calendar" style="display:inline-block; background-color:#FFFFFF; height:21px; width:21px;">
+        <img role="social-icon" alt="calendar" title="calendar" src="https://cdn-icons-png.flaticon.com/512/1067/1067374.png" style="height:21px; width:21px;" height="21" width="21">
+      </a>
+        </td>
+      </tr>
+    </tbody>
+</table>
+
+<br>
+
+<div style="font-family: inherit; text-align: center"><a href="https://connect-btss.github.io/"><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-size: 14px; font-family: &quot;lucida sans unicode&quot;, &quot;lucida grande&quot;, sans-serif"><strong>connect-btss.github.io</strong></span></a><span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline; font-size: 14px; font-family: &quot;lucida sans unicode&quot;, &quot;lucida grande&quot;, sans-serif"> | </span><a href="mailto:connect-contact@manybabies.org?subject=&amp;body="><span style="font-size: 14px; font-family: &quot;lucida sans unicode&quot;, &quot;lucida grande&quot;, sans-serif">connect-contact@manybabies.org</span></a>
+</div>  </td></tr></tbody></table></td>
+      </tr>
+    </tbody>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="d91e731a-da64-44f1-9333-3644dc51bb15" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:0px 10px 18px 10px; line-height:23px; text-align:inherit; background-color:#FFFFFF;" height="100%" valign="top" bgcolor="#FFFFFF" role="module-content"><div><h3 style="text-align: center">If you have an announcement or update you would like included in a future issue, fill out <a href="https://airtable.com/appMCLqgWxKrCa1Ga/pagzobYUOMutT3Jz8/form">THIS FORM</a> or <a href="mailto:connect-contact@manybabies.org?subject=&amp;body=">email us</a>!</h3>
+<div style="font-family: inherit; text-align: center"><span style="font-size: 14px; font-family: &quot;lucida sans unicode&quot;, &quot;lucida grande&quot;, sans-serif">Was this newsletter forwarded to you? </span><a href="https://cdn.forms-content-1.sg-form.com/1855377c-b813-11ef-afcf-cab0a44ab651"><span style="font-size: 14px; font-family: &quot;lucida sans unicode&quot;, &quot;lucida grande&quot;, sans-serif"><strong>Subscribe now</strong></span></a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    </body>
+  </html>
