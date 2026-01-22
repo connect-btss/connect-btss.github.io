@@ -145,7 +145,7 @@ title: CONNECT partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://forrt.org/"><img src="/assets/img/forrt-logo.png" alt="FORRT logo" width="100"></a>
+        <a href="https://forrt.org/"><img src="/assets/img/forrt-logo.png" alt="FORRT logo" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://forrt.org/">FORRT</a></h4>
