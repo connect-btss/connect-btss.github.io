@@ -112,7 +112,7 @@ title: CONNECT partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://carn-recar.ca/"><img src="/assets/img/carn-logo.jpeg" alt="CaRN logo" height="100"></a>
+        <a href="https://carn-recar.ca/"><img src="/assets/img/carn-logo.jpeg" alt="CaRN logo" width="125"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://carn-recar.ca/">Canadian Reproducibility Network</a></h4>
@@ -123,7 +123,7 @@ title: CONNECT partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://www.cos.io/"><img src="/assets/img/cos-logo.png" alt="Center for Open Science logo" height="100"></a>
+        <a href="https://www.cos.io/"><img src="/assets/img/cos-logo.png" alt="Center for Open Science logo" width="125"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www.cos.io/">Center for Open Science</a></h4>
@@ -134,7 +134,7 @@ title: CONNECT partners
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="https://childrenhelpingscience.com/"><img src="/assets/img/chs-logo.png" alt="Children Helping Science powered by Lookit logo" width="100"></a>
+        <a href="https://childrenhelpingscience.com/"><img src="/assets/img/chs-logo.png" alt="Children Helping Science powered by Lookit logo" width="125"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://childrenhelpingscience.com/">Children Helping Science powered by Lookit</a></h4>
