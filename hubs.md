@@ -31,7 +31,7 @@ The BiTS Lab serves as our primary collaborative space where partners collective
         <br>
         <h4><a href="">Metascience working group</a></h4>
         <i>This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.</i><br>
-        <b>Working group leads:</b> [Krista Byers-Heinlein](mailto:k.byers@concordia.ca) and [Nicolás Alessandroni](mailto:nicolas.alessandroni@concordia.ca)
+        <b>Working group leads:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a>
       </div>
     </div>
     <hr>
