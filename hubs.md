@@ -38,7 +38,7 @@ The BiTS Lab serves as our primary collaborative space where partners collective
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href=""><img src="/assets/img/connect-ti.png" alt="CONNECT Tools & Infrastructure working group" width="100"></a>
+        <a href=""><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group" width="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="">Tools & Infrastructure working group</a></h4>
@@ -50,7 +50,7 @@ The BiTS Lab serves as our primary collaborative space where partners collective
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href=""><img src="/assets/img/connect-edi.png" alt="CONNECT Equity, Diversity, & Inclusion working group" width="100"></a>
+        <a href=""><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group" width="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="">Equity, Diversity, & Inclusion working group</a></h4>
