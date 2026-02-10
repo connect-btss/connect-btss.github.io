@@ -3,12 +3,14 @@ layout: page
 title: Metascience working group
 ---
 
+<img src="/assets/img/connect-metasci.png" width="300"/>
+
 
 <div class="container">
   <div class="row justify-content-around">
     <div class="col-lg-4" align="center">
       <br>
-      <img src="/assets/img/connect-metasci.png" width="150">
+      <img src="/assets/img/connect-metasci.png">
     </div>
     <div class="col-lg-8" align="left">
       <h3>Summary:</h3>
@@ -17,6 +19,7 @@ title: Metascience working group
   </div>
 </div>
 
+<br>
 
 ## Metascience working group members
 
