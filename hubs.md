@@ -7,6 +7,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
 
 <img src="/assets/img/connect-structure.png" />
 
+***
 
 ## Research Hubs
 
