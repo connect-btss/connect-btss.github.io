@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<br>
 
 <div class="container">
   <div class="row justify-content-around">
@@ -10,6 +11,8 @@ layout: page
     </div>
   </div>
 </div>
+
+<br>
 
 ## Metascience working group overview:
 This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.
