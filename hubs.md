@@ -50,7 +50,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="">Metascience working group</a></h3>
+        <h3><a href="">Metascience</a></h3>
         This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.<br>
         <b>Leads:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a>
       </div>
@@ -62,7 +62,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="">Tools & Infrastructure working group</a></h3>
+        <h3><a href="">Tools & Infrastructure</a></h3>
         This working group translates research insights into practical solutions by designing, implementing, and refining tools and infrastructure to enhance BTSS efficiency. Current focus areas include developing a data validator tool, and customizable BTSS lab manuals.<br>
         <b>Leads:</b> <a href="mailto:melsod@babylanguagelab.org">Melanie Soderstrom</a> and <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>
       </div>
@@ -74,7 +74,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="">Equity, Diversity, & Inclusion working group</a></h3>
+        <h3><a href="">Equity, Diversity, & Inclusion</a></h3>
         This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.<br>
         <b>Leads:</b> <a href="mailto:nadia.corral@unison.mx">Nadia Corral-Frias</a>, <a href="mailto:alma.jeftic@gmail.com">Alma Jeftic</a>, and <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
       </div>
