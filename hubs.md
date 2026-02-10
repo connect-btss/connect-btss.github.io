@@ -55,7 +55,7 @@ The BiTS Lab serves as our primary collaborative space where partners collective
       <div class="col-sm-9">
         <h4><a href="">Equity, Diversity, & Inclusion working group</a></h4>
         <i>This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.</i><br>
-        <b>Leads:</b> [Nadia Corral-Frias](mailto:nadia.corral@unison.mx), [Alma Jeftic](mailto:alma.jeftic@gmail.com), and [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca)
+        <b>Leads:</b> <a href="mailto:nadia.corral@unison.mx">Nadia Corral-Frias</a>, <a href="mailto:alma.jeftic@gmail.com">Alma Jeftic</a>, and <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
       </div>
     </div>
   </div>
