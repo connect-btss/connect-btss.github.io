@@ -20,5 +20,5 @@ title: Metascience working group
 
 ## Metascience working group members
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrABqMvFfS16esJx?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrABqMvFfS16esJx?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
