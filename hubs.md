@@ -18,7 +18,6 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href="https://bigteamsciencelab.github.io/"><img src="/assets/img/BiTS-logo.png" alt="Big Team Science Lab logo"></a>
       </div>
       <div class="col-sm-9">
-        <br>
         <h4><a href="https://bigteamsciencelab.github.io/">Big Team Science (BiTS) Lab</a></h4>
         <p>The BiTS Lab serves as our primary collaborative space where partners collectively conduct participatory action research on BTSS infrastructure and best practices. The BiTS Lab brings together all network partners, community partners, and academic collaborators through quarterly meetings to share expertise, identify common challenges, test collaborative solutions, and develop novel tools where gaps exist. The BiTS Lab also organizes Research Summits for intensive in-person collaboration and coordinates activities across all working groups.</p>
       </div>
@@ -38,7 +37,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
 </section>
 <br>
 
-
+***
 
 ## Working Groups
 
@@ -50,7 +49,6 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
-        <br>
         <h4><a href="">Metascience working group</a></h4>
         <i>This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.</i><br>
         <b>Leads:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a>
