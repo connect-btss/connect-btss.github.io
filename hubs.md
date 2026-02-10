@@ -10,11 +10,34 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
 
 ## Research Hubs
 
-### Big Team Science (BiTS) Lab
-The BiTS Lab serves as our primary collaborative space where partners collectively conduct participatory action research on BTSS infrastructure and best practices. The BiTS Lab brings together all network partners, community partners, and academic collaborators through quarterly meetings to share expertise, identify common challenges, test collaborative solutions, and develop novel tools where gaps exist. The BiTS Lab also organizes Research Summits for intensive in-person collaboration and coordinates activities across all working groups.
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3" align="center">
+        <br>
+        <a href="https://bigteamsciencelab.github.io/"><img src="/assets/img/BiTS-logo.png" alt="Big Team Science Lab logo"></a>
+      </div>
+      <div class="col-sm-9">
+        <br>
+        <h4><a href="https://bigteamsciencelab.github.io/">Big Team Science (BiTS) Lab</a></h4>
+        <p>The BiTS Lab serves as our primary collaborative space where partners collectively conduct participatory action research on BTSS infrastructure and best practices. The BiTS Lab brings together all network partners, community partners, and academic collaborators through quarterly meetings to share expertise, identify common challenges, test collaborative solutions, and develop novel tools where gaps exist. The BiTS Lab also organizes Research Summits for intensive in-person collaboration and coordinates activities across all working groups.</p>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://manymanys.github.io/"><img src="/assets/img/manymanys-square.png" alt="ManyManys logo"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manymanys.github.io/">ManyManys</a></h4>
+        <p>ManyManys represents an unprecedented cross-species collaboration where our network partners unite to conduct joint empirical BTSS projects. This hub focuses on developing novel approaches to studying cognitive skills like across multiple social species simultaneously. The multidisciplinary nature of comparative research maximizes methodological variation that must be resolved for effective science, making ManyManys both a groundbreaking research initiative and a robust testing ground for innovative BTSS workflows. ManyManys is designed to expand significantly and evolve into a self-sustaining independent network.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
 
-### ManyManys
-[ManyManys](https://manymanys.github.io/) represents an unprecedented cross-species collaboration where our network partners unite to conduct joint empirical BTSS projects. This hub focuses on developing novel approaches to studying cognitive skills like across multiple social species simultaneously. The multidisciplinary nature of comparative research maximizes methodological variation that must be resolved for effective science, making ManyManys both a groundbreaking research initiative and a robust testing ground for innovative BTSS workflows. ManyManys is designed to expand significantly and evolve into a self-sustaining independent network.
 
 
 ## Working Groups
