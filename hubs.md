@@ -18,8 +18,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href="https://bigteamsciencelab.github.io/"><img src="/assets/img/BiTS-logo.png" alt="Big Team Science Lab logo"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://bigteamsciencelab.github.io/">Big Team Science (BiTS) Lab</a></h4>
-        <p>The BiTS Lab serves as our primary collaborative space where partners collectively conduct participatory action research on BTSS infrastructure and best practices. The BiTS Lab brings together all network partners, community partners, and academic collaborators through quarterly meetings to share expertise, identify common challenges, test collaborative solutions, and develop novel tools where gaps exist. The BiTS Lab also organizes Research Summits for intensive in-person collaboration and coordinates activities across all working groups.</p>
+        <h3><a href="https://bigteamsciencelab.github.io/">Big Team Science (BiTS) Lab</a></h3>
+        The BiTS Lab serves as our primary collaborative space where partners collectively conduct participatory action research on BTSS infrastructure and best practices. The BiTS Lab brings together all network partners, community partners, and academic collaborators through quarterly meetings to share expertise, identify common challenges, test collaborative solutions, and develop novel tools where gaps exist. The BiTS Lab also organizes Research Summits for intensive in-person collaboration and coordinates activities across all working groups.<br>
       </div>
     </div>
     <hr>
@@ -29,8 +29,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href="https://manymanys.github.io/"><img src="/assets/img/manymanys-square.png" alt="ManyManys logo"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://manymanys.github.io/">ManyManys</a></h4>
-        <p>ManyManys represents an unprecedented cross-species collaboration where our network partners unite to conduct joint empirical BTSS projects. This hub focuses on developing novel approaches to studying cognitive skills like across multiple social species simultaneously. The multidisciplinary nature of comparative research maximizes methodological variation that must be resolved for effective science, making ManyManys both a groundbreaking research initiative and a robust testing ground for innovative BTSS workflows. ManyManys is designed to expand significantly and evolve into a self-sustaining independent network.</p>
+        <h3><a href="https://manymanys.github.io/">ManyManys</a></h3>
+        ManyManys represents an unprecedented cross-species collaboration where our network partners unite to conduct joint empirical BTSS projects. This hub focuses on developing novel approaches to studying cognitive skills like across multiple social species simultaneously. The multidisciplinary nature of comparative research maximizes methodological variation that must be resolved for effective science, making ManyManys both a groundbreaking research initiative and a robust testing ground for innovative BTSS workflows. ManyManys is designed to expand significantly and evolve into a self-sustaining independent network.<br>
       </div>
     </div>
   </div>
@@ -49,8 +49,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="">Metascience working group</a></h4>
-        <i>This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.</i><br>
+        <h3><a href="">Metascience working group</a></h3>
+        This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.<br>
         <b>Leads:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a>
       </div>
     </div>
@@ -61,8 +61,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="">Tools & Infrastructure working group</a></h4>
-        <i>This working group translates research insights into practical solutions by designing, implementing, and refining tools and infrastructure to enhance BTSS efficiency. Current focus areas include developing a data validator tool, and customizable BTSS lab manuals.</i><br>
+        <h3><a href="">Tools & Infrastructure working group</a></h3>
+        This working group translates research insights into practical solutions by designing, implementing, and refining tools and infrastructure to enhance BTSS efficiency. Current focus areas include developing a data validator tool, and customizable BTSS lab manuals.<br>
         <b>Leads:</b> <a href="mailto:melsod@babylanguagelab.org">Melanie Soderstrom</a> and <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>
       </div>
     </div>
@@ -73,8 +73,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="">Equity, Diversity, & Inclusion working group</a></h4>
-        <i>This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.</i><br>
+        <h3><a href="">Equity, Diversity, & Inclusion working group</a></h3>
+        This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.<br>
         <b>Leads:</b> <a href="mailto:nadia.corral@unison.mx">Nadia Corral-Frias</a>, <a href="mailto:alma.jeftic@gmail.com">Alma Jeftic</a>, and <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
       </div>
     </div>
