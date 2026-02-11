@@ -31,4 +31,4 @@ This working group translates research insights into practical solutions by desi
 
 > **Leads: <a href="mailto:melsod@babylanguagelab.org">Melanie Soderstrom</a> and <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>** 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrdPnglQoejOt2jV?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrdPnglQoejOt2jV?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
