@@ -52,7 +52,6 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}/metascience/">Metascience</a></h3>
         This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.<br>
-        <i><b>Leads:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a></i>
       </div>
     </div>
     <hr>
