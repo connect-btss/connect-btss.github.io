@@ -23,7 +23,7 @@ This working group conducts metascientific research to understand current proces
 
 ## Projects
 * Examining team assessment methodologies from organizational psychology and other relevant fields 
-* Actively developing an instrument to evaluate BTS workflows and team experiences.
+* Developing an instrument to evaluate BTS workflows and team experiences
 
 ***
 

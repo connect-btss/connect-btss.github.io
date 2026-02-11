@@ -50,6 +50,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href="{{site.baseurl}}/metascience/"><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h3><a href="{{site.baseurl}}/metascience/">Metascience</a></h3>
       </div>
     </div>
@@ -60,9 +61,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href=""><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h3><a href="">Tools & Infrastructure</a></h3>
-        This working group translates research insights into practical solutions by designing, implementing, and refining tools and infrastructure to enhance BTSS efficiency. Current focus areas include developing a data validator tool, and customizable BTSS lab manuals.<br>
-        <i><b>Leads:</b> <a href="mailto:melsod@babylanguagelab.org">Melanie Soderstrom</a> and <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a></i>
       </div>
     </div>
     <hr>
@@ -72,6 +72,7 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
         <a href="{{site.baseurl}}/edi/"><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
       </div>
       <div class="col-sm-9">
+        <br>
         <h3><a href="{{site.baseurl}}/edi/">Equity, Diversity, & Inclusion</a></h3>
       </div>
     </div>
