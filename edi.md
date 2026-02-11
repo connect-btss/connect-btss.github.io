@@ -32,5 +32,5 @@ This working group promotes inclusivity across all aspects of BTSS, development 
 
 > **Leads: <a href="mailto:nadia.corral@unison.mx">Nadia Corral-Frias</a>, <a href="mailto:alma.jeftic@gmail.com">Alma Jeftic</a>, and <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>** 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrTnjG4VBvjYtBKI?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrTnjG4VBvjYtBKI?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="550" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
