@@ -7,7 +7,9 @@ layout: page
 <div class="container">
   <div class="row justify-content-around">
     <div class="col-lg-12" align="center">
+      <br>
       <img src="/assets/img/connect-metasci.png" width="350">
+      <br>
     </div>
   </div>
 </div>
