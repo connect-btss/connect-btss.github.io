@@ -52,17 +52,21 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
       <div class="col-sm-9">
         <br>
         <h3><a href="{{site.baseurl}}/metascience/">Metascience</a></h3>
+        <i>Understanding current processes and workflows in BTSS</i><br>
+        <b><a href="{{site.baseurl}}/metascience/">LEARN MORE</a></b>
       </div>
     </div>
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href=""><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
+        <a href="{{site.baseurl}}/tools/"><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
       </div>
       <div class="col-sm-9">
         <br>
-        <h3><a href="">Tools & Infrastructure</a></h3>
+        <h3><a href="{{site.baseurl}}/tools/">Tools & Infrastructure</a></h3>
+        <i>Improving efficiency and effectiveness in BTSS</i><br>
+        <b><a href="{{site.baseurl}}/tools/">LEARN MORE</a></b>
       </div>
     </div>
     <hr>
@@ -74,6 +78,8 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
       <div class="col-sm-9">
         <br>
         <h3><a href="{{site.baseurl}}/edi/">Equity, Diversity, & Inclusion</a></h3>
+        <i>Promoting equity, diversity, and inclusivity (EDI) in all aspects of BTSS</i><br>
+        <b><a href="{{site.baseurl}}/edi/">LEARN MORE</a></b>
       </div>
     </div>
   </div>
