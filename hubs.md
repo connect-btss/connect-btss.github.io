@@ -47,11 +47,10 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
     <div class="row">
       <div class="col-sm-3" align="center">
         <br>
-        <a href=""><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
+        <a href="{{site.baseurl}}/metascience/"><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}/metascience/">Metascience</a></h3>
-        This working group conducts metascientific research to understand current processes and workflows in existing BTSS networks. The team gathers qualitative information about current workflows, identifies existing assessment tools, and develops standardized evaluation instruments for BTSS projects with measurable metrics and benchmarks for cross-project comparison.<br>
       </div>
     </div>
     <hr>
@@ -70,12 +69,10 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href=""><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
+        <a href="{{site.baseurl}}/edi/"><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="">Equity, Diversity, & Inclusion</a></h3>
-        This working group promotes inclusivity across all aspects of BTSS, development of EDI strategies tailored to BTSS challenges, and creation of inclusive meeting practices that address barriers like time zone differences and language accessibility.<br>
-        <i><b>Leads:</b> <a href="mailto:nadia.corral@unison.mx">Nadia Corral-Frias</a>, <a href="mailto:alma.jeftic@gmail.com">Alma Jeftic</a>, and <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a></i>
+        <h3><a href="{{site.baseurl}}/edi/">Equity, Diversity, & Inclusion</a></h3>
       </div>
     </div>
   </div>
