@@ -29,7 +29,7 @@ This working group conducts metascientific research to understand current proces
 
 ## Members
 
-<b>Leads: <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a></b>
+***Leads: <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a> and <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni</a></b>***
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrABqMvFfS16esJx?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
