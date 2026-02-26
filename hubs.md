@@ -47,39 +47,39 @@ CONNECT operates through **two collaborative research hubs**, the *BiTS Lab* and
     <div class="row">
       <div class="col-sm-3" align="center">
         <br>
-        <a href="{{site.baseurl}}/metascience/"><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
+        <a href="{{site.baseurl}}/wg-metascience/"><img src="/assets/img/connect-metasci.png" alt="CONNECT Metascience working group"></a>
       </div>
       <div class="col-sm-9">
         <br>
-        <h3><a href="{{site.baseurl}}/metascience/">Metascience</a></h3>
+        <h3><a href="{{site.baseurl}}/wg-metascience/">Metascience</a></h3>
         <i>Understanding current processes and workflows in BTSS</i><br>
-        <b><a href="{{site.baseurl}}/metascience/">LEARN MORE</a></b>
+        <b><a href="{{site.baseurl}}/wg-metascience/">LEARN MORE</a></b>
       </div>
     </div>
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/tools/"><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
+        <a href="{{site.baseurl}}/wg-tools/"><img src="/assets/img/connect-TI.png" alt="CONNECT Tools & Infrastructure working group"></a>
       </div>
       <div class="col-sm-9">
         <br>
-        <h3><a href="{{site.baseurl}}/tools/">Tools & Infrastructure</a></h3>
+        <h3><a href="{{site.baseurl}}/wg-tools/">Tools & Infrastructure</a></h3>
         <i>Improving efficiency and effectiveness in BTSS</i><br>
-        <b><a href="{{site.baseurl}}/tools/">LEARN MORE</a></b>
+        <b><a href="{{site.baseurl}}/wg-tools/">LEARN MORE</a></b>
       </div>
     </div>
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/edi/"><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
+        <a href="{{site.baseurl}}/wg-edi/"><img src="/assets/img/connect-EDI.png" alt="CONNECT Equity, Diversity, & Inclusion working group"></a>
       </div>
       <div class="col-sm-9">
         <br>
-        <h3><a href="{{site.baseurl}}/edi/">Equity, Diversity, & Inclusion</a></h3>
+        <h3><a href="{{site.baseurl}}/wg-edi/">Equity, Diversity, & Inclusion</a></h3>
         <i>Promoting equity, diversity, and inclusivity (EDI) in all aspects of BTSS</i><br>
-        <b><a href="{{site.baseurl}}/edi/">LEARN MORE</a></b>
+        <b><a href="{{site.baseurl}}/wg-edi/">LEARN MORE</a></b>
       </div>
     </div>
   </div>

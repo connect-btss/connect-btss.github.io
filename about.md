@@ -17,6 +17,7 @@ CONNECT brings together the people best equipped to solve these challenges: thos
 2. Improve efficiency and effectiveness in BTSS
 3. Promote equity, diversity, and inclusivity (EDI) in all aspects of BTSS
 
+> Learn more about how we're working on these initiatives via our [Hubs & Working Groups]({{site.baseurl}}/hubs/)
 <br>
 
 ***
