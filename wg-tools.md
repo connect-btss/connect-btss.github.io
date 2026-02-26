@@ -23,6 +23,7 @@ This working group translates research insights into practical solutions by desi
 
 ## Projects
 * Generating a data validator
+* <a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?usp=sharing" target="_blank">"Time Zone Woes" cheat sheet</a>
 * Collecting a comparison of collaboration tools for Big Team Science 
 
 ***
