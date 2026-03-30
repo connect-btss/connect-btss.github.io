@@ -40,19 +40,19 @@ title: Big Team Science resources
       </ul>
   </details> 
   
-  ***
-  ## Why has research historically focused on WEIRD populations?
+  <hr>
+  <h2>Why has research historically focused on WEIRD populations?</h2>
   What is a WEIRD Population?
   The Use of WEIRD Populations in Research 
   
-  ***
-  ## How can you increase the credibility of your research results?
+  <hr>
+  <h2>How can you increase the credibility of your research results?</h2>
   Preregistration
   Registered Reports 
   What is the Difference Between Preregistration and Registered Reports? 
   
-  ***
-  ## What is Open Science? 
+  <hr>
+  <h2>What is Open Science?</h2> 
   Overview of Open Science 
   Benefits of Open Science 
   What Are the Core Principles of Open Science?
