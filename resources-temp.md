@@ -3,16 +3,13 @@ layout: page
 title: Big Team Science resources
 ---
 
-
-
-> If you would like to suggest a resource for this list, please fill out our 
-#### [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
+> If you would like to suggest a resource for this list, please fill out our [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
 
 ***
 # New to Big Team and/or Open Science:
 
 <details>
-  <summary>Click for Resources</summary>
+  <summary>Click here for more info</summary>
 
   <h2>What is Big Team Science (BTS)?</h2>
   <i>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</i>     
@@ -28,7 +25,7 @@ title: Big Team Science resources
   
   <hr> 
   <h2> What is the Replication Crisis?</h2>
-  >Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
+  <i>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</i> 
   
   <details>
     <summary>Click for Resources</summary>
@@ -82,6 +79,7 @@ title: Big Team Science resources
 
 </details>
 
+<br>
 
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.  
 
