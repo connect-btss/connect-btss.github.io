@@ -40,8 +40,8 @@ title: Big Team Science resources
     <ul>
       <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
       <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
-      <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank"></a>How the Replication Crisis Affected Public Trust in Psychological Science</li> 
-      <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank"></a>What is the Difference Between Replicability and Reproducibility?</li> 
+      <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
+      <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
     </ul>
 </details> 
 
