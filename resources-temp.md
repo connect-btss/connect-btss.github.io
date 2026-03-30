@@ -4,7 +4,7 @@ title: Big Team Science resources
 ---
 
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appMCLqgWxKrCa1Ga/shrj1N86LKBgCDaNr?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+THIS IS NOW EMPTY.
 
 
 > If you would like to suggest a resource for this list, please fill out our 
