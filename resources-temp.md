@@ -12,12 +12,16 @@ title: Big Team Science resources
 
 # New to Big Team and/or Open Science:
 
+<br>
+
 ## What is Big Team Science (BTS)?
 > Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
 
 - <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>  
 - <a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i>
 - <a href="https://www.concordia.ca/news/stories/2023/09/06/a-guide-to-big-team-science-creates-a-blueprint-for-research-collaboration-on-a-large-scale.html" target="_blank">Guide on how to build Big Team Science</a>
+
+<br>
 
 ## What is the Replication Crisis?
 Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
