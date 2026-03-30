@@ -28,15 +28,24 @@ title: Big Team Science resources
     </ul>
 </details> 
 
-
 <br>
 
+*** 
+
 ## What is the Replication Crisis?
-Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
-Why is Replication in Research Important? 
-The History of the Replication Crisis 
-How the Replication Crisis Affected Public Trust in Psychological Science 
-What is the Difference Between Replicability and Reproducibility? 
+>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
+
+<details>
+  <summary>Click for Resources</summary>
+    <ul>
+      <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
+      <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
+      <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank"></a>How the Replication Crisis Affected Public Trust in Psychological Science</li> 
+      <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank"></a>What is the Difference Between Replicability and Reproducibility?</li> 
+    </ul>
+</details> 
+
+***
 
 ## Why has research historically focused on WEIRD populations?
 What is a WEIRD Population?
@@ -58,3 +67,16 @@ What Are the Core Principles of Open Science?
 
 
 **All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.  
+
+
+<!--
+<details>
+  <summary>Click for Resources</summary>
+    <ul>
+      <li><a href="" target="_blank"></a></li>  
+      <li><a href="" target="_blank"></a></li>
+      <li><a href="" target="_blank"></a></li> 
+    </ul>
+</details> 
+
+-->
