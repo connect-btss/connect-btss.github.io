@@ -11,7 +11,6 @@ title: Big Team Science resources
 ***
 # New to Big Team and/or Open Science:
 
-
 <details>
   <summary>Click for Resources</summary>
 
@@ -62,9 +61,26 @@ title: Big Team Science resources
 </details> 
 
 <br>
+
 ***
 # Familiar with Big Team and/or Open Science:
 
+<details>
+  <summary>Click for Resources</summary>
+  
+  ## How do we typically manage time zones?
+  >Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging
+  
+  Time Zone Cheat Sheet 
+  This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
+
+  ## What is the process for publishing?
+  Publishing in a Scholarly Journal | American Psychological Association
+  Flowchart of Publication Process 
+  Preparing Manuscripts for Publication in Psychology Journals
+  Open Access Publishing vs. Traditional Publishing 
+
+</details>
 
 
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.  
