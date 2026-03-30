@@ -21,9 +21,11 @@ title: Big Team Science resources
 
 <details>
   <summary>Click for Resources</summary>
-    - <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>  
-    - <a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i>
-    - <a href="https://www.concordia.ca/news/stories/2023/09/06/a-guide-to-big-team-science-creates-a-blueprint-for-research-collaboration-on-a-large-scale.html" target="_blank">Guide on how to build Big Team Science</a> 
+    <ul>
+      <li><a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>></li>  
+      <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i></li>
+      <li><a href="https://www.concordia.ca/news/stories/2023/09/06/a-guide-to-big-team-science-creates-a-blueprint-for-research-collaboration-on-a-large-scale.html" target="_blank">Guide on how to build Big Team Science</a></li> 
+    </ul>
 </details> 
 
 
