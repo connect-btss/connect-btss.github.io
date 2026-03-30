@@ -9,7 +9,7 @@ title: Big Team Science resources
 # New to Big Team and/or Open Science:
 
 <details>
-  <summary>Click here for more info</summary>
+  <summary>Click here to expand</summary>
 
   <h2>What is Big Team Science (BTS)?</h2>
   <i>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</i>     
