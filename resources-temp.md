@@ -14,6 +14,7 @@ title: Big Team Science resources
 
 ## What is Big Team Science (BTS)?
 > Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
+- <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>  
 - [OSF Definition of Big Team Science](https://doi.org/10.31219/osf.io/hqta4_v2) 
 - Benefits, Barriers, and Risks of Big Team Science 
 - Preprint: https://doi.org/10.31234/osf.io/2mdxh
