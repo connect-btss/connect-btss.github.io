@@ -28,8 +28,6 @@ title: Big Team Science resources
     </ul>
 </details> 
 
-<br>
-
 *** 
 
 ## What is the Replication Crisis?
@@ -44,8 +42,6 @@ title: Big Team Science resources
       <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
     </ul>
 </details> 
-
-<br>
 
 ***
 
