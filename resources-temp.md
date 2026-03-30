@@ -45,6 +45,8 @@ title: Big Team Science resources
     </ul>
 </details> 
 
+<br>
+
 ***
 
 ## Why has research historically focused on WEIRD populations?
