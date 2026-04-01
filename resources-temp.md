@@ -73,7 +73,8 @@ title: Big Team Science resources
           <li><a href="" target="_blank">Time Zone Cheat Sheet</a>: This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects</li>  
         </ul>
     </details> 
-
+  
+  <hr>
   <h2>What is the process for publishing?</h2>
   Publishing in a Scholarly Journal | American Psychological Association
   Flowchart of Publication Process 
