@@ -12,7 +12,7 @@ title: Big Team Science resources
   <summary><i>Click here to expand</i></summary>
 
   <h2>What is Big Team Science (BTS)?</h2>
-  <i>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</i>     
+  Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
   
   <details>
     <summary><i>Resources</i></summary>
@@ -25,7 +25,7 @@ title: Big Team Science resources
   
   <hr> 
   <h2> What is the Replication Crisis?</h2>
-  <i>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</i> 
+  Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
   
   <details>
     <summary><i>Resources</i></summary>
@@ -66,7 +66,7 @@ title: Big Team Science resources
   <summary>Click here to expand</summary>
   
   <h2>How do we typically manage time zones?</h2>
-    <i>Big Team Science (BTS) encourages large-scale collaboration among individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging</i>
+    <p>Big Team Science (BTS) encourages large-scale collaboration among individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.</p>
   
     <details>
       <summary><i>Resources</i></summary>
