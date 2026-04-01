@@ -15,7 +15,7 @@ title: Big Team Science resources
   <i>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</i>     
   
   <details>
-    <summary><i>Click for resources</i></summary>
+    <summary><i>Resources</i></summary>
       <ul>
         <li><a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>></li>  
         <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i></li>
@@ -28,7 +28,7 @@ title: Big Team Science resources
   <i>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</i> 
   
   <details>
-    <summary><i>Show resources</i></summary>
+    <summary><i>Resources</i></summary>
       <ul>
         <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
         <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
