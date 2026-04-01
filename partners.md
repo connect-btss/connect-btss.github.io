@@ -108,7 +108,7 @@ title: CONNECT partners
       </div>
       <div class="col-sm-9">
         <br>
-        <h4><a href="https://abrirpsy.org/" style="link-col: #ec4801">ABRIR</a></h4>
+        <h4><a href="https://abrirpsy.org/" style="color: #ec4801">ABRIR</a></h4>
         <i>Advancing Big-team Reproducible Science through Increased Representation</i>
       </div>
     </div>
