@@ -8,7 +8,7 @@ title: CONNECT partners
 
 <hr>
 
-## Network Partners: 
+<h2 style="color: #0ca6d6">Network Partners</h2> 
 
 <section>
   <div class="container">
@@ -96,7 +96,7 @@ title: CONNECT partners
 
 <hr>
 
-## Community Partners:
+<h2 style="color: #ec4801">Community Partners</h2>
 
 <section>
   <div class="container">
