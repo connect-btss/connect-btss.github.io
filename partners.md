@@ -130,7 +130,7 @@ title: CONNECT partners
         <a href="https://www.cos.io/"><img src="/assets/img/cos-logo.png" alt="Center for Open Science logo" width="125"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www.cos.io/">Center for Open Science</a></h4>
+        <h4><a href="https://www.cos.io/" style="color: #ec4801">Center for Open Science</a></h4>
         <i>Increasing openness, integrity, and reproducibility of research</i>
       </div>
     </div>
@@ -141,7 +141,7 @@ title: CONNECT partners
         <a href="https://childrenhelpingscience.com/"><img src="/assets/img/chs-logo.png" alt="Children Helping Science powered by Lookit logo" width="125"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://childrenhelpingscience.com/">Children Helping Science powered by Lookit</a></h4>
+        <h4><a href="https://childrenhelpingscience.com/" style="color: #ec4801">Children Helping Science powered by Lookit</a></h4>
         <i>Fascilitating online data collection for a more representative developmental science</i>
       </div>
     </div>
@@ -152,7 +152,7 @@ title: CONNECT partners
         <a href="https://forrt.org/"><img src="/assets/img/forrt-logo.png" alt="FORRT logo" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://forrt.org/">FORRT</a></h4>
+        <h4><a href="https://forrt.org/" style="color: #ec4801">FORRT</a></h4>
         <i>Framework for Open and Reproducible Research Training</i>
       </div>
     </div>
