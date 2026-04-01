@@ -11,7 +11,7 @@ The replication crisis has shaken public trust in social science. Traditional sm
 ## Our Solution
 CONNECT brings together the people best equipped to solve these challenges: those actually conducting BTSS research. Rather than forcing each network to reinvent solutions independently, we create forums to unite expertise, share resources, and collectively improve research practices.
 
-##### We aim to achieve these goals via three main initiatives:
+### We aim to achieve these goals via three main initiatives:
 
 1. Better understand current processes and workflows in BTSS
 2. Improve efficiency and effectiveness in BTSS
