@@ -66,10 +66,14 @@ title: Big Team Science resources
   <summary>Click here to expand</summary>
   
   <h2>How do we typically manage time zones?</h2>
-  <i>Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging</i>
+    <i>Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging</i>
   
-  Time Zone Cheat Sheet 
-  This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
+    <details>
+      <summary><i>Resources</i></summary>
+        <ul>
+          <li><a href="" target="_blank">Time Zone Cheat Sheet</a>: This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects</li>  
+        </ul>
+    </details> 
 
   <h2>What is the process for publishing?</h2>
   Publishing in a Scholarly Journal | American Psychological Association
