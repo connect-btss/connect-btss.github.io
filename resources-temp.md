@@ -28,7 +28,7 @@ title: Big Team Science resources
   <i>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</i> 
   
   <details>
-    <summary><h4>Click for resources</h4></summary>
+    <summary><i>Show resources</i></summary>
       <ul>
         <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
         <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
