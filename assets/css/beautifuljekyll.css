@@ -1129,10 +1129,14 @@ pre {
 
 
 details {
+  width: 620px;;
+}
+
+details > summary {
   font:
     16px "Open Sans",
     "Calibri",
     sans-serif;
-  width: 620px;
   color: #ec4801;
+  border: none;
 }
