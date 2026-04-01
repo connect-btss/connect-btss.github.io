@@ -1126,3 +1126,13 @@ pre {
     display: inline-block;
   }
 }
+
+
+details {
+  font:
+    16px "Open Sans",
+    "Calibri",
+    sans-serif;
+  width: 620px;
+  color: #ec4801;
+}
