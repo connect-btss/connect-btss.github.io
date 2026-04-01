@@ -108,7 +108,7 @@ title: CONNECT partners
       </div>
       <div class="col-sm-9">
         <br>
-        <h4><a href="https://abrirpsy.org/" style="color: #ec4801; hover: #0ca6d6">ABRIR</a></h4>
+        <h4><a href="https://abrirpsy.org/" style="color: #ec4801">ABRIR</a></h4>
         <i>Advancing Big-team Reproducible Science through Increased Representation</i>
       </div>
     </div>
@@ -119,7 +119,7 @@ title: CONNECT partners
         <a href="https://carn-recar.ca/"><img src="/assets/img/carn-logo.jpeg" alt="CaRN logo" width="125"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://carn-recar.ca/">Canadian Reproducibility Network</a></h4>
+        <h4><a href="https://carn-recar.ca/" style="color: #ec4801">>Canadian Reproducibility Network</a></h4>
         <i>A national peer-led consortium that aims to promote a healthy and vigorous Canadian research ecosystem where all outputs are trustworthy, rigorous, and reproducible</i>
       </div>
     </div>
