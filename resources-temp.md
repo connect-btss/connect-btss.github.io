@@ -15,7 +15,7 @@ title: Big Team Science resources
   <i>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</i>     
   
   <details>
-    <summary><i>Click for Resources</i></summary>
+    <summary><i>Click for resources</i></summary>
       <ul>
         <li><a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a>></li>  
         <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i></li>
@@ -28,7 +28,7 @@ title: Big Team Science resources
   <i>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</i> 
   
   <details>
-    <summary><h4>Click for Resources</h4></summary>
+    <summary><h4>Click for resources</h4></summary>
       <ul>
         <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
         <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
@@ -63,7 +63,7 @@ title: Big Team Science resources
 ### Familiar with Big Team and/or Open Science:
 
 <details>
-  <summary>Click for Resources</summary>
+  <summary><i><b>Click here to expand</b></i></summary>
   
   <h2>How do we typically manage time zones?</h2>
   <i>Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging</i>
