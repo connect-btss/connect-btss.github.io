@@ -6,6 +6,8 @@ title: CONNECT partners
 
 <img src="/assets/img/connect-partners.png" />
 
+<hr>
+
 ## Network Partners: 
 
 <section>
@@ -92,6 +94,7 @@ title: CONNECT partners
 </section>
 <br>
 
+<hr>
 
 ## Community Partners:
 
