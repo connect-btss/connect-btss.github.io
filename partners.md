@@ -92,7 +92,8 @@ title: CONNECT partners
 </section>
 <br>
 
-## Community Partners
+
+## Community Partners:
 
 <section>
   <div class="container">
