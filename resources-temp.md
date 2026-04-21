@@ -11,5 +11,5 @@ title: Big Team Science resources
 
 ***
 
-#### [Familiar with Big Team and/or Open Science]({{site.baseurl}}/resources-advanced
+#### [Familiar with Big Team and/or Open Science]({{site.baseurl}}/resources-advanced)
 
