@@ -22,7 +22,7 @@ Publishing provides researchers with an opportunity to share their work with the
 <details>
   <summary><i>Resources</i></summary>
     <ul>
-      <li><a href="" target="_blank">Publishing in a Scholarly Journal</a></li>  
+      <li><a href="https://www.apa.org/pubs/journals/resources/publishing-tips/publishing-process" target="_blank">Publishing in a Scholarly Journal | American Psychological Association</a></li>  
       <li>Flowchart of Publication Process</li>
       <li>Preparing Manuscripts for Publication in Psychology Journals</li>
       <li>Open Access Publishing vs. Traditional Publishing</li>
