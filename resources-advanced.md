@@ -7,9 +7,6 @@ title: Advanced Resources
 
 ***
 
-#### Familiar with Big Team and/or Open Science
-
-  
 <h2>How do we typically manage time zones?</h2>
 Big Team Science (BTS) encourages large-scale collaboration among individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
   <details>
