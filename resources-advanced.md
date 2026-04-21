@@ -18,6 +18,7 @@ Big Team Science (BTS) encourages large-scale collaboration among individuals fr
 
 <hr>
 <h2>What is the process for publishing?</h2>
+Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent their collaborative efforts, and communicate their large-scale findings 
 <details>
   <summary><i>Resources</i></summary>
     <ul>
