@@ -12,17 +12,18 @@ title: Beginner Resources
 <h2>What is Big Team Science (BTS)?</h2>
 Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
 
-<details>
-  <summary><i>Resources</i></summary>
-    <ul>
-      <li><a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank">OSF Definition of Big Team Science</a></li>  
-      <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i></li>
-      <li><a href="https://www.concordia.ca/news/stories/2023/09/06/a-guide-to-big-team-science-creates-a-blueprint-for-research-collaboration-on-a-large-scale.html" target="_blank">Guide on how to build Big Team Science</a></li> 
-      <li>This article discusses the steps that go into building a BTS group, identifying leadership, which tools to use, and how to integrate open science approaches.<br>
-        <a href="https://doi.org/10.1098/rsos.230235" target="_blank"><img src="/assets/img/rsos-2024.png" style="width:60%"></a>
-      </li>
-    </ul>
-</details> 
+<section>
+  <details>
+    <summary><i>Resources</i></summary>
+      <ul>
+        <li>"We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents<br>
+          <a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i></li>
+        <li>This article discusses the steps that go into building a BTS group, identifying leadership, which tools to use, and how to integrate open science approaches.<br>
+          <a href="https://doi.org/10.1098/rsos.230235" target="_blank"><img src="/assets/img/rsos-2024.png" style="width:60%"></a>
+        </li>
+      </ul>
+  </details> 
+</section>
 
 <hr> 
 <h2> What is the Replication Crisis?</h2>
