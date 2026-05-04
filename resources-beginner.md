@@ -24,6 +24,7 @@ Big Team Science (BTS) is when a large group of researchers collaborate and comb
           <img src="/assets/img/rsos-2024.png" style="width:60%"></a>
         </li>
       </ul>
+      <br>
   </details> 
 </section>
 
