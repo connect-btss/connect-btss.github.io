@@ -8,11 +8,9 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
 ***
-
-<h2>What is Big Team Science (BTS)?</h2>
-Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
-
 <section>
+  <h2>What is Big Team Science (BTS)?</h2>
+  Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.     
   <details>
     <summary><i>Resources</i></summary>
       <ul>
