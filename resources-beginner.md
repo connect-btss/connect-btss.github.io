@@ -21,7 +21,7 @@ Big Team Science (BTS) is when a large group of researchers collaborate and comb
         </li>
         <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
           Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
-          <img src="/assets/img/rsos-2024.png" style="width:60%"></a>
+          <img src="/assets/img/rsos-2024.png" style="width:60%">
         </li>
       </ul>
       <br>
