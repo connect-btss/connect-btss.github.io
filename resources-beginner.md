@@ -9,8 +9,8 @@ title: Beginner Resources
 
 ***
 <section>
-  <div style="border: 5px solid;border-color:#364362;padding:25px;">
-    <h2 style="color: #FEC51D">What is Big Team Science (BTS)?</h2>
+  <div style="border: 5px solid;border-color:#FEC51D;padding:25px;">
+    <h2>What is Big Team Science (BTS)?</h2>
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
     <details>
       <summary><i>Resources</i></summary>
@@ -41,7 +41,6 @@ title: Beginner Resources
         </ul>
     </details>
   </div>  
-  
 </section>
 
   <hr>
