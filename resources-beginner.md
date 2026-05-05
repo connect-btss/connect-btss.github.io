@@ -30,7 +30,7 @@ title: Beginner Resources
   <hr> 
   <div style="border: 5px solid;border-color:#0CA6D6;padding:25px;">
     <h2> What is the Replication Crisis?</h2>
-    Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
+    <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
     <details>
       <summary><i>Resources</i></summary>
         <ul>
