@@ -30,20 +30,22 @@ test
 </section>
 
 <hr> 
-<h2> What is the Replication Crisis?</h2>
-Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
 
-<details>
-  <summary><i>Resources</i></summary>
-    <ul>
-      <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
-      <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
-      <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
-      <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
-    </ul>
-</details> 
-
-<hr>
+<div style="box-blue">
+  <h2> What is the Replication Crisis?</h2>
+  Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies. 
+  <details>
+    <summary><i>Resources</i></summary>
+      <ul>
+        <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
+        <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
+        <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
+        <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
+      </ul>
+  </details>
+</div>  
+  
+  <hr>
 <h2>Why has research historically focused on WEIRD populations?</h2>
 What is a WEIRD Population?
 The Use of WEIRD Populations in Research 
