@@ -14,6 +14,7 @@ title: Beginner Resources
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
     <details>
       <summary><i>Resources</i></summary>
+        <br>
         <ul>
           <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science (Forscher et al., 2023)</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
             "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
