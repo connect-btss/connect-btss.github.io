@@ -8,7 +8,6 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
 ***
-test
 <section>
   <div style="background-color:#364362;padding:25px;color:#FEC51D;">
     <h2 style="color: #FEC51D">What is Big Team Science (BTS)?</h2>
