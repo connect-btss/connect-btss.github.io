@@ -57,10 +57,11 @@ What is the Difference Between Preregistration and Registered Reports?
 <hr>
 <h2>What is Open Science?</h2> 
 <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-Overview of Open Science 
-Benefits of Open Science 
-What Are the Core Principles of Open Science?
-
+<ul>
+  <li>Overview of Open Science </li>
+  <li>Benefits of Open Science </li>
+  <li>What Are the Core Principles of Open Science? </li>
+</ul>
 
 
 <br>
