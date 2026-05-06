@@ -57,7 +57,7 @@ The Use of WEIRD Populations in Research
 <hr>
 <div id="box-blue">
   <div id="header-yellow">
-    <h2 style="margin-bottom:0;margin-top:.5em">How can you increase the credibility of your research results?</h2>
+    <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
   <ul>
     <li>Preregistration</li>
