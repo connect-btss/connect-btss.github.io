@@ -1143,13 +1143,14 @@ details > summary {
 
 #box-blue {
   background-color: #364362;
-  color: #FEC51D;
+  color: #FFFFFF;
+  padding:25px;
 }
 
 #header-yellow {
   border-radius: 25px;
   background: #FEC51D;
   color: #364362;
-  padding: 20px;
+  padding: 10px;
   line-height:1;
 }
