@@ -45,7 +45,6 @@ title: Beginner Resources
     </details>
   </div>  
   <hr>
-  test
   <div id="header-yellow">
     <h2>Why has research historically focused on WEIRD populations?</h2>
   </div>
