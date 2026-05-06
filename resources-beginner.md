@@ -44,12 +44,14 @@ title: Beginner Resources
         </ul>
     </details>
   </div>  
-</section>
-
   <hr>
-<h2>Why has research historically focused on WEIRD populations?</h2>
+  test
+  <div id="header-yellow">
+    <h2>Why has research historically focused on WEIRD populations?</h2>
+  </div>
 What is a WEIRD Population?
 The Use of WEIRD Populations in Research 
+</section>
 
 <hr>
 <h2>How can you increase the credibility of your research results?</h2>
