@@ -47,7 +47,7 @@ title: Beginner Resources
     </details>
   </div>  
   <hr>
-  <div id="headeryellow">
+  <div id="header-yellow">
     <h2>Why has research historically focused on WEIRD populations?</h2>
   </div>
 What is a WEIRD Population?
@@ -55,10 +55,16 @@ The Use of WEIRD Populations in Research
 </section>
 
 <hr>
-<h2>How can you increase the credibility of your research results?</h2>
-Preregistration
-Registered Reports 
-What is the Difference Between Preregistration and Registered Reports? 
+<div id="box-blue">
+  <div id="header-yellow">
+    <h2>How can you increase the credibility of your research results?</h2>
+  </div>
+  <ul>
+    <li>Preregistration</li>
+    <li>Registered Reports</li>
+    <li>What is the Difference Between Preregistration and Registered Reports?</li>
+  </ul>
+</div>
 
 <hr>
 <h2>What is Open Science?</h2> 
