@@ -10,7 +10,9 @@ title: Beginner Resources
 ***
 <section>
   <div style="border: 5px solid;border-color:#FEC51D;padding:25px;font-family:'Open Sans', sans-serif;">
-    <h2 style="background-color:#FEC51D;padding: 20px; width: 200px;border-radius= 50px;">What is Big Team Science (BTS)?</h2>
+    <div style="background-color:#FEC51D;padding: 20px;border-radius= 50px;">
+      <h2 >What is Big Team Science (BTS)?</h2>
+    </div>
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
     <details>
       <summary><i>Resources</i></summary>
