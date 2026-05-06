@@ -47,7 +47,7 @@ title: Beginner Resources
   <hr>
   <div id="box-yellow">
     <div id="header-teal">
-      <h2 style="margin-bottom:0;margin-top:0">Why has research historically focused on WEIRD populations?</h2>
+      <h2 style="margin-bottom:0;margin-top:0;color:"FFFFFF">Why has research historically focused on WEIRD populations?</h2>
     </div>
     What is a WEIRD Population?
     The Use of WEIRD Populations in Research 
