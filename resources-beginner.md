@@ -9,7 +9,7 @@ title: Beginner Resources
 
 ***
 <section>
-  <div style="border: 5px solid;border-color:#FEC51D;padding:25px;font-family:'Open Sans', sans-serif;">
+  <div style="border: 5px solid;border-color:#FEC51D;border-radius=50px;padding:25px;font-family:'Open Sans', sans-serif;">
     <div style="background-color:#FEC51D;padding:20px;border-radius=50%;">
       <h2 >What is Big Team Science (BTS)?</h2>
     </div>
