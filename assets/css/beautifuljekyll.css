@@ -1146,6 +1146,7 @@ details > summary {
   color: #FFFFFF;
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
+  font-family:'Open Sans', sans-serif;
 }
 
 #box-yellow {
@@ -1159,7 +1160,6 @@ details > summary {
 #header-yellow {
   border-radius: 15px;
   background: #FEC51D;
-  color: #364362;
   padding: 20px;
   line-height:1;
 }
@@ -1167,7 +1167,6 @@ details > summary {
 #header-teal {
   border-radius: 25px;
   background: #0CA6D6;
-  color: #FFFFFF;
   padding: 20px;
   line-height:1;
 }
