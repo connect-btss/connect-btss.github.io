@@ -45,7 +45,7 @@ title: Beginner Resources
     </details>
   </div>  
   <hr>
-  <div id="header-yellow">
+  <div id="headeryellow">
     <h2>Why has research historically focused on WEIRD populations?</h2>
   </div>
 What is a WEIRD Population?
@@ -71,3 +71,12 @@ What is the Difference Between Preregistration and Registered Reports?
 
 <br>
 
+<section>
+  <div style="border-radius: 50px;
+    background-color: #04AA6D;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;">
+    Test Header
+  </div>
+</section>
