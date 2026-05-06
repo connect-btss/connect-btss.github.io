@@ -10,10 +10,8 @@ title: Beginner Resources
 ***
 <section>
   <div style="border: 5px solid;border-color:#FEC51D;border-radius=50px;padding:25px;font-family:'Open Sans', sans-serif;">
-    <div style="border-radius: 15px;
-      background-color: #FEC51D;
-      padding: 20px;">
-      <h2 style="line-height: 1;">What is Big Team Science (BTS)?</h2>
+    <div id="header-yellow">
+      <h2 style="margin-bottom:0;margin-top:0">What is Big Team Science (BTS)?</h2>
     </div>
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
     <details>
@@ -47,11 +45,13 @@ title: Beginner Resources
     </details>
   </div>  
   <hr>
-  <div id="header-yellow">
-    <h2 style="margin-bottom:0;margin-top:0">Why has research historically focused on WEIRD populations?</h2>
+  <div id="box-yellow">
+    <div id="header-yellow">
+      <h2 style="margin-bottom:0;margin-top:0">Why has research historically focused on WEIRD populations?</h2>
+    </div>
+    What is a WEIRD Population?
+    The Use of WEIRD Populations in Research 
   </div>
-What is a WEIRD Population?
-The Use of WEIRD Populations in Research 
 </section>
 
 <hr>
@@ -59,6 +59,7 @@ The Use of WEIRD Populations in Research
   <div id="header-yellow">
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
+  <br>
   <ul>
     <li>Preregistration</li>
     <li>Registered Reports</li>
