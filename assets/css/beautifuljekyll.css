@@ -1162,3 +1162,11 @@ details > summary {
   padding: 20px;
   line-height:1;
 }
+
+#header-teal {
+  border-radius: 25px;
+  background: #0CA6D6;
+  color: #364362;
+  padding: 20px;
+  line-height:1;
+}

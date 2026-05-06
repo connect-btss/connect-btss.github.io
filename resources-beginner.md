@@ -46,7 +46,7 @@ title: Beginner Resources
   </div>  
   <hr>
   <div id="box-yellow">
-    <div id="header-yellow">
+    <div id="header-teal">
       <h2 style="margin-bottom:0;margin-top:0">Why has research historically focused on WEIRD populations?</h2>
     </div>
     What is a WEIRD Population?
