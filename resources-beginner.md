@@ -59,6 +59,7 @@ title: Beginner Resources
   <div id="header-yellow">
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
+  <p>Short blurb</p>
   <br>
   <div id="box-white">
     <details>
