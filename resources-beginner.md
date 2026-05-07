@@ -60,11 +60,17 @@ title: Beginner Resources
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
   <br>
-  <ul>
-    <li>Preregistration</li>
-    <li>Registered Reports</li>
-    <li>What is the Difference Between Preregistration and Registered Reports?</li>
-  </ul>
+  <div id="box-white">
+    <details>
+      <summary><i>Resources</i></summary>
+      <br>
+      <ul>
+        <li>Preregistration</li>
+        <li>Registered Reports</li>
+        <li>What is the Difference Between Preregistration and Registered Reports?</li>
+      </ul>
+    </details>
+  </div>
 </div>
 
 <hr>

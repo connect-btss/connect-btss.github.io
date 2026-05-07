@@ -1157,6 +1157,13 @@ details > summary {
   font-family:'Open Sans', sans-serif;
 }
 
+#box-white {
+  border-radius=25px;
+  padding:20px;
+  font-family:'Open Sans', sans-serif;
+}
+
+
 #header-yellow {
   border-radius: 15px;
   background: #FEC51D;
