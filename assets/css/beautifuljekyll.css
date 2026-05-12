@@ -1148,6 +1148,7 @@ details > summary {
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
   font-family:'Open Sans', sans-serif;
+  width=600px;
 }
 
 #box-yellow {
