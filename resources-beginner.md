@@ -52,7 +52,7 @@ title: Beginner Resources
   </div>  
   <hr>
   <div id="box-yellow">
-    <div id="header-red">
+    <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
     </div>
     <p>Why has research historically focused on WEIRD populations?</p>
