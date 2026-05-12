@@ -1151,10 +1151,10 @@ details > summary {
 }
 
 #box-yellow {
-  border: 5px solid;
-  border-color:#FEC51D;
-  border-radius=50px;
-  padding:20px;
+  background-color:#FEC51D;
+  color: #364362;
+  padding:25px;
+  box-shadow: -10px 10px #0CA6D6;
   font-family:'Open Sans', sans-serif;
 }
 
@@ -1178,20 +1178,23 @@ details > summary {
   border-radius: 15px;
   background: #FEC51D;
   padding: 20px;
-  line-height:1;
 }
 
 #header-teal {
   border-radius: 25px;
   background: #0CA6D6;
   padding: 20px;
-  line-height:1;
 }
 
 #header-blue {
   border-radius: 15px;
   background: #364362;
   padding: 20px;
-  line-height:1;
+}
+
+#header-red {
+  border-radius: 15px;
+  background: #EC4801;
+  padding: 20px;
 }
 
