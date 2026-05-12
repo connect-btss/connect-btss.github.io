@@ -56,15 +56,14 @@ title: Beginner Resources
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
     </div>
     <p>Why has research historically focused on WEIRD populations?</p>
-      <div id="box-white">
-        <details>
-          <summary><i>Resources</i></summary>
-            <ul>
-              <li><a href="" target="_blank">What is a WEIRD Population?</a></li>  
-              <li><a href="" target="_blank">The Use of WEIRD Populations in Research</a></li>
-            </ul>
-        </details>
-      </div>
+    <div id="box-white">
+      <details>
+        <summary><i>Resources</i></summary>
+          <ul>
+            <li><a href="" target="_blank">What is a WEIRD Population?</a></li>  
+            <li><a href="" target="_blank">The Use of WEIRD Populations in Research</a></li>
+          </ul>
+      </details>
     </div>
   </div>
 </section>
