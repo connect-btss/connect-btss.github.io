@@ -14,21 +14,23 @@ title: Beginner Resources
       <h2 style="margin-bottom:0;margin-top:0">What is Big Team Science (BTS)?</h2>
     </div>
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
-    <details>
-    <summary><i>Resources</i></summary>
-      <br>
-      <ul>
-        <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science (Forscher et al., 2023)</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
-          "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
-        </li>
+    <div id="box-white">
+      <details>
+      <summary><i>Resources</i></summary>
         <br>
-        <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
-          Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
-          <img src="/assets/img/rsos-2024.png" style="width:60%">
-        </li>
-      </ul>
-      <br>
-    </details> 
+        <ul>
+          <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science (Forscher et al., 2023)</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
+            "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
+          </li>
+          <br>
+          <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
+            Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
+            <img src="/assets/img/rsos-2024.png" style="width:60%">
+          </li>
+        </ul>
+        <br>
+      </details> 
+    </div>
   </div>
   <hr> 
   <div style="background-color:#364362;padding:25px;color:#FFFFFF;">
