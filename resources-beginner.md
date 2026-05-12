@@ -33,18 +33,22 @@ title: Beginner Resources
     </div>
   </div>
   <hr> 
-  <div style="background-color:#364362;padding:25px;color:#FFFFFF;">
-    <h2 style="color:#FEC51D"> What is the Replication Crisis?</h2>
-    <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
-    <details>
-      <summary><i>Resources</i></summary>
-        <ul>
-          <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
-          <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
-          <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
-          <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
-        </ul>
-    </details>
+  <div id="box-teal">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
+      <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
+      <div id="box-white">
+        <details>
+          <summary><i>Resources</i></summary>
+            <ul>
+              <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
+              <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
+              <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
+              <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
+            </ul>
+        </details>
+      </div>
+    </div>
   </div>  
   <hr>
   <div id="box-yellow">

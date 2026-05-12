@@ -30,6 +30,14 @@ details > summary {
   font-family:'Open Sans', sans-serif;
 }
 
+#box-teal {
+  background-color: #0CA6D6;
+  color: #FFFFFF;
+  padding:25px;
+  box-shadow: -10px 10px #EC4801;
+  font-family:'Open Sans', sans-serif;
+}
+
 #box-white {
   background-color: #FFFFFF;
   color: #364362;
@@ -48,6 +56,13 @@ details > summary {
 #header-teal {
   border-radius: 25px;
   background: #0CA6D6;
+  padding: 20px;
+  line-height:1;
+}
+
+#header-blue {
+  border-radius: 15px;
+  background: #364362;
   padding: 20px;
   line-height:1;
 }
