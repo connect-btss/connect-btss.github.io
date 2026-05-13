@@ -33,7 +33,7 @@ title: Beginner Resources
     </div>
   </div>
   <hr> 
-  <div id="box-teal" style="float:right;">
+  <div id="box-teal">
     <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
       <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
