@@ -70,7 +70,7 @@ title: Beginner Resources
   </div>
   <hr>
   <div id="box-teal">
-    <div id="header-blue">
+    <div id="header-yellow">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
     </div>
       <p>Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to questions the reliability and validity of previous research findings </p> 
@@ -90,8 +90,10 @@ title: Beginner Resources
               <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?(UBC, 2024)</a><br>
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
               </li>
-                <li><a> href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a></li>
-                <li><a> href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a></li>
+              <li><a> href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a>
+              </li>
+              <li><a> href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a>
+              </li>
             </ul>
         </details>
       </div>
