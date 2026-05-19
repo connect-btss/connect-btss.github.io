@@ -53,14 +53,12 @@ title: Beginner Resources
           <summary><i>Resources</i></summary>
             <br>
             <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a><br>
+              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a>)<br>
               Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation. <br>
             </li>
             <br>
-            <br>
-            <ul>
-              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.) </a><br>
-              Provides a concise list of the advantages of open science. <br>
+            <li><a> href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.) </a>)<br>
+            Provides a concise list of the advantages of open science. <br>
               </li>
             </ul>
             <br>
