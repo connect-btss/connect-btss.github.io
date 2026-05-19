@@ -10,8 +10,8 @@ title: Beginner Resources
 ***
 <section>
   <div id="box-blue">
-    <div id="header-yellow">
-      <h2 style="margin-bottom:0;margin-top:0">What is Big Team Science (BTS)?</h2>
+    <div id="header-red">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
     </div>
     <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
     <div id="box-white">
@@ -33,26 +33,38 @@ title: Beginner Resources
     </div>
   </div>
   <hr> 
-  <div style="background-color:#364362;padding:25px;color:#FFFFFF;">
-    <h2 style="color:#FEC51D"> What is the Replication Crisis?</h2>
-    <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
-    <details>
-      <summary><i>Resources</i></summary>
-        <ul>
-          <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
-          <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
-          <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
-          <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
-        </ul>
-    </details>
+  <div id="box-teal">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
+      <p>Replication of previous research designs allow researchers to verify findings, and confirm the credibility and reliability of previous studies.</p> 
+      <div id="box-white">
+        <details>
+          <summary><i>Resources</i></summary>
+            <ul>
+              <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important?</a></li>  
+              <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis</a></li>
+              <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">How the Replication Crisis Affected Public Trust in Psychological Science</a></li> 
+              <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?</a></li> 
+            </ul>
+        </details>
+      </div>
+    </div>
   </div>  
   <hr>
   <div id="box-yellow">
-    <div id="header-teal">
+    <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
     </div>
-    What is a WEIRD Population?
-    The Use of WEIRD Populations in Research 
+    <p>Why has research historically focused on WEIRD populations?</p>
+    <div id="box-white">
+      <details>
+        <summary><i>Resources</i></summary>
+          <ul>
+            <li><a href="" target="_blank">What is a WEIRD Population?</a></li>  
+            <li><a href="" target="_blank">The Use of WEIRD Populations in Research</a></li>
+          </ul>
+      </details>
+    </div>
   </div>
 </section>
 

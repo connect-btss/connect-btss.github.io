@@ -22,8 +22,8 @@ This working group promotes inclusivity across all aspects of BTSS, development 
 ***
 
 ## Projects
-* Proposal for a special issue on EDI in Big Team Science
-  * Open call for articles centered around Justice, Equity, Diversity, Inclusion (JEDI) in multisite and international collaborative research
+* Special issue on EDI in Big Team Science
+  * [Open call for articles centered around Justice, Equity, Diversity, Inclusion (JEDI) in multisite and international collaborative research](https://connect-btss.github.io/2026-05-15-edi-call/)
 
 
 ***
