@@ -3,6 +3,13 @@ layout: page
 title: Beginner Resources
 ---
 
+<style>
+.container-md {
+  max-width: 1500px;
+}
+</style>
+
+
 > If you would like to suggest a resource for this list, please fill out our [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
 
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
