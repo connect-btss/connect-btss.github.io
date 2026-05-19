@@ -1147,6 +1147,7 @@ details > summary {
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
   font-family:'Open Sans', sans-serif;
+  border-radius: 10px; /* rounded corners */
 }
 #box-blue:hover{                                
   transform: translateY(-5px);
