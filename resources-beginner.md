@@ -116,10 +116,12 @@ title: Beginner Resources
               <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?(UBC, 2024)</a><br>
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
               </li>
-              <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a>
-              </li>
-              <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a>
-              </li>
+              <ul>
+                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a>
+                </li>
+                <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a>
+                </li>
+              </ul>
             </ul>
         </details>
       </div>
