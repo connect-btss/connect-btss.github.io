@@ -47,25 +47,22 @@ title: Beginner Resources
         <div id="header-teal">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
         </div>
-        <p>Open science refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
+        <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
             <br>
             <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a>)</i>
-            </li>
-            <br>
-            <li><a> href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.) </a>)</i>
-              </li>
-              <br>
+              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a></li>
+              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.)</a></li>
+              <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? (Bertram et al., 2023)</a></li>
             </ul>
             <br>
           </details> 
         </div>
     </div>
   </div>
-  <hr> 
+  <hr>
   <div id="box-teal">
     <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
