@@ -1148,7 +1148,7 @@ details > summary {
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
   font-family:'Open Sans', sans-serif;
-  transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth animation */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
                                                 
 #box-blue:hover{                                
