@@ -1168,7 +1168,7 @@ details > summary {
 
 #box-teal {
   background-color: #0CA6D6;
-  color: #FFFFFF;
+  color: #364362;
   padding:25px;
   box-shadow: 10px 10px #EC4801;
   font-family:'Open Sans', sans-serif;
@@ -1220,6 +1220,8 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Open Sans', sans-serif;
 }
 
