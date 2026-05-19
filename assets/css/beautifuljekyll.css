@@ -1140,14 +1140,23 @@ details > summary {
   border: none;
 }
 
-
+# Defining Boxes for Resource Pages
 #box-blue {
   background-color: #364362;
   color: #FFFFFF;
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
   font-family:'Open Sans', sans-serif;
+  
+  /* smooth animation */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+                                                    #making the box hover
+#box-blue:hover{                                
+  transform: translateY(-5px);
+  box-shadow: -14px 14px #FEC51D;
+}
+
 
 #box-yellow {
   border: 5px solid;
@@ -1155,6 +1164,13 @@ details > summary {
   border-radius=50px;
   padding:20px;
   font-family:'Open Sans', sans-serif;
+    
+  /* smooth animation */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#box-yellow:hover{
+  transform: translateY(-5px);
 }
 
 #box-white {
