@@ -44,7 +44,7 @@ title: Beginner Resources
     </div>
     <div class="col-sm-6">
       <div id="box-yellow">
-        <div id="header-teal">
+        <div id="header-blue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
         </div>
         <p>Open science refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
@@ -53,12 +53,13 @@ title: Beginner Resources
           <summary><i>Resources</i></summary>
             <br>
             <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a>)</i>
+              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a>)<br>
+              Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation. <br>
             </li>
             <br>
-            <li><a> href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.) </a>)</i>
+            <li><a> href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.) </a>)<br>
+            Provides a concise list of the advantages of open science. <br>
               </li>
-              <br>
             </ul>
             <br>
           </details> 
