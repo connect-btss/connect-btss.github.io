@@ -1152,7 +1152,7 @@ details > summary {
   /* smooth animation */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-                                                    #making the box hover
+                                                
 #box-blue:hover{                                
   transform: translateY(-5px);
   box-shadow: -14px 14px #FEC51D;
