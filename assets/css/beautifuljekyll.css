@@ -1148,9 +1148,7 @@ details > summary {
   padding:25px;
   box-shadow: -10px 10px #FEC51D;
   font-family:'Open Sans', sans-serif;
-  
-  /* smooth animation */
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* smooth animation */
 }
                                                 
 #box-blue:hover{                                
@@ -1167,6 +1165,10 @@ details > summary {
   font-family:'Open Sans', sans-serif;
 }
 
+#box-yellow:hover{
+  transform: translateY(-5px);
+}
+
 #box-teal {
   background-color: #0CA6D6;
   color: #FFFFFF;
@@ -1178,9 +1180,7 @@ details > summary {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-#box-yellow:hover{
-  transform: translateY(-5px);
-}
+
 
 #box-white {
   background-color: #FFFFFF;
