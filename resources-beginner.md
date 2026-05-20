@@ -16,6 +16,7 @@ title: Beginner Resources
 
 ***
 <hr>
+  <div class="col-sm-6">
     <div id="box-blue">
       <div id="header-red">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
@@ -40,9 +41,11 @@ title: Beginner Resources
           <br>
         </details> 
       </div>
+    </div>
   </div>
 
 <hr>
+  <div class="row" align="left">
     <div class="col-sm-6">
       <div id="box-yellow">
         <div id="header-blue">
@@ -68,6 +71,7 @@ title: Beginner Resources
             </ul>
             <br>
           </details> 
+        </div>
      </div>
    <div class="row" align="left">
         <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
