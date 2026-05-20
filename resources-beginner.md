@@ -77,7 +77,7 @@ title: Beginner Resources
   </tr>
 </table>  
 
-<hr>
+
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
   <div id="box-yellow" style="flex: 1; min-width: 300px;">
     <div id="header-blue">
@@ -105,13 +105,13 @@ title: Beginner Resources
           </details> 
         </div>
      </div>
-     <div style="border: 2px solid #333; padding: 10px; background: white; display: inline-block; flex: 1; min-width: 300px;">
+     <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
         <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
         <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
    </div>
   </div>
 
-<hr>
+
   <div id="box-teal">
     <div id="header-yellow">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
@@ -171,7 +171,7 @@ title: Beginner Resources
 
 
 
-<hr>
+
 <div id="box-blue">
   <div id="header-yellow">
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
@@ -262,7 +262,7 @@ title: Beginner Resources
   </div>
 </div>
 
-<hr>
+
 <h2>What is Open Science?</h2> 
 <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
 <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
