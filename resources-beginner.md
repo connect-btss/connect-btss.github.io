@@ -141,6 +141,7 @@ title: Beginner Resources
             <td>Computational Validity</td>
           </tr>
         </table>
+      </div>  
     <div id="box-white">
       <details>
         <summary><i>Resources</i></summary>
