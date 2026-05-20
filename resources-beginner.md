@@ -16,7 +16,7 @@ title: Beginner Resources
 
 ***
 <hr>
-  <div class="row"
+  <div class="row"style="display:flex; gap:20px; flex-wrap:wrap;">
   <div class="col-sm-5">
     <div id="box-blue">
       <div id="header-red">
@@ -44,7 +44,7 @@ title: Beginner Resources
       </div>
     </div>
   </div>  
-  </div>
+
 
   <div class="col-sm-7">
     <div id="box-teal">
