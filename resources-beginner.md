@@ -45,9 +45,10 @@ title: Beginner Resources
           </details> 
        </div>
       </div>
+    </td>  
 
   <!-- RIGHT -->
-  <div style="width:50%; vertical-align:top; padding-left:10px; border:none;">
+  <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
     <div id="box-teal">
       <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
