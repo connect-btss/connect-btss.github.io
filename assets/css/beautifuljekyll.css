@@ -1246,23 +1246,3 @@ table {
   border-radius: 10px;
   overflow: hidden;
 }
-
-/* adding image to left of OS section*/
-.os-container {
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
-}
-
-.os-text {
-  flex: 1;
-}
-
-.os-image {
-  flex: 1;
-}
-
-.os-image img {
-  max-width: 100%;
-  height: auto;
-}
