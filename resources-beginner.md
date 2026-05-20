@@ -171,14 +171,13 @@ title: Beginner Resources
     </div>
 
 
-
-
-
 <div id="box-blue">
   <div id="header-yellow">
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
-  <p>Credible research refers to research that is trusted, reliable, and accurate.</p>
+  <p>
+    Credible research refers to research that is trusted, reliable, and accurate.
+  </p>
   <div id="box-white">
     <table>
         <tr>
@@ -245,9 +244,10 @@ title: Beginner Resources
             Peer-reviewed journal article.
           </td>
         </tr>
-      </table>
-    </div>  
-    <br>
+    </table>
+  </div>  
+  <br>
+  <div id="box-white">  
     <details>
       <summary><i>Resources</i></summary>
       <br>
