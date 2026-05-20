@@ -16,13 +16,15 @@ title: Beginner Resources
 
 ***
 <section>
-    <div id="box-blue">
-      <div id="header-red">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
-      </div>
-      <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.</p>     
-      <div id="box-white">
-        <details>
+  <div id="box-blue">
+    <div id="header-red">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
+    </div>
+      <p>
+      Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
+      </p>     
+    <div id="box-white">
+      <details>
         <summary><i>Resources</i></summary>
           <br>
           <ul>
@@ -68,7 +70,6 @@ title: Beginner Resources
           </details> 
         </div>
      </div>
-     
      <div class="os-image">
         <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
         <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
