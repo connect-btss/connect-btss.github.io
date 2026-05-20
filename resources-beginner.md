@@ -81,19 +81,16 @@ title: Beginner Resources
           <th>Replication</th>
           <th>Reproducibility</th>
         </tr>
-        
         <tr>
           <td>Workflow</td>
           <td>Same workflow</td>
           <td>Same workflow</td>
         </tr>
-        
         <tr>
           <td>Data used</td>
           <td>New data</td>
           <td>Original data</td>
         </tr>
-
         <tr>
           <td>Goal</td>
           <td>Generalizability</td>
