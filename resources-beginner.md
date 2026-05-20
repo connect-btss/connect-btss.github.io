@@ -16,9 +16,10 @@ title: Beginner Resources
 
 ***
 <hr>
-  <div style="width:100%;">
+  <table style="width:100%; border:none;">
+    <tr>
   <!-- LEFT -->
-  <div style="width:48%; display:inline-block; vertical-align:top;">
+    <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
       <div id="box-blue">
         <div id="header-red">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
@@ -48,7 +49,7 @@ title: Beginner Resources
     </div>
 
   <!-- RIGHT -->
-  <div style="width:48%; display:inline-block; vertical-align:top; margin-left:2%;">
+  <div style="width:50%; vertical-align:top; padding-left:10px; border:none;">
     <div id="box-teal">
       <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
