@@ -15,7 +15,7 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
 ***
-<section>
+<hr>
   <div class="col-sm-6">
     <div id="box-blue">
       <div id="header-red">
@@ -43,8 +43,8 @@ title: Beginner Resources
       </div>
     </div>
   </div>
-</section>
-<section>
+
+<hr>
   <div class="row" align="left">
     <div class="col-sm-6">
       <div id="box-yellow">
@@ -160,7 +160,7 @@ title: Beginner Resources
       </details>
     </div>
   </div>
-</section>
+
 
 <hr>
 <div id="box-blue">
@@ -264,8 +264,4 @@ title: Beginner Resources
 </ul>
 
 
-<br>
 
-<section>
-
-</section>
