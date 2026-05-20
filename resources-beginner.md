@@ -15,7 +15,6 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
 ***
-<hr>
   <table style="width:100%; border:none;">
     <tr>
   <!-- LEFT -->

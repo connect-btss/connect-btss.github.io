@@ -1246,14 +1246,3 @@ table {
   border-radius: 10px;
   overflow: hidden;
 }
-
-/*making photo card*/
-.image-box {
-  border: 15px solid #364362 !important;
-  border-radius: 10px !important; /* rounded corners */
-  padding: 12px !important;
-  display: inline-block !important;
-  background: white !important;
-  border-radius: 8px !important;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
-}
