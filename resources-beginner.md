@@ -79,60 +79,59 @@ title: Beginner Resources
      </div>
     </div>
 
-<section>
-  <hr>
-    <div id="box-teal">
-      <div id="header-yellow">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
-      </div>
-        <p>
-          Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to questions the reliability and validity of previous research findings 
-        </p> 
-      <table>
-         <tr>
-          <th>Feature</th>
-          <th>Replication</th>
-          <th>Reproducibility</th>
-        </tr>
+<hr>
+  <div id="box-teal">
+    <div id="header-yellow">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
+    </div>
+      <p>
+        Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to questions the reliability and validity of previous research findings 
+      </p> 
+    <table>
         <tr>
-          <td>Workflow</td>
-          <td>Same workflow</td>
-          <td>Same workflow</td>
-        </tr>
-        <tr>
-          <td>Data used</td>
-          <td>New data</td>
-          <td>Original data</td>
-        </tr>
-        <tr>
-          <td>Goal</td>
-          <td>Generalizability</td>
-          <td>Computational Validity</td>
-        </tr>
-      </table>
-      <div id="box-white">
-        <details>
-          <summary><i>Resources</i></summary>
-            <ul>
-              <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (Viera, 2024)</a><br>
+        <th>Feature</th>
+        <th>Replication</th>
+        <th>Reproducibility</th>
+      </tr>
+      <tr>
+        <td>Workflow</td>
+        <td>Same workflow</td>
+        <td>Same workflow</td>
+      </tr>
+      <tr>
+        <td>Data used</td>
+        <td>New data</td>
+        <td>Original data</td>
+      </tr>
+      <tr>
+        <td>Goal</td>
+        <td>Generalizability</td>
+        <td>Computational Validity</td>
+      </tr>
+    </table>
+    <div id="box-white">
+      <details>
+        <summary><i>Resources</i></summary>
+          <ul>
+            <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (Viera, 2024)</a><br>
               Describes the process of replication, and its importance in the scientific process.
-              </li>  
-              <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
+            </li>  
+            <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
               Explains the origins of the replication crisis.
-              </li>
-              <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis (Anvari & Lakens, 2018)</a><br>
+            </li>
+            <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis (Anvari & Lakens, 2018)</a><br>
               Explores the impact of the replication crisis on the public's trust in psychological science.
-              </li> 
-              <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?(UBC, 2024)</a><br>
+            </li> 
+            <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?(UBC, 2024)</a><br>
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
-              </li>
+            </li>
               <ul>
                 <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a>
                 </li>
                 <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a>
                 </li>
               </ul>
-            </ul>
+          </ul>
         </details>
       </div>
     </div>
