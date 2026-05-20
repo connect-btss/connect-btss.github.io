@@ -130,7 +130,73 @@ title: Beginner Resources
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
     </div>
     <p>Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.
-    </p> 
+    </p>
+    <table>
+      <tr>
+        <th>Feature</th>
+        <th>Preregistration</th>
+        <th>Registered Reports</th>
+      </tr>
+      <tr>
+        <td><strong>What is it?</strong></td>
+        <td>
+          A research plan written before data analysis
+          (or data collection).
+        </td>
+        <td>
+          A publication format where the study proposal
+          undergoes peer review before results are known.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Main Goal</strong></td>
+        <td>
+          Increase transparency and reduce QRPs.
+        </td>
+        <td>
+          Increase transparency and reduce publication bias
+          by evaluating research by its hypotheses and methods
+          over its outcomes.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Publication Guarantee</strong></td>
+        <td>
+          No publication guarantee.
+        </td>
+        <td>
+          “In-principle acceptance” if authors follow approved protocol.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Where can it be submitted?</strong></td>
+        <td>
+          Public repositories
+        </td>
+        <td>
+          Submitted directly to a journal that offers the
+          Registered Report format.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Typical Review Process</strong></td>
+        <td>
+          No formal feedback.
+        </td>
+        <td>
+          Two-stage peer review: before and after data collection.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Output</strong></td>
+        <td>
+          Public preregistration document.
+        </td>
+        <td>
+          Peer-reviewed journal article.
+        </td>
+      </tr>
+    </table>
     <div id="box-white">
       <details>
         <summary><i>Resources</i></summary>
@@ -155,15 +221,21 @@ title: Beginner Resources
   <div id="header-yellow">
     <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
   </div>
-  <p>Short blurb</p>
+  <p>Credible research refers to research that is trusted, reliable, and accurate.</p>
   <div id="box-white">
     <details>
       <summary><i>Resources</i></summary>
       <br>
       <ul>
-        <li>Preregistration</li>
-        <li>Registered Reports</li>
-        <li>What is the Difference Between Preregistration and Registered Reports?</li>
+        <li><a href="https://www.cos.io/initiatives/prereg" target="_blank">Preregistration (COS, n.d.)</a><br>
+        “...specifying your research plan in advance of your study and submitting it to a registry.” 
+        </li>
+        <li><a href="https://www.cos.io/initiatives/registered-reports" target="_blank">Registered Reports (COS, n.d.)</a><br>
+        “...a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection.”
+        </li>
+        <li><a href="https://www.aje.com/arc/pre-registration-vs-registered-reports" target="_blank">What is the Difference Between Preregistration and Registered Reports? (American Journal Experts, 2022</li><br>
+        Explains how preregistration and registered reports both serve as open science practices, while differing in their primary intentions.
+        </li>
       </ul>
     </details>
   </div>
