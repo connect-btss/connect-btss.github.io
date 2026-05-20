@@ -44,7 +44,6 @@ title: Beginner Resources
     </div>
   </div>
 
-<hr>
   <div class="col-sm-7">
     <div id="box-teal">
       <div id="header-blue">
