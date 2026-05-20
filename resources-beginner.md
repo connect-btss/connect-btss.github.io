@@ -112,7 +112,7 @@ title: Beginner Resources
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
   <div id="box-teal">
-    <div id="header-yellow">
+    <div id="header-red">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
     </div>
       <p>
