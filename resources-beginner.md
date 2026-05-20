@@ -78,7 +78,6 @@ title: Beginner Resources
         <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
      </div>
     </div>
-</section>
 
 <section>
   <hr>
