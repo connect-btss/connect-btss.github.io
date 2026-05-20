@@ -42,17 +42,18 @@ title: Beginner Resources
   </div>
 <section>
 <section>
-  <div class="row" align="left">
-    <div class="col-sm-6">
-      <div id="box-yellow">
-        <div id="header-blue">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
-        </div>
-        <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
+  <div id="box-yellow">
+    <div id="header-blue">
+     <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
+    </div>
+    <div class="os-container">
+      <div class="os-text">
+        <p>
+          Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
+        </p>     
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
-            <br>
             <ul>
               <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a><br>
               Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
@@ -64,15 +65,16 @@ title: Beginner Resources
               Offers examples for how open science can be implemented throughout the research lifecycle.
               </li>
             </ul>
-            <br>
           </details> 
         </div>
      </div>
-     <div class="col-sm-6">
+     
+     <div class="os-image">
         <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
         <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
-  </div>
-<section>
+     </div>
+</section>
+
   <hr>
   <div id="box-teal">
     <div id="header-yellow">
