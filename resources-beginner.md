@@ -19,59 +19,61 @@ title: Beginner Resources
   <div id="header-red">
     <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
   </div>
-    <p>Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
+    <p>
+      Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
     </p>     
-      <div id="box-white">
-        <details>
-        <summary><i>Resources</i></summary>
-          <br>
-          <ul>
-            <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science (Forscher et al., 2023)</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
+  <div id="box-white">
+    <details>
+      <summary><i>Resources</i></summary>
+        <ul>
+          <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science (Forscher et al., 2023)</a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
               "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
-            </li>
-            <br>
-            <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
+          </li>
+          <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
               Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
               <img src="/assets/img/rsos-2024.png" style="width:60%">
             </li>
           </ul>
-          <br>
         </details> 
       </div>
     </div>
   </div>
-</div>
 
-  <div id="box-yellow">
-    <div id="header-blue">
-     <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
-    </div>
-    <div class="os-container">
-      <div class="os-text">
-        <p>
-          Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
-        </p>     
-        <div id="box-white">
-          <details>
+<hr>
+
+<div id="box-yellow">
+  <div id="header-blue">
+    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
+  </div>
+  <div class="os-container">
+    <div class="os-text">
+      <p>
+        Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
+      </p>     
+      <div id="box-white">
+        <details>
           <summary><i>Resources</i></summary>
-            <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a><br>
+          <ul>
+            <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a><br>
               Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
-              </li>
-              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.)</a><br>
+            </li>
+            <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.)</a><br>
               Provides a concise list of the advantages of open science.
-              </li>
-              <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? (Bertram et al., 2023)</a><br>
+            </li>
+            <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? (Bertram et al., 2023)</a><br>
               Offers examples for how open science can be implemented throughout the research lifecycle.
-              </li>
-            </ul>
-          </details> 
-        </div>
-     </div>
+            </li>
+          </ul>
+        </details> 
+      </div>
+    </div>
      
-     <div class="os-image">
-        <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-        <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
+    <div class="os-image">
+      <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
+        <img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
+        alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500">
+        </a><br>
+      <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
      </div>
 
 
