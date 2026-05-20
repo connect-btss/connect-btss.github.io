@@ -40,7 +40,7 @@ title: Beginner Resources
       </div>
     </div>
   </div>
-<section>
+</section>
 <section>
   <div id="box-yellow">
     <div id="header-blue">
