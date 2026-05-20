@@ -46,7 +46,7 @@ title: Beginner Resources
 
 <hr>
   <div class="row" align="left">
-    <div class="col-sm-6">
+    <div class="col-sm-6 text-end">
       <div id="box-yellow">
         <div id="header-blue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
