@@ -17,7 +17,7 @@ title: Beginner Resources
 ***
 <hr>
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm-4">
       <div id="box-blue">
         <div id="header-red">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
