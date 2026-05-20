@@ -75,7 +75,7 @@ title: Beginner Resources
      </div>
 </section>
 
-  <hr>
+<hr>
   <div id="box-teal">
     <div id="header-yellow">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
