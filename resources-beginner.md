@@ -101,13 +101,13 @@ title: Beginner Resources
               </li>
             </ul>
             <br>
+            <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+              <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
+              <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
+            </div>
           </details> 
         </div>
      </div>
-     <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
-        <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-        <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
-   </div>
   </div>
 
 
