@@ -45,8 +45,6 @@ title: Beginner Resources
           </details> 
        </div>
       </div>
-    </div>  
-    </div>
 
   <!-- RIGHT -->
   <div style="width:50%; vertical-align:top; padding-left:10px; border:none;">
@@ -74,7 +72,9 @@ title: Beginner Resources
         </details>
       </div>
     </div>
-  </div>
+  </td>
+  </tr>
+</table>  
 
 <hr>
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
