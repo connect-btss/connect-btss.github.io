@@ -1169,7 +1169,7 @@ details > summary {
 
 #box-teal {
   background-color: #0CA6D6;
-  color: #F5F5F5;
+  color: #FFFFFF;
   padding:25px;
   box-shadow: 10px 10px #EC4801;
   font-family:'Open Sans', sans-serif;
@@ -1249,8 +1249,8 @@ table {
 
 /*making photo card*/
 .image-box {
-  border: 10px solid #364362 !important;
-  border-radius: 10px; /* rounded corners */
+  border: 15px solid #364362 !important;
+  border-radius: 10px !important; /* rounded corners */
   padding: 12px !important;
   display: inline-block !important;
   background: white !important;
