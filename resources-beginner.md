@@ -80,26 +80,15 @@ title: Beginner Resources
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
   <div id="box-yellow" style="flex: 1; min-width: 300px;">
     <div id="header-blue">
-      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-        What is Open Science?
-      </h2>
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
       </div>
-      <!-- TEXT + IMAGE SIDE BY SIDE -->
-      <div style="display:flex; gap:20px; align-items:flex-start;">
-      <!-- TEXT -->
-      <div style="flex:1;">
         <p>
           Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
+               <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
+                <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
+                </div>
         </p>
-      </div>
-      <!-- IMAGE -->
-      div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; width:22px; flex-shrink:0;">
-              <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
-              <img 
-                src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
-                alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-              <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
-
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
