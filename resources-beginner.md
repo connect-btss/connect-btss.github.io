@@ -67,10 +67,10 @@ title: Beginner Resources
             <br>
           </details> 
         </div>
-      <div class="col-sm-6">
+     </div>
+     <div class="col-sm-6">
         <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
         <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">https://science.gc.ca/site/science/en/open-science</a>)</i>
-    </div>
   </div>
 <section>
   <hr>
