@@ -88,10 +88,10 @@ title: Beginner Resources
           <summary><i>Resources</i></summary>
             <br>
             <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada, 2022)</a><br>
+              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada)</a><br>
               Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
               </li>
-              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature, n.d.)</a><br>
+              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature)</a><br>
               Provides a concise list of the advantages of open science.
               </li>
               <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? (Bertram et al., 2023)</a><br>
@@ -145,7 +145,7 @@ title: Beginner Resources
       <details>
         <summary><i>Resources</i></summary>
           <ul>
-            <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (Viera, 2024)</a><br>
+            <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (American Journal Experts)</a><br>
               Describes the process of replication, and its importance in the scientific process.
             </li>  
             <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
@@ -154,13 +154,13 @@ title: Beginner Resources
             <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis (Anvari & Lakens, 2018)</a><br>
               Explores the impact of the replication crisis on the public's trust in psychological science.
             </li> 
-            <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility?(UBC, 2024)</a><br>
+            <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? (UBC)</a><br>
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
             </li>
               <ul>
-                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (Lonsdorf, 2026)</a>
+                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (FORRT)</a>
                 </li>
-                <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (Ding et al., 2020)</a>
+                <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (CMU ML Blog)</a>
                 </li>
               </ul>
           </ul>
