@@ -157,7 +157,7 @@ title: Beginner Resources
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
             </li>
               <ul>
-                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i><(FORRT)</i></a>
+                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i>(FORRT)</i></a>
                 </li>
                 <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility <i>(CMU ML Blog)</i></a>
                 </li>
