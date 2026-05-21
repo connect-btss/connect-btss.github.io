@@ -252,13 +252,13 @@ title: Beginner Resources
         <br>
         <div id="box-white">
           <ul>
-            <li><a href="https://www.cos.io/initiatives/prereg" target="_blank">Preregistration (COS, n.d.)</a><br>
+            <li><a href="https://www.cos.io/initiatives/prereg" target="_blank">Preregistration <i>(COS)</i></a><br>
             “...specifying your research plan in advance of your study and submitting it to a registry.” 
             </li>
-            <li><a href="https://www.cos.io/initiatives/registered-reports" target="_blank">Registered Reports (COS, n.d.)</a><br>
+            <li><a href="https://www.cos.io/initiatives/registered-reports" target="_blank">Registered Reports <i>(COS)</i></a><br>
             “...a publishing format that emphasizes the importance of the research question and the quality of methodology by conducting peer review prior to data collection.”
             </li>
-            <li><a href="https://www.aje.com/arc/pre-registration-vs-registered-reports" target="_blank">What is the Difference Between Preregistration and Registered Reports? (American Journal Experts, 2022</a><br>
+            <li><a href="https://www.aje.com/arc/pre-registration-vs-registered-reports" target="_blank">What is the Difference Between Preregistration and Registered Reports? <i>(American Journal Experts)</i></a><br>
             Explains how preregistration and registered reports both serve as open science practices, while differing in their primary intentions.
             </li>
           </ul>
