@@ -35,7 +35,7 @@ title: Beginner Resources
                 "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
              </li>
               <br>
-              <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations (Baumgartner et al., 2024)</a><br>
+              <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
                 Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
                 <img src="/assets/img/rsos-2024.png" style="width:60%">
               </li>
@@ -57,13 +57,13 @@ title: Beginner Resources
           <details>
           <summary><i>Resources</i></summary>
             <ul>
-              <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research (Henrich et al., 2010)</a><br>
+              <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
               The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
               </li>  
-              <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD (Newson et al., 2017)</a><br>
+              <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
               Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
               </li>
-              <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? (Brass & Charlton, 2022)</a><br>
+              <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
               Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
               </li>
             </ul>
@@ -88,13 +88,13 @@ title: Beginner Resources
           <summary><i>Resources</i></summary>
             <br>
             <ul>
-              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? (Government of Canada)</a><br>
+              <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
               Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
               </li>
-              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science (Springer Nature)</a><br>
+              <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science <i>(Springer Nature)</i></a><br>
               Provides a concise list of the advantages of open science.
               </li>
-              <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? (Bertram et al., 2023)</a><br>
+              <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? <i>(Bertram et al., 2023)</i></a><br>
               Offers examples for how open science can be implemented throughout the research lifecycle.
               </li>
             </ul>
@@ -151,16 +151,16 @@ title: Beginner Resources
             <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
               Explains the origins of the replication crisis.
             </li>
-            <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis (Anvari & Lakens, 2018)</a><br>
+            <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis <i>(Anvari & Lakens, 2018)</i></a><br>
               Explores the impact of the replication crisis on the public's trust in psychological science.
             </li> 
-            <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? (UBC)</a><br>
+            <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? <i>(UBC)</i></a><br>
               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
             </li>
               <ul>
-                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility (FORRT)</a>
+                <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i><(FORRT)</i></a>
                 </li>
-                <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility (CMU ML Blog)</a>
+                <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility <i>(CMU ML Blog)</i></a>
                 </li>
               </ul>
           </ul>
