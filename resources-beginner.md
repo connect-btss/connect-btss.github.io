@@ -267,7 +267,6 @@ title: Beginner Resources
   </div>
 </div>
 
-
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
   <div id="box-yellow">
     <div id="header-blue">
