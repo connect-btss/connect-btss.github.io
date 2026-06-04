@@ -65,7 +65,7 @@ title: CONNECT partners
       </div>
       <div class="col-sm-9">
         <h4><a href="https://manymanys.github.io/">ManyManys</a></h4>
-        <i></i>
+        <i>A large-scale collaboration on comparative cognition and behavior across animal taxa</i>
       </div>
     </div>
     <hr>
