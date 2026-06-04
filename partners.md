@@ -68,6 +68,16 @@ title: CONNECT partners
         <i>Establishing a culture of collaboration in primate cognition research</i>
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://manymanys.github.io/"><img src="/assets/img/manymanys-square.png" alt="ManyManys logo" width="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manymanys.github.io/">ManyManys</a></h4>
+        <i></i>
+      </div>
+    </div>
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
