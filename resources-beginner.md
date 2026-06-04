@@ -117,7 +117,7 @@ title: Beginner Resources
       </p>
       <div id="box-white">
         <table>
-            <tr>
+          <tr>
             <th>Feature</th>
             <th>Replication</th>
             <th>Reproducibility</th>
