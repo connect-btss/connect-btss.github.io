@@ -53,6 +53,7 @@ title: Beginner Resources
         <div id="header-yellow">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> How has Big Team Science been implemented across different research fields? </h2>
         </div>
+        <br>
           <ul>
             <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
             </li>
