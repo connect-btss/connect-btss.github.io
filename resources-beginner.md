@@ -15,11 +15,11 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
   <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-    <div id="box-yellow">
-      <div id="header-blue">
-      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
-    </div>
     <div id="box-white">
+      <div id="box-yellow">
+        <div id="header-blue">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
+      </div>
       <p>
         Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
       </p> 
@@ -70,16 +70,16 @@ title: Beginner Resources
   </div>
 
 <table style="width:100%; border:none; margin-bottom: 40px;">
-  <tr>
-    <!-- LEFT -->
-    <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-      <div id="box-blue">
-        <div id="header-red">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
-        </div>
-        <p>
-        Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
-        </p>     
+<tr>
+<!-- LEFT -->
+<td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
+<div id="box-blue">
+  <div id="header-red">
+   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
+  </div>
+  <p>
+  Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
+  </p>     
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
@@ -89,14 +89,15 @@ title: Beginner Resources
         </div>
       </div>
     </td>  
-    <!-- RIGHT -->
-    <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-      <div id="box-teal">
-        <div id="header-blue">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
-        </div>
-        <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.
-        </p>
+<!-- RIGHT -->
+<td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
+<div id="box-teal">
+  <div id="header-blue">
+  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
+  </div>
+  <p> 
+  Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.
+  </p>
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
