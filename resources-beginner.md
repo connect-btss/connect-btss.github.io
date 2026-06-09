@@ -15,7 +15,7 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-yellow">
+  <div id="box-blue">
     <div id="box-white">
       <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
@@ -38,7 +38,6 @@ title: Beginner Resources
         <div id="header-red">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Managing Big Team Science</h2>
         </div>
-          <br>
           <ul>
             <br>
             <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
@@ -54,9 +53,7 @@ title: Beginner Resources
         <div id="header-yellow">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> How has Big Team Science been implemented across different research fields? </h2>
         </div>
-          <br>
           <ul>
-            <br>
             <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
             </li>
             <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
@@ -81,7 +78,6 @@ title: Beginner Resources
    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
   </div>
         <div id="box-white">
-        <br>
         <h2>FAIR Data</h2>
         <ul>
         <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
