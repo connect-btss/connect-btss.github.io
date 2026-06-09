@@ -324,6 +324,7 @@ title: Beginner Resources
     <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
     </div>
+    <br>
       <div id="box-white">
       <ul>
         <li>
