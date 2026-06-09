@@ -14,6 +14,64 @@ title: Beginner Resources
 
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+  <div id="box-yellow">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
+    </div>
+      <p>
+        Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
+      </p> 
+      <div id="box-yellow">
+        <div id="header-teal">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Big Team Science</h2>
+        </div>
+          <br>
+          <ul>
+          <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>
+          Provides an overview of BTS, as well as recommendations for expanding collaborative research.
+          </li>
+          <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
+          "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
+          </li>
+          </ul>
+      </div>
+      <div id="box-blue">
+        <div id="header-red">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Managing Big Team Science</h2>
+        </div>
+          <br>
+          <ul>
+            <br>
+            <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
+            Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
+            </li>
+            <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10343" target="_blank">Team Science: A Syllabus For Success on Big Projects <i>(Peterson et al., 2023)</i></a><br>
+            Outlines strategies for successful team science.
+            </li>
+            <li><a href="https://journals.sagepub.com/doi/10.1177/25152459261423052" target="_blank">Realizing the Full Potential of Big-Team Behavioral Science: How Global Collaborations Can Benefit From Participatory Open-Research Practices <i>(Weinstein et al., 2026)</i></a><br>
+            Explores how open-research practices can strengthen global BTS.
+            </li>
+          </ul>
+      </div>
+      <div id="box-red">
+        <div id="header-blue">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> How has Big Team Science been implemented across different research fields? </h2>
+        </div>
+          <br>
+          <ul>
+            <br>
+            <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
+            </li>
+            <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
+            </li>
+            <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
+            </li>
+            <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>
+            </li>
+          </ul>
+      </div>
+  </div>
 
 <table style="width:100%; border:none; margin-bottom: 40px;">
   <tr>
@@ -30,15 +88,6 @@ title: Beginner Resources
           <details>
           <summary><i>Resources</i></summary>
            <br>
-           <ul>
-              <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
-                "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
-             </li>
-              <br>
-              <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
-                Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
-              </li>
-           </ul>
             <br>
           </details> 
         </div>
