@@ -15,8 +15,8 @@ title: Beginner Resources
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
   <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-    <div id="box-white">
-      <div id="box-yellow">
+    <div id="box-yellow">
+      <div id="box-white">
         <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
       </div>
@@ -75,17 +75,22 @@ title: Beginner Resources
 <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
 <div id="box-blue">
   <div id="header-red">
-   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Big Team Science (BTS)?</h2>
+   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
   </div>
-  <p>
-  Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
-  </p>     
         <div id="box-white">
-          <details>
-          <summary><i>Resources</i></summary>
-           <br>
-            <br>
-          </details> 
+        <h2>FAIR Data</h2>
+        <ul>
+        <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
+        <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
+        </ul>
+        <h2>Authorship / Contribution Reporting</h2>
+        <ul>
+        <li>CRediT (Contributor Roles Taxonomy)</li>
+        </ul>
+        <h2>Collaboration Agreements</h2>
+        <ul>
+        <li>Collaboration Agreements</li>
+        </ul>
         </div>
       </div>
     </td>  
