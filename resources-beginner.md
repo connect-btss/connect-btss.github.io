@@ -14,10 +14,10 @@ title: Beginner Resources
 
 > > [View advanced resources]({{site.baseurl}}/resources-advanced)
 
-  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-    <div id="box-yellow">
-      <div id="box-white">
-        <div id="header-blue">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+  <div id="box-yellow">
+    <div id="box-white">
+      <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
       </div>
       <p>
@@ -51,7 +51,7 @@ title: Beginner Resources
             Explores how open-research practices can strengthen global BTS.
             </li>
           </ul>
-        <div id="header-blue">
+        <div id="header-yellow">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> How has Big Team Science been implemented across different research fields? </h2>
         </div>
           <br>
@@ -66,8 +66,11 @@ title: Beginner Resources
             <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>
             </li>
           </ul>
-      </div
+    </div>      
   </div>
+</div>
+
+
 
 <table style="width:100%; border:none; margin-bottom: 40px;">
 <tr>
@@ -78,6 +81,7 @@ title: Beginner Resources
    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
   </div>
         <div id="box-white">
+        <br>
         <h2>FAIR Data</h2>
         <ul>
         <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
