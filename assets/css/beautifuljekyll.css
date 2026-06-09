@@ -1186,9 +1186,6 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }
-#box-white:hover{
-  transform: translateY(-5px);
-}
 
 #header-yellow {
   border-radius: 15px;
