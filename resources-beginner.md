@@ -84,7 +84,7 @@ title: Beginner Resources
         </div>
         <div id="box-white">
           <h2>FAIR Data</h2>
-          FAIR data is Findable, Accessible, Interoperable, and Reusable
+          FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
           <ul>
             <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
             <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
