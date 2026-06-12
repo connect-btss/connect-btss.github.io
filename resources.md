@@ -24,7 +24,7 @@ title: Big Team Science resources
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href=""><img src="/assets/img/advanced.png" alt="advanced badge, with an icon of a gauge indicating a high level" width="100"></a>
+        <a href=""><img src="/assets/img/advanced.png" alt="advanced badge, with an icon of a gauge indicating a high level" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h2><a href="">Advanced resources coming soon!</a></h2>
@@ -32,14 +32,6 @@ title: Big Team Science resources
     </div>
   </div>
 </section>
-
-## >> [Getting started with Big Team and Open Science]({{site.baseurl}}/resources-beginner/)
-
-***
-
-## Advanced resources coming soon!
-
-<!-- ## >> [Advanced resources for Big Team and Open Science]({{site.baseurl}}/resources-advanced/) -->
 
 ***
 <br>
