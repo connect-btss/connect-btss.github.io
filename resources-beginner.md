@@ -84,6 +84,7 @@ title: Beginner Resources
         </div>
         <div id="box-white">
           <h2>FAIR Data</h2>
+          <p>FAIR data is Findable, Accessible, Interoperable, and Reusable</p>
           <ul>
           <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
           <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
@@ -93,8 +94,10 @@ title: Beginner Resources
           <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
           </ul>
           <h2>Collaboration Agreements</h2>
+          <p>Collaboration agreements are documents that transparently outline the terms of a joint project</p>
           <ul>
-          <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
+            <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
+            <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
           </ul>
         </div>
       </div>
