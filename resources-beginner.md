@@ -12,7 +12,11 @@ title: Beginner Resources
 
 > If you would like to suggest a resource for this list, please fill out our [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
 
-> > [View advanced resources]({{site.baseurl}}/resources-advanced)
+> Advanced resources coming soon!
+
+<!--
+> [View advanced resources]({{site.baseurl}}/resources-advanced)
+-->
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
   <div id="box-blue">
@@ -71,39 +75,37 @@ title: Beginner Resources
 
 
 <table style="width:100%; border:none; margin-bottom: 40px;">
-<tr>
-<!-- LEFT -->
-<td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-<div id="box-blue">
-  <div id="header-red">
-   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
-  </div>
+  <tr>
+    <!-- LEFT -->
+    <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
+      <div id="box-blue">
+        <div id="header-red">
+         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
+        </div>
         <div id="box-white">
-        <h2>FAIR Data</h2>
-        <ul>
-        <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
-        <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
-        </ul>
-        <h2>Authorship / Contribution Reporting</h2>
-        <ul>
-        <li>CRediT (Contributor Roles Taxonomy)</li>
-        </ul>
-        <h2>Collaboration Agreements</h2>
-        <ul>
-        <li>Collaboration Agreements</li>
-        </ul>
+          <h2>FAIR Data</h2>
+          <ul>
+          <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
+          <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
+          </ul>
+          <h2>Authorship / Contribution Reporting</h2>
+          <ul>
+          <li>CRediT (Contributor Roles Taxonomy)</li>
+          </ul>
+          <h2>Collaboration Agreements</h2>
+          <ul>
+          <li>Collaboration Agreements</li>
+          </ul>
         </div>
       </div>
     </td>  
-<!-- RIGHT -->
-<td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-<div id="box-teal">
-  <div id="header-blue">
-  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
-  </div>
-  <p> 
-  Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.
-  </p>
+    <!-- RIGHT -->
+    <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
+      <div id="box-teal">
+        <div id="header-blue">
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
+        </div>
+        <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
         <div id="box-white">
           <details>
           <summary><i>Resources</i></summary>
