@@ -90,11 +90,11 @@ title: Beginner Resources
           </ul>
           <h2>Authorship / Contribution Reporting</h2>
           <ul>
-          <li>CRediT (Contributor Roles Taxonomy)</li>
+          <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
           </ul>
           <h2>Collaboration Agreements</h2>
           <ul>
-          <li>Collaboration Agreements</li>
+          <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
           </ul>
         </div>
       </div>
