@@ -17,6 +17,8 @@ title: Big Team Science resources
 <!-- ## >> [Advanced resources for Big Team and Open Science]({{site.baseurl}}/resources-advanced/) -->
 
 ***
+<br>
+
 ## Resources provided by CONNECT and CONNECT partners
 
 
