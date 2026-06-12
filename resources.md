@@ -13,7 +13,6 @@ title: Big Team Science resources
     <div class="row">
       <div class="col-sm-3" align="center">
         <br>
-        <br>
         <a href="{{site.baseurl}}/resources-beginner/"><img src="/assets/img/beginner.png" alt="beginner badge, with an icon of a stick figure starting up a set of stairs" height="100"></a>
       </div>
       <div class="col-sm-9">
