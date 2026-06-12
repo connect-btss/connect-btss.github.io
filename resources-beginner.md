@@ -97,9 +97,13 @@ title: Beginner Resources
           <summary><i>Resources</i></summary>
             <ul>
               <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
+              <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
             </ul>
-            <h2>Collaboration Agreements</h2>
-            Collaboration agreements are documents that transparently outline the terms of a joint project
+          </details>
+          <h2>Collaboration Agreements</h2>
+          Collaboration agreements are documents that transparently outline the terms of a joint project
+          <details>
+          <summary><i>Resources</i></summary>  
             <ul>
               <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
               <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
