@@ -5,11 +5,11 @@ title: Big Team Science resources
 
 
 ***
-## [Resources for getting started with Big Team and Open Science]({{site.baseurl}}/resources-beginner)
+## [Resources for getting started with Big Team and Open Science]({{site.baseurl}}/resources-beginner/)
 
 ***
 
-## [Advanced resources for Big Team and Open Science]({{site.baseurl}}/resources-advanced)
+## [Advanced resources for Big Team and Open Science]({{site.baseurl}}/resources-advanced/)
 
 ***
 ## Resources provided by CONNECT and CONNECT partners
