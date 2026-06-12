@@ -10,7 +10,7 @@ title: Big Team Science resources
 
 ***
 
-## Advanced resources coming soon!)
+## Advanced resources coming soon!
 
 <!-- ## >> [Advanced resources for Big Team and Open Science]({{site.baseurl}}/resources-advanced/) -->
 
