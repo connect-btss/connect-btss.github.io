@@ -25,11 +25,10 @@ title: Big Team Science resources
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <br>
-        <a href="http://themanybirds.com"><img src="/assets/img/manybirds-logo.png" alt="ManyBirds logo" width="100"></a>
+        <a href=""><img src="/assets/img/advanced.png" alt="advanced badge, with an icon of a gauge indicating a high level" width="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="http://themanybirds.com">ManyBirds</a></h4>
-        <i>Aims to provide new insight into the evolution of avian cognition and behaviour through multi-site comparative studies and large-scale collaboration</i>
+        <h2><a href="">Advanced resources coming soon!</a></h2>
       </div>
     </div>
   </div>
