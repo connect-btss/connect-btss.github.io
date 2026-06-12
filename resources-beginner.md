@@ -90,8 +90,8 @@ title: Beginner Resources
             <ul>
               <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
               <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
-          </details>
             </ul>
+          </details>
             <h2>Authorship / Contribution Reporting</h2>
             <ul>
               <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
