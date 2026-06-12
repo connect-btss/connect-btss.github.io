@@ -153,8 +153,16 @@ title: Beginner Resources
         </div>
       </div>
     </td>
+    <!--RIGHT -->
+    <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
+      <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+        <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
+        <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">Government of Canada</a>)</i>
+     </div>
+    </td>
   </tr>
 </table>  
+
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
