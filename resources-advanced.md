@@ -27,7 +27,6 @@ title: Advanced Resources
     <!--- ADDING A TABLE -->
     <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
       <tr>
-        <div id="box-white">
         <!-- LEFT -->
           <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
             <div id="header-teal">
@@ -38,15 +37,18 @@ title: Advanced Resources
               <p>
                 Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
               </p>
-            <details>
-            <summary><i>Resources</i></summary>
-              <ul>
-                <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank" rel="noopener noreferrer"> Time Zone Cheat Sheet</a>
-                <br>
-                  This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
-                <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i>
-              </ul>
-            </details>
+            <br>
+            <div id="box-white">
+              <details>
+              <summary><i>Resources</i></summary>
+                <ul>
+                  <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank" rel="noopener noreferrer"> Time Zone Cheat Sheet</a>
+                  <br>
+                    This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
+                  <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i>
+                </ul>
+              </details>
+            </div>
           </td>
         <!--- CLOSING THE LEFT SIDE -->
         <!--- RIGHT --->
@@ -60,17 +62,18 @@ title: Advanced Resources
               Collaborative writing is the process of creating a document together with multiple contributors. In Big Team Science, it allows researchers to combine their expertise, improve the quality of the work, and ensure different perspectives are represented. Successful collaborative writing relies on clear communication, defined roles, regular feedback, and shared responsibility for reviewing and refining the final manuscript.
             </p>
           <br>
-          <details>
-          <summary><i>Resources</i></summary>
-            <ul>
-              <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
-              </li>
-              <li><a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
-              </li>
-            </ul>
-          </details>
+          <div id="box-white">
+            <details>
+            <summary><i>Resources</i></summary>
+              <ul>
+                <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+                </li>
+                <li><a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+                </li>
+              </ul>
+            </details>
+          </div>
         </td>
-        </div>
       </tr>  
     </table>    
   </div>
