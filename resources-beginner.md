@@ -82,6 +82,7 @@ title: Beginner Resources
         <div id="header-red">
          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
         </div>
+        <br>
         <div id="box-white">
           <h2>FAIR Data</h2>
           FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
