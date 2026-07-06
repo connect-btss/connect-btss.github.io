@@ -45,30 +45,29 @@ title: Advanced Resources
         </td>
         <!-- RIGHT -->
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-          <div id="box-yellow">
+          <div id="box-white">
             <div id="header-blue">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
                 Collaborative Writing
               </h2>
             </div>
-          <br>
-          <details>
-          <summary><i>Resources</i></summary>
-            <ul>
-              <li>
-                <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
-              </li>
-              <li>
-                <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
-              </li>
-            </ul>
-          </details>
+            <br>
+            <details>
+            <summary><i>Resources</i></summary>
+              <ul>
+                <li>
+                  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+                </li>
+                <li>
+                  <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+                </li>
+              </ul>
+            </details>
+          </div>
         </div>
-      </div>
-     </div
-    </td>
-  </tr>
-</div>
+      </td>
+    </tr>
+  </div>
 
 
     
