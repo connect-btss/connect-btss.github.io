@@ -1,13 +1,3 @@
----
-layout: page
-title: Advanced Resources
----
-
-> If you would like to suggest a resource for this list, please fill out our [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
-
-> [View resources for beginners]({{site.baseurl}}/resources-beginner)
-
-***
 
 ---
 layout: page
