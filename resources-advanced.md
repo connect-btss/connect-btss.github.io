@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Advanced Resources
@@ -12,28 +11,30 @@ title: Advanced Resources
 
 <!-- MANAGING GLOBAL TEAMS -->
 
-  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
     <div id="box-blue">
       <div id="header-teal">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
           Managing Global Teams
         </h2>
       </div>
-      <div id="box-white">
-        <div id="box-red">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Time Zones?</h2>
-        </div>
+    <div id="box-white">
+      <div id="box-red">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+          Time Zones?
+        </h2>
+      </div>
           <p>
             Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
           </p>
           <ul>
             <br>
             <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
-            This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
+              This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
             </li>
             <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a>
             </li>
-            </ul>
+          </ul>
         <div id="box-yellow">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
         </div>
@@ -46,7 +47,7 @@ title: Advanced Resources
         </div>
       </div>
     </div
-  </div>
+</div>
 
   <!-- PUBLISHING + AUTHORSHIP --> 
   <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
