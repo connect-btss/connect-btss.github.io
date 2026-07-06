@@ -244,7 +244,6 @@ title: Beginner Resources
     <div id="header-yellow">
       <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
     </div>
-    <br>
     <p>
       Credible research refers to research that is trusted, reliable, and accurate.
     </p>

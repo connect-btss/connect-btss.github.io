@@ -59,14 +59,16 @@ title: Advanced Resources
     </div> 
   <!-- RIGHT COLUMN -->
     <div style="flex:1; min-width:300px;">
-      <div id="header-yellow">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-          Collaborative Writing
-        </h2>
-      </div>
+      <div id="box-white">
+        <div id="header-teal">
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+            Collaborative Writing
+          </h2>
+        </div>
       <p>
         Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
       </p>
+      </div>
       <br>
       <div id="box-white">
         <details>
