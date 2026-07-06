@@ -45,7 +45,7 @@ title: Advanced Resources
         <!-- RIGHT -->
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
           <div id="box-white">
-            <div id="header-blue">
+            <div id="header-yellow">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
                 Collaborative Writing
               </h2>
@@ -81,8 +81,7 @@ title: Advanced Resources
     
     -->
     
-<br>
-All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.>
+>All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
     
     
     <!--
