@@ -36,8 +36,9 @@ title: Advanced Resources
             <summary><i>Resources</i></summary>
               <ul>
                 <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank" rel="noopener noreferrer"> Time Zone Cheat Sheet</a>
+                <br>
                   This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
-                <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)
+                <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i>
               </ul>
             </details>
           </div>
