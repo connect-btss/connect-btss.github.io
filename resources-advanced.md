@@ -58,6 +58,9 @@ title: Advanced Resources
                 Collaborative Writing
               </h2>
             </div>
+              <p>
+                Collaborative writing is the process of creating a document together with multiple contributors. In Big Team Science, it allows researchers to combine their expertise, improve the quality of the work, and ensure different perspectives are represented. Successful collaborative writing relies on clear communication, defined roles, regular feedback, and shared responsibility for reviewing and refining the final manuscript.
+              </p>
             <br>
             <details>
             <summary><i>Resources</i></summary>
@@ -88,12 +91,10 @@ title: Advanced Resources
         <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
         <tr>
         <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-          <div id="box-teal">
             <div id="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 What is the Process for Publishing?
               </h2>
-            </div>
             <p>
               Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent collaborative efforts and communicate large-scale findings.
             </p>
@@ -120,12 +121,10 @@ title: Advanced Resources
           </div>
         </td>
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-          <div id="box-teal">
             <div id="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 Authorship
               </h2>
-            </div>
             <p>
               Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
             </p>
