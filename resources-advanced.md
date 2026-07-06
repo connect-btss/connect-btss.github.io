@@ -54,7 +54,7 @@ title: Advanced Resources
             </ul>
         </details>
       </div>
-    </div 
+    </div> 
   </div>
   <!-- RIGHT COLUMN -->
     <div style="flex:1; min-width:300px;">
@@ -85,7 +85,7 @@ title: Advanced Resources
           </ul>
         </details>
       </div>
-    </div
+    </div>
   </div>
 </div>
 
