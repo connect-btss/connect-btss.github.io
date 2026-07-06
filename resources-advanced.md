@@ -100,7 +100,7 @@ title: Advanced Resources
             </p>
               <div id="box-white">
               <details>
-              <summary><i>Resources/i></summary>
+              <summary><i>Resources</i></summary>
                 <ul>
                   <li> <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank"> What Defines BTS? </a> <i>(Preprint)
                   </i>
@@ -130,7 +130,7 @@ title: Advanced Resources
             </p>
               <div id="box-white">
               <details>
-              <summary><i>Resources/i></summary>
+              <summary><i>Resources</i></summary>
                 <ul>
                   <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
                   <br>
