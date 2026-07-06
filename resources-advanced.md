@@ -16,6 +16,82 @@ title: Advanced Resources
 
 ***
 <!-- MANAGING GLOBAL TEAMS -->
+<div id="box-teal" style="margin-bottom: 40px;">
+  <div id="header-red">
+    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+      Managing Global Teams
+    </h2>
+  </div>
+  <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
+    <!-- LEFT -->
+    <div style="flex:1; min-width:300px;">
+      <div id="header-teal">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+          Time Zones
+        </h2>
+      </div>
+      <p>
+        Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
+      </p>
+      <br>
+      <div id="box-white">
+        <details>
+          <summary><i>Resources</i></summary>
+            <ul>
+              <li>
+                <a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank" rel="noopener noreferrer"> 
+                  Time Zone Cheat Sheet
+                </a>
+                <br>
+                This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
+              </li>  
+              <li>
+                <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> 
+                The Advantage of Big Team Science: Lessons Learned From Cognitive Science
+                </a>
+                <i>(Vaidis et al., 2026)</i>
+              </li>
+            </ul>
+        </details>
+      </div>
+    </div 
+  </div>
+  <!-- RIGHT COLUMN -->
+    <div style="flex:1; min-width:300px;">
+      <div id="header-teal">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+          Collaborative Writing
+        </h2>
+      </div>
+      <p>
+        Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
+      </p>
+      <br>
+      <div id="box-white">
+        <details>
+          <summary><i>Resources</i></summary>
+          <ul>
+            <li>
+              <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank" rel="noopener noreferrer">
+                Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper
+              </a>
+            </li>
+            <li>
+              <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank" rel="noopener noreferrer">
+                Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration
+              </a>
+              <i>(Preprint)</i>
+            </li>
+          </ul>
+        </details>
+      </div>
+    </div
+  </div>
+</div>
+
+
+
+
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
   <div id="box-teal">
     <div id="header-red">
@@ -74,10 +150,12 @@ title: Advanced Resources
             </details>
           </div>
         </td>
+        <!--- CLOSING THE RIGHT SIDE -->
       </tr>  
     </table>    
   </div>
 </div>
+
 
 
 <!-- PUBLISHING + AUTHORSHIP -->
@@ -165,7 +243,7 @@ title: Advanced Resources
     
     -->
     
-All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
+> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
     
     
     <!--
