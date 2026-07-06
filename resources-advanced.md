@@ -26,7 +26,7 @@ title: Advanced Resources
     <!-- LEFT -->
     <div style="flex:1; min-width:300px;">
       <div id="header-teal">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        <h2 style="margin-bottom:0;margin-top:0;color:#364362">
           Time Zones
         </h2>
       </div>
@@ -58,7 +58,7 @@ title: Advanced Resources
   <!-- RIGHT COLUMN -->
     <div style="flex:1; min-width:300px;">
       <div id="header-teal">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        <h2 style="margin-bottom:0;margin-top:0;color:#364362;">
           Collaborative Writing
         </h2>
       </div>
@@ -91,8 +91,8 @@ title: Advanced Resources
 
 <!-- PUBLISHING + AUTHORSHIP -->
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-teal">
-    <div id="header-red">
+  <div id="box-yellow">
+    <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
         Publishing
       </h2>
@@ -131,7 +131,7 @@ title: Advanced Resources
         </td>
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
         <!-- RIGHT -->
-            <div id="header-red">
+            <div id="header-blue">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 Authorship
               </h2>
