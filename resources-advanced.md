@@ -15,23 +15,22 @@ title: Advanced Resources
 > [View resources for beginners]({{site.baseurl}}/resources-beginner)
 
 ***
-
 <!-- MANAGING GLOBAL TEAMS -->
-
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-    <div id="box-blue">
-      <div id="header-teal">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-          Managing Global Teams
-        </h2>
-      </div>
+  <div id="box-teal">
+    <div id="header-red">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        Managing Global Teams
+      </h2>
+    </div>
     <br>
+    <!--- ADDING A TABLE -->
     <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
       <tr>
+        <div id="box-white">
         <!-- LEFT -->
-        <td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
-          <div id="box-white">
-            <div id="header-red">
+          <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
+            <div id="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
                 Time Zones
               </h2>
@@ -48,38 +47,36 @@ title: Advanced Resources
                 <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i>
               </ul>
             </details>
-          </div>
-        </td>
-        <!-- RIGHT -->
+          </td>
+        <!--- CLOSING THE LEFT SIDE -->
+        <!--- RIGHT --->
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-          <div id="box-white">
-            <div id="header-yellow">
-              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                Collaborative Writing
-              </h2>
-            </div>
-              <p>
-                Collaborative writing is the process of creating a document together with multiple contributors. In Big Team Science, it allows researchers to combine their expertise, improve the quality of the work, and ensure different perspectives are represented. Successful collaborative writing relies on clear communication, defined roles, regular feedback, and shared responsibility for reviewing and refining the final manuscript.
-              </p>
-            <br>
-            <details>
-            <summary><i>Resources</i></summary>
-              <ul>
-                <li>
-                  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
-                </li>
-                <li>
-                  <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
-                </li>
-              </ul>
-            </details>
+          <div id="header-teal">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              Collaborative Writing
+            </h2>
           </div>
+            <p>
+              Collaborative writing is the process of creating a document together with multiple contributors. In Big Team Science, it allows researchers to combine their expertise, improve the quality of the work, and ensure different perspectives are represented. Successful collaborative writing relies on clear communication, defined roles, regular feedback, and shared responsibility for reviewing and refining the final manuscript.
+            </p>
+          <br>
+          <details>
+          <summary><i>Resources</i></summary>
+            <ul>
+              <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+              </li>
+              <li><a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+              </li>
+            </ul>
+          </details>
+        </td>
         </div>
-      </td>
-    </tr>
+      </tr>  
+    </table>    
   </div>
 </div>
-    
+
+
 <!-- PUBLISHING + AUTHORSHIP -->
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
   <div id="box-teal">
@@ -90,6 +87,7 @@ title: Advanced Resources
       <div id="box-white">
         <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
         <tr>
+        <!-- LEFT -->
         <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
             <div id="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
@@ -121,6 +119,7 @@ title: Advanced Resources
           </div>
         </td>
         <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
+        <!-- RIGHT -->
             <div id="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 Authorship
@@ -165,7 +164,7 @@ title: Advanced Resources
     
     -->
     
-> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
+All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
     
     
     <!--
