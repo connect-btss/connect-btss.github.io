@@ -32,13 +32,12 @@ title: Advanced Resources
               <p>
                 Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
               </p>
-            <br>
             <details>
             <summary><i>Resources</i></summary>
               <ul>
                 <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
-                  This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.</li>
-                <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a></li>
+                  This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
+                <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)
               </ul>
             </details>
           </div>
@@ -69,14 +68,6 @@ title: Advanced Resources
     </tr>
   </div>
 
-
-    
-<p> 
-  <strong> 
-    All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information. 
-  </strong> 
-</p>
-        
     
     <!--
     <details>
@@ -90,9 +81,8 @@ title: Advanced Resources
     
     -->
     
-    <br>
-    
-    <!--- All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.>
+<br>
+All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.>
     
     
     <!--
