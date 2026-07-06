@@ -87,7 +87,6 @@ title: Advanced Resources
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
         Publishing
       </h2>
-      <div id="box-white">
         <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
         <tr>
         <!-- LEFT -->
@@ -149,7 +148,6 @@ title: Advanced Resources
         </td>
         </tr>
         </table>
-      </div>
     </div>
   </div>
 </div>
