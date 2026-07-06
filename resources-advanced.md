@@ -18,6 +18,7 @@ title: Advanced Resources
           Managing Global Teams
         </h2>
       </div>
+    <br>  
     <div id="box-white">
       <div id="box-red">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
@@ -35,9 +36,9 @@ title: Advanced Resources
             <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a>
             </li>
           </ul>
-        <div id="box-yellow">
+      <div id="box-yellow">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
-        </div>
+      </div>
           <ul>
             <li>
               <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
