@@ -18,39 +18,43 @@ title: Advanced Resources
           Managing Global Teams
         </h2>
       </div>
-    <br>  
-    <div id="box-white">
-      <div id="box-red">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-          Time Zones
-        </h2>
-      </div>
-          <p>
-            Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
-          </p>
-          <ul>
-            <br>
-            <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
-              This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.</li>
-            <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a></li>
-          </ul>
-      <div id="box-yellow">
+    <br>
+    <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
+    <tr>
+    <td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
+      <div id="box-white">
+        <div id="box-red">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-            Collaborative Writing
+            Time Zones
           </h2>
-      </div>
-        <br>
-          <ul>
-            <li>
-              <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
-            </li>
-            <li>
-              <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
-            </li>
-          </ul>
         </div>
-      </div>
-    </div
+            <p>
+              Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
+            </p>
+            <ul>
+              <br>
+              <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
+                This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.</li>
+              <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a></li>
+            </ul>
+        <div id="box-yellow">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              Collaborative Writing
+            </h2>
+        </div>
+          <br>
+            <ul>
+              <li>
+                <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+              </li>
+              <li>
+                <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div
+    </td>
 </div>
 
 
