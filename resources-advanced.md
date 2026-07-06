@@ -39,9 +39,11 @@ title: Advanced Resources
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
         </div>
           <ul>
-            <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+            <li>
+              <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
             </li>
-            <li> <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+            <li>
+              <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
             </li>
           </ul>
         </div>
@@ -49,13 +51,15 @@ title: Advanced Resources
     </div
 </div>
 
-  <!-- PUBLISHING + AUTHORSHIP --> 
-  <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
-  <tr>
-  <td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
+
+<!-- PUBLISHING + AUTHORSHIP --> 
+<table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
+<tr>
+<td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
   <div id="box-yellow">
     <div id="header-blue">
-      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Publishing 
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+        Publishing 
       </h2> 
     </div> 
     <p> 
@@ -82,7 +86,7 @@ title: Advanced Resources
       </details> 
     </div> 
   </div> 
-  </td> 
+</td> 
       
 <td style="width:50%; vertical-align:top; padding-left:10px; border:none;"> 
 <div id="box-teal"> 
@@ -268,7 +272,7 @@ title: Advanced Resources
 
 <br>
 
-> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.  
+<!--- All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.>
 
 
 <!--
