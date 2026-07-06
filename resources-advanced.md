@@ -22,76 +22,76 @@ title: Advanced Resources
 
 <!-- MANAGING GLOBAL TEAMS -->
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-blue">
-    <div id="header-teal">
-      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-        Managing Global Teams
-      </h2>
-    </div>
-    <div id="box-white">
-      <div id="box-red">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Time Zones?</h2>
+  <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+    <div id="box-blue">
+      <div id="header-teal">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+          Managing Global Teams
+        </h2>
       </div>
-        <p>
-          Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
-        </p>
-        <ul>
-          <br>
-          <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
-          This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
-          </li>
-          <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a>
-          </li>
+      <div id="box-white">
+        <div id="box-red">
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Time Zones?</h2>
+        </div>
+          <p>
+            Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
+          </p>
+          <ul>
+            <br>
+            <li><a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank"> Time Zone Cheat Sheet <br>
+            This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects 
+            </li>
+            <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank"> The Advantage of Big Team Science: Lessons Learned From Cognitive Science <i>(Vaidis et al., 2026)</i</a>
+            </li>
+            </ul>
+        <div id="box-yellow">
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
+        </div>
+          <ul>
+            <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
+            </li>
+            <li> <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
+            </li>
           </ul>
-      <div id="box-yellow">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
+        </div>
       </div>
-        <ul>
-          <li><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
-          </li>
-          <li> <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank"> Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration </a> <i>(Preprint)</i> 
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div
-</div>
+    </div
+  </div>
 
-<!-- PUBLISHING + AUTHORSHIP --> 
-<table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
-<tr>
-<td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
-<div id="box-yellow">
-  <div id="header-blue">
-    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Publishing 
-    </h2> 
+  <!-- PUBLISHING + AUTHORSHIP --> 
+  <table class="layout-table" style="width:100%; border:none; margin-bottom:40px;">
+  <tr>
+  <td style="width:50%; vertical-align:top; padding-right:10px; border:none;"> 
+  <div id="box-yellow">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Publishing 
+      </h2> 
+    </div> 
+    <p> 
+      Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent collaborative efforts and communicate large-scale findings. 
+    </p> 
+      <div id="box-white"> 
+      <details>
+        <summary><i>Resources</i></summary> 
+        <ul> 
+          <li> <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank"> What Defines BTS? </a> <i>(Preprint)
+          </i>
+          <br> 
+          Examines BTS publications, including article content and author characteristics. 
+          </li> 
+          <li> <a href="https://www.apa.org/pubs/journals/resources/publishing-tips/publishing-process" target="_blank"> Publishing in a Scholarly Journal </a> <i>(American Psychological Association)</i>
+          </li> 
+          <li> <a href="https://openpsychologyjournal.com/publication-process.php" target="_blank"> Flowchart of Publication Process </a> 
+          </li>
+          <li> <a href="https://www.apa.org/pubs/authors/new-author-guide.pdf" target="_blank"> Preparing Manuscripts for Publication in Psychology Journals </a> 
+          </li> 
+          <li> <a href="https://guides.hsict.library.utoronto.ca/publishing/OA" target="_blank"> Open Access Publishing vs. Traditional Publishing </a> 
+          </li> 
+        </ul> 
+      </details> 
+    </div> 
   </div> 
-  <p> 
-    Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent collaborative efforts and communicate large-scale findings. 
-  </p> 
-    <div id="box-white"> 
-    <details>
-      <summary><i>Resources</i></summary> 
-      <ul> 
-        <li> <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank"> What Defines BTS? </a> <i>(Preprint)
-        </i>
-        <br> 
-        Examines BTS publications, including article content and author characteristics. 
-        </li> 
-        <li> <a href="https://www.apa.org/pubs/journals/resources/publishing-tips/publishing-process" target="_blank"> Publishing in a Scholarly Journal </a> <i>(American Psychological Association)</i>
-        </li> 
-        <li> <a href="https://openpsychologyjournal.com/publication-process.php" target="_blank"> Flowchart of Publication Process </a> 
-        </li>
-        <li> <a href="https://www.apa.org/pubs/authors/new-author-guide.pdf" target="_blank"> Preparing Manuscripts for Publication in Psychology Journals </a> 
-        </li> 
-        <li> <a href="https://guides.hsict.library.utoronto.ca/publishing/OA" target="_blank"> Open Access Publishing vs. Traditional Publishing </a> 
-        </li> 
-      </ul> 
-    </details> 
-  </div> 
-</div> 
-</td> 
+  </td> 
       
 <td style="width:50%; vertical-align:top; padding-left:10px; border:none;"> 
 <div id="box-teal"> 
