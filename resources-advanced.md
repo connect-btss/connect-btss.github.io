@@ -55,7 +55,6 @@ title: Advanced Resources
         </details>
       </div>
     </div> 
-  </div>
   <!-- RIGHT COLUMN -->
     <div style="flex:1; min-width:300px;">
       <div id="header-teal">
@@ -163,29 +162,4 @@ title: Advanced Resources
 </div>
 
     
-    <!--
-    <details>
-      <summary>Click for Resources</summary>
-        <ul>
-          <li><a href="" target="_blank"></a></li>  
-          <li><a href="" target="_blank"></a></li>
-          <li><a href="" target="_blank"></a></li> 
-        </ul>
-    </details> 
-    
-    -->
-    
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
-    
-    
-    <!--
-    <details>
-      <summary>Click for Resources</summary>
-        <ul>
-          <li><a href="" target="_blank"></a></li>  
-          <li><a href="" target="_blank"></a></li>
-          <li><a href="" target="_blank"></a></li> 
-        </ul>
-    </details> 
-    
-    -->
