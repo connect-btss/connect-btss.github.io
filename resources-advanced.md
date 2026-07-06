@@ -22,7 +22,7 @@ title: Advanced Resources
     <div id="box-white">
       <div id="box-red">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-          Time Zones?
+          Time Zones
         </h2>
       </div>
           <p>
@@ -37,8 +37,11 @@ title: Advanced Resources
             </li>
           </ul>
       <div id="box-yellow">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Collaborative Writing</h2>
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+            Collaborative Writing
+          </h2>
       </div>
+        <br>
           <ul>
             <li>
               <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank"> Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper </a> 
