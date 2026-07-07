@@ -183,61 +183,63 @@ title: Advanced Resources
 
 
 <!-- PREREGISTRATION -->
-<div id="box-yellow" style="margin-bottom: 40px;">
-  <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
-  <!-- LEFT -->
-  <div style="flex:1; min-width:400px;">
-  <div id="box-white">
-    <div id="header-blue">
-      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-        How do you Preregister a Study?
-      </h2>
-    </div>
-    <p>
-      Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
-    </p>
-  </div>
-  <br>
-  <div id="box-white">
-    <details>
-    <summary><i>Resources</i></summary>
-      <br>
-      <ul>
-        <li> <a href="#" target="_blank"> What is Preregistration? </a>
-        <br>
-         Insert blurb here. 
-        </li> 
-        <li> 
-          <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-          <br> 
-          Insert blurb here.               
-        </li> 
-        <li> 
-          <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
-        </li>
-        <li> 
-          <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
-        </li>
-      </ul>
-    </details>
-    <!-- RIGHT -->
-    <div style="flex:1; min-width:200px;">
+<div style="display: flex;">
+  <div style="width:200px; height:150px; border:1px solid #391f7b; margin-right: 10px;>
+    <!-- BOX 1 -->
+    <div id="box-purple">
       <div id="box-white">
-        <div id="header-blue">
+        <div id="header-purple"
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-            How can we Integrate OS into Ongoing Projects?
+            How do you Preregister a Study?
           </h2>
-        </div>
+        </div> <!--- closing purple header -->
         <p>
-          Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
+          Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
         </p>
-      </div>
+      </div> <!--- closing white box -->
       <br>
       <div id="box-white">
         <details>
         <summary><i>Resources</i></summary>
-          <br>
+        <br>
           <ul>
+            <li> <a href="#" target="_blank"> What is Preregistration? </a>
+            <br>
+             Insert blurb here. 
+            </li> 
+            <li> 
+              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+              <br> 
+              Insert blurb here.               
+            </li> 
+            <li> 
+              <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+            </li>
+            <li> 
+              <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
+            </li>
+          </ul>
+        </details>
+      </div> <!--- closing white box -->
+    </div> <!--- closing purple box -->
+    <!-- BOX 2 -->
+    <div id="box-lightblue">
+      <div id="box-white">
+        <div id="header-lightblue"
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+            How can we Integrate OS into Ongoing Projects?
+          </h2>
+        </div> <!--- closing lightblue header -->
+        <p>
+        Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
+        </p>
+      </div> <!--- closing white box -->
+      <br>
+      <div id="box-white">
+        <details>
+        <summary><i>Resources</i></summary>
+        <br>
+        <ul>
             <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
             <br>
              Insert blurb here. 
@@ -249,9 +251,11 @@ title: Advanced Resources
             </li> 
           </ul>
         </details>
-      </div>
-    </div>
-</div>
+      </div> <!--- closing white box -->
+    </div> <!--- closing lightblue box -->
+  </div>
+</div>  
+
 
 
 
