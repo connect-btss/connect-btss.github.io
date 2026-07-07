@@ -184,7 +184,7 @@ title: Advanced Resources
 <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
 <div style="display: flex; gap:20px;">
     <!-- BOX 1 -->
-    <div style="flex:2;">
+    <div style="flex:1.5;">
       <div class="box-purple">
         <div class="box-white">
           <div class="header-teal">
