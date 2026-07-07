@@ -281,9 +281,11 @@ title: Advanced Resources
         </h2>
       </div> <!--- closing red header -->
       <br>
-      <p>
-        Explore some of the common challenges researchers face when adopting OS, including cultural, technical, institutional, and resource-related barriers.
-      </p>
+      <div class="box-white">
+        <p>
+          Explore some of the common challenges researchers face when adopting OS, including cultural, technical, institutional, and resource-related barriers.
+        </p>
+      </div> <!--- closing white box -->
       <br>
       <div class="box-white">
         <details>
@@ -306,9 +308,11 @@ title: Advanced Resources
         </h2>
       </div> <!--- closing red header -->
       <br>
-      <p>
-        Examine how authorship is assigned, recognized, and communicated in collaborative research. Discussions include the evolving expectations around credit, contribution, and accountability in OS.
-      </p>
+      <div class="box-white">
+        <p>
+          Examine how authorship is assigned, recognized, and communicated in collaborative research. Discussions include the evolving expectations around credit, contribution, and accountability in OS.
+        </p>
+      </div> <!--- closing white box -->
       <br>
       <div class="box-white">
         <details>
@@ -334,9 +338,11 @@ title: Advanced Resources
         </h2>
       </div> <!--- closing red header -->
       <br>
-      <p>
-        Below discover practical strategies for overcoming obstacles to OS adoption. Learn about policies, tools, training, and community initiatives that support more open, equitable, and sustained research practices.
-      </p>
+      <div class="box-white">
+        <p>
+          Below discover practical strategies for overcoming obstacles to OS adoption. Learn about policies, tools, training, and community initiatives that support more open, equitable, and sustained research practices.
+        </p>
+      </div> <!--- closing white box -->
       <br>
       <div class="box-white">
         <details>
@@ -363,9 +369,11 @@ title: Advanced Resources
         </h2>
       </div> <!--- closing red header -->
       <br>
-      <p>
-        Research findings may appear broadly applicable but may not always generalize across populations, settings, or contexts. Discuss the importance of diversity, replication, and thoughtful study design in producing robust and reliable evidence.
-      </p>
+      <div class="box-white">
+        <p>
+          Research findings may appear broadly applicable but may not always generalize across populations, settings, or contexts. Discuss the importance of diversity, replication, and thoughtful study design in producing robust and reliable evidence.
+        </p>
+      </div> <!--- closing white box -->
       <br>
       <div class="box-white">
         <details>
