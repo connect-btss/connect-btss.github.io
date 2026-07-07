@@ -37,7 +37,7 @@ title: Advanced Resources
       </li>
       <li>
         <a href="#tools"> <strong> Relevant BTS Tools </strong> </a>
-      <li>
+      <li/>
     </ul>
   </div>
   
