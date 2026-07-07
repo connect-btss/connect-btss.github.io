@@ -258,6 +258,7 @@ title: Advanced Resources
     </div> <!--- closing flex box -->
 </div>
 
+<br>
 <!--- BARRIERS -->
 <div id="box-red" style="margin-bottom: 40px;">
   <div id="header-blue">
