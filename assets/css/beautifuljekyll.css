@@ -1237,7 +1237,7 @@ details > summary {
   background: #0CA6D6;
   padding: 20px;
 }
-.header-yellow a:hover {
+.header-teal a:hover {
   color: #0CA6D6;
 }
 
@@ -1246,7 +1246,7 @@ details > summary {
   background: #364362;
   padding: 20px;
 }
-.header-yellow a:hover {
+.header-blue a:hover {
   color: #364362;
 }
 
@@ -1255,7 +1255,7 @@ details > summary {
   background: #EC4801;
   padding: 20px;
 }
-.header-yellow a:hover {
+.header-red a:hover {
   color: #EC4801;
 }
 
@@ -1264,7 +1264,7 @@ details > summary {
   background: #391F7B;
   padding: 20px;
 }
-.header-yellow a:hover {
+.header-purple a:hover {
   color: #391F7B;
 }
 
@@ -1273,7 +1273,7 @@ details > summary {
   background: #8EBEFF;
   padding: 20px;
 }
-.header-yellow a:hover {
+.header-lightblue a:hover {
   color: #8EBEFF;
 }
 
