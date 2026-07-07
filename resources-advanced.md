@@ -243,7 +243,6 @@ title: Advanced Resources
         </div> <!--- closing white box -->
       </div> <!--- closing purple box -->
     </div> <!--- closing flex box -->
-    <br>
     <!-- BOX 2 -->
     <div style="flex:1;">
       <div class="box-lightblue">
