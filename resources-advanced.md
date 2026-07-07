@@ -216,7 +216,7 @@ title: Advanced Resources
               </li>
               <li> 
                 <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
-                  <div style="position:relative; width:300px;"
+                  <div style="position:relative; width:300px;">
                     <img
                       src="https://img.youtube.com/vi/7ic_BgpmakI/maxresdefault.jpg"
                       alt="Video thumbnail"
