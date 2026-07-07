@@ -35,6 +35,9 @@ title: Advanced Resources
       <li>
         <a href="#barriers"> <strong> Barriers </strong> </a>
       </li>
+      <li>
+        <a href="#tools"> <strong> Relevant BTS Tools </strong> </a>
+      <li>
     </ul>
   </div>
   
@@ -417,8 +420,144 @@ title: Advanced Resources
         </div> <!--- closing BLOCK 4 --->
       </div> <!--- BLOCKS -->
     </div> <!---closing red box -->
+    <!-- TOOLS -->
+    <div id="tools" class="box-red">
+      <div class="header-blue">
+        <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+          Relevant BTS Tools
+        </h2>
+      </div> <!-- closing header blue -->
+      <!--- ADDING BLOCKS -->
+      <div style="display:flex; gap:20px; flex-wrap:wrap;">
+        <!-- BLOCK 1 -->
+        <div style="flex:1 1 45%;">
+          <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              r/RStudio
+              </h2>
+            </div> <!--- closing header blue -->
+            <p>
+              r/RStudio is a tool that researchers can use when conducting statistical analyses.
+            </p>
+          </div> <!-- closing box-white -->
+          <br>
+          <div class="box-white">
+            <details>
+              <summary><i>Resources</i></summary>
+              <br>
+              <ul>
+                <li> <a href="https://libguides.library.kent.edu/statconsulting/r" target="_blank"> What is r/Rstudio? </a>
+                </li>
+                <li> a href="https://www.datacamp.com/tutorial/r-studio-tutorial" target="_blank"> Setting up RStudio </a>
+                </li>
+                <li> a href="https://education.rstudio.com/learn/beginner/" target="_blank"> Beginner's Guide to RStudio </a>
+                </li>
+                <li> a href="https://posit.co/resources/cheatsheets/" target="_blank"> Posit Cheatsheets </a>
+                </li>
+              </ul>
+            </details>
+          </div> <!-- closing box-white -->
+        </div> <!-- closing BLOCK 1 -->
+        <!-- BLOCK 2 -->
+        <div style="flex:1 1 45%;">
+          <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              GitHub
+              </h2>
+            </div> <!--- closing header blue -->
+            <p>
+              Is a cloud-based platform that developers can collaborate on to share and store their code files. This is an especially relevant tool when engaging in large scale projects such as BTS.
+            </p>
+          </div> <!-- closing box-white -->
+          <br>
+          <div class="box-white">
+            <details>
+              <summary><i>Resources</i></summary>
+              <br>
+              <ul>
+                <li> <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world" target="_blank"> Guide to Using GitHub </a>
+                </li>
+                <li> a href="https://www.datacamp.com/blog/what-is-github?utm_cid=22660585401&utm_aid=181540422195&utm_campaign=230119_1-ps-other~dsa-tofu~blog_2-b2c_3-nam_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9001212-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-other~nam-en~dsa~tofu~blog~git&gad_source=1&gad_campaignid=22660585401&gbraid=0AAAAADQ9WsEHFzpRTzjAdLr3mSz4mqibE&gclid=Cj0KCQjw_IXQBhCkARIsADqELbK2NpH0q_EhakyrlqGdw3UFWhQp8X28xEtTahmCMjwTv4Bn0HnusykaAkZgEALw_wcB" target="_blank"> A Beginners Introduction to GitHub by DataCamp</a>
+                </li>
+              </ul>
+            </details>
+          </div> <!-- closing box-white -->
+        </div> <!-- closing BLOCK 2 -->
+        <!-- BLOCK 3 -->
+        <div style="flex:1 1 45%;">
+          <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              Data Validator
+              </h2>
+            </div> <!--- closing header blue -->
+            <p>
+              Data validator allows researchers to ensure that data has been entered correctly. This tool is especially helpful to ensure all data follows the same structure across collaborators.
+            </p>
+          </div> <!-- closing box-white -->
+          <br>
+          <div class="box-white">
+            <details>
+              <summary><i>Resources</i></summary>
+              <br>
+              <ul>
+                <li> <a href="https://github.com/yuen-francis/ShinyValidator" target="_blank"> ShinyValidator </a>
+                </li>
+              </ul>
+            </details>
+          </div> <!-- closing box-white -->
+        </div> <!-- closing BLOCK 3 -->
+        <!-- BLOCK 4 -->
+        <div style="flex:1 1 45%;">
+          <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              STAPLE
+              </h2>
+            </div> <!--- closing header blue -->
+            <p>
+              A science-focused project management platform that is designed to help research teams organize studies from start to finish while supporting OS and FAIR data practices. Helpful for tracking datasets, metadata, collaborators, materials, and project decisions across the entire project lifespan.
+            </p>
+          </div> <!-- closing box-white -->
+          <br>
+          <div class="box-white">
+            <details>
+              <summary><i>Resources</i></summary>
+              <br>
+              <ul>
+                <li> <a href="https://staplescience.com/" target="_blank"> STAPLE </a>
+                </li>
+              </ul>
+            </details>
+          </div> <!-- closing box-white -->
+        </div> <!-- closing BLOCK 4 -->
+        <!--- BLOCK 5 -->
+        <div style="flex:1 1 45%;">
+        <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              More OS Tools
+              </h2>
+            </div> <!--- closing header blue -->
+          </div> <!-- closing box-white -->
+          <br>
+          <div class="box-white">
+            <details>
+              <summary><i>Resources</i></summary>
+              <br>
+              <ul>
+                <li> <a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681#tbl1" target="_blank"> More Tools for Open Science Practices </a>
+                </li>
+              </ul>
+            </details>
+          </div> <!-- closing box-white -->
+        </div> <!-- closing BLOCK 5 --> 
+    </div> <!-- closing box-red -->
   </div> <!-- closing main content box -->
 </div> 
+
 
 <div id="resource-popup" class="resource-popup">
   <button id="close-popup" class="popup-close">&times;</button>
