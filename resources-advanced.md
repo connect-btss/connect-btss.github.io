@@ -18,7 +18,7 @@ title: Advanced Resources
 <div style="display: flex; gap:30px;"> <!-- setting the page for sidebar and content -->
   <!--- Adding details for the sidebar -->
   <div class="side-index">
-    <h3>Contents</h3>
+    <h2>Contents</h2>
     <ul>
       <li>
         <a href="#managingglobalteams"> <strong> Managing Global Teams </strong></a>
