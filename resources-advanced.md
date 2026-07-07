@@ -184,7 +184,7 @@ title: Advanced Resources
 
 <!-- PREREGISTRATION -->
 <div style="display: flex;">
-  <div style="width:200px; height:150px; border:1px solid #391f7b; margin-right: 10px;">
+  <div style="width:200px; min-height:150px; border:1px solid #391f7b; margin-right: 10px;">
     <!-- BOX 1 -->
     <div id="box-purple">
       <div id="box-white">
