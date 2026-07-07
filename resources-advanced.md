@@ -121,7 +121,7 @@ title: Advanced Resources
     <!-- PUBLISHING + AUTHORSHIP -->
     <div class="box-yellow" style="margin-bottom: 40px;">
       <div id="publishing" class="header-teal">
-        <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
+        <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFFF;">
           Publishing
         </h2>
       </div>
@@ -203,35 +203,37 @@ title: Advanced Resources
     </div>
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
     <div style="display: flex; gap:20px;">
-        <!-- BOX 1 -->
-        <div style="flex:1.5;">
+        <!-- BLOCK 1 -->
+        <div style="flex:2;">
           <div id="preregistration" class="box-purple">
             <div class="box-white">
               <div class="header-teal">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   How do you Preregister a Study?
                 </h2>
-              </div> <!--- closing purple header -->
+              </div> <!--- closing teal header -->
               <p>
                 Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
               </p>
             </div> <!--- closing white box -->
+        </div> <!-- closing BLOCK 1 -->
+        <!-- BLOCK 2 -->
+        <div style="flex:1;">
+          <div class="box-white">
+            <details>
+            <summary><i>Resources</i></summary>
             <br>
-            <div class="box-white">
-              <details>
-              <summary><i>Resources</i></summary>
-              <br>
-                <ul>
-                  <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
-                  </li> 
-                  <li> 
-                    <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
-                  </li> 
-                  <li> 
-                    <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
-                  </li>
-                  <li> 
-                    <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
+              <ul>
+                <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
+                </li> 
+                <li> 
+                  <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
+                </li> 
+                <li> 
+                  <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+                </li>
+                <li> 
+                  <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
                       <div style="position:relative; width:300px;">
                         <img
                           src="https://img.youtube.com/vi/7ic_BgpmakI/maxresdefault.jpg"
@@ -257,12 +259,12 @@ title: Advanced Resources
                     </a>
                     <br>
                       Learn how to create a study preregistration using AsPredicted platform, a simple tool designed to help researchers document their hypothesis, methods, and analysis plans before data collection.
-                  </li>
-                </ul>
-              </details>
-            </div> <!--- closing white box -->
-          </div> <!--- closing purple box -->
+                </li>
+              </ul>
+            </details>
+          </div> <!--- closing white box -->
         </div> <!--- closing flex box -->
+        </div> <!--- closing purple box -->
         <!-- BOX 2 -->
         <div style="flex:1;">
           <div id="integratingOS" class="box-lightblue">
