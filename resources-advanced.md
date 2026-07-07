@@ -175,7 +175,10 @@ title: Advanced Resources
       </div>
     </div>
   </div>
-   <!-- BOTTOM LEFT -->
+
+
+<!-- PREREGISTRATION -->
+<div id="box-yellow" style="margin-bottom: 40px;">
     <div style="flex:1; min-width:300px;">
     <div id="box-white">
       <div id="header-blue">
@@ -184,7 +187,7 @@ title: Advanced Resources
         </h2>
       </div>
       <p>
-        Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
+        Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
       </p>
     </div>
     <br>
@@ -194,11 +197,12 @@ title: Advanced Resources
          <ul>
             <li> <a href="#" target="_blank"> What is Preregistration? </a>
             <br>
-             Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
+             Insert blurb here. 
             </li> 
             <li> 
               <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-              <br> Example demonstrating how contribution reporting can be implemented.               
+              <br> 
+              Insert blurb here.               
             </li> 
             <li> 
               <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
