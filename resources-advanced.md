@@ -202,17 +202,17 @@ title: Advanced Resources
           <summary><i>Resources</i></summary>
           <br>
             <ul>
-              <li> <a href="#" target="_blank"> What is Preregistration? </a>
+              <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
               <br>
                Insert blurb here. 
               </li> 
               <li> 
-                <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+                <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
                 <br> 
                 Insert blurb here.               
               </li> 
               <li> 
-                <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+                <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
               </li>
               <li> 
                 <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
