@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const scrollPercent =
             window.scrollY /
             (document.documentElement.scrollHeight - window.innerHeight);
-        if (scrollPercent > 0.75) {
+        if (scrollPercent > 0.5) {
             popup.style.display = "block";
             popupShown = true;
         }
