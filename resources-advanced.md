@@ -70,7 +70,6 @@ title: Advanced Resources
         Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
       </p>
       </div>
-      <br>
       <div id="box-white">
         <br>
         <details>
@@ -184,12 +183,12 @@ title: Advanced Resources
 
 <!-- PREREGISTRATION -->
 <div style="display: flex;">
-  <div style="width:200px; min-height:150px; border:1px solid #391f7b; margin-right: 10px;">
+  <div style="width:200px; min-height:150px; margin-right: 10px;">
     <!-- BOX 1 -->
     <div id="box-purple">
       <div id="box-white">
         <div id="header-purple">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
             How do you Preregister a Study?
           </h2>
         </div> <!--- closing purple header -->
@@ -226,7 +225,7 @@ title: Advanced Resources
     <div id="box-lightblue">
       <div id="box-white">
         <div id="header-lightblue">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
             How can we Integrate OS into Ongoing Projects?
           </h2>
         </div> <!--- closing lightblue header -->
