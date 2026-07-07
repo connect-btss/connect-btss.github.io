@@ -200,6 +200,7 @@ title: Advanced Resources
             </div> <!-- closing box white -->
         </div> <!-- closing right -->
       </div>
+    </div>
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
     <div style="display: flex; gap:20px;">
         <!-- BOX 1 -->
