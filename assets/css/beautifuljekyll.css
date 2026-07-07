@@ -1179,6 +1179,18 @@ details > summary {
   transform: translateY(-5px);
 }
 
+#box-red {
+  background-color: #EC4801;
+  color: #FFFFFF;
+  padding:25px;
+  box-shadow: 10px 10px #FEC51D;
+  font-family:'Open Sans', sans-serif;
+  border-radius: 10px; /* rounded corners */
+}  
+#box-red:hover{
+  transform: translateY(-5px);
+}
+
 #box-purple {
   background-color: #391F7B;
   color: #FFFFFF;
