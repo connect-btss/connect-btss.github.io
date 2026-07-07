@@ -267,11 +267,11 @@ title: Advanced Resources
         Barriers
       </h2>
     </div> <!--- closing header box -->
+    <br>
+    <p>
+      Conducting BTS or implementing OS is not always straightforward across collaborators. Below we have highlighted sources that discuss challenges researchers have faced and how to mitigate them.
+    </p>
   </div> <!--- closing white box -->
-  <br>
-  <p>
-    Conducting BTS or implementing OS is not always straightforward across collaborators. Below we have highlighted sources that discuss challenges researchers have faced and how to mitigate them.
-  </p>
   <br>
   <!--- ADDING BLOCKS -->
   <div style="display:flex; gap:20px; flex-wrap:wrap;">
