@@ -1278,7 +1278,7 @@ details > summary {
 }
 
 
-/* making table */
+/* making table added by Rebeca*/
 table {
   width: 80%;
   border-collapse: collapse;
@@ -1346,4 +1346,73 @@ table {
 
 html {
   scroll-behavior: smooth;
+}
+
+/* Bottom-right popup added by Rebeca */
+
+.resource-popup {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+
+  width: 320px;
+  max-width: 90%;
+
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+
+  border-left: 6px solid #EC4801;
+
+  z-index: 9999;
+
+  display: none;
+
+  font-family: 'Open Sans', sans-serif;
+}
+
+.resource-popup h3{
+  margin-top:0;
+  color:#364362;
+}
+
+.resource-popup p{
+  margin:10px 0 20px 0;
+  font-size:16px;
+}
+
+.popup-button{
+  display:inline-block;
+  background:#EC4801;
+  color:white;
+  text-decoration:none;
+  padding:10px 18px;
+  border-radius:8px;
+  font-weight:bold;
+}
+
+.popup-button:hover{
+  background:#c73d00;
+  color:white;
+}
+
+.popup-close{
+  position:absolute;
+  top:10px;
+  right:12px;
+
+  background:none;
+  border:none;
+
+  font-size:22px;
+
+  cursor:pointer;
+
+  color:#777;
+}
+
+.popup-close:hover{
+  color:black;
 }

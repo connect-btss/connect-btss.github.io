@@ -119,8 +119,8 @@ title: Advanced Resources
       </div>
     </div>
     <!-- PUBLISHING + AUTHORSHIP -->
-    <div class="box-yellow" style="margin-bottom: 40px;">
-      <div id="publishing" class="header-teal">
+    <div id="publishing" class="box-yellow" style="margin-bottom: 40px;">
+      <div class="header-teal">
         <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
           Publishing
         </h2>
@@ -420,6 +420,22 @@ title: Advanced Resources
   </div> <!-- closing main content box -->
 </div> 
 
+<div id="resource-popup" class="resource-popup">
+  <button id="close-popup" class="popup-close">&times;</button>
+
+  <h3>Looking for beginner resources?</h3>
+
+  <p>
+    If you're looking for an introduction to Big Team Science and Open Science,
+    start with our Beginner Resources page.
+  </p>
+
+  <a href="{{ site.baseurl }}/resources-beginner/" class="popup-button">
+    View Beginner Resources
+  </a>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/popup.js"></script>
 
 ***
 
