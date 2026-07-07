@@ -261,11 +261,13 @@ title: Advanced Resources
 <br>
 <!--- BARRIERS -->
 <div class="box-red" style="margin-bottom: 40px;">
-  <div class="header-blue">
-    <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
-      Barriers
-    </h2>
-  </div> <!--- closing header box -->
+  <div class="box-white">
+    <div class="header-blue">
+      <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        Barriers
+      </h2>
+    </div> <!--- closing header box -->
+  </div> <!--- closing white box -->
   <br>
   <p>
     Conducting BTS or implementing OS is not always straightforward across collaborators. Below we have highlighted sources that discuss challenges researchers have faced and how to mitigate them.
