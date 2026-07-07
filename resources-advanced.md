@@ -271,9 +271,9 @@ title: Advanced Resources
   </p>
   <br>
   <!--- ADDING BLOCKS -->
-  <div style="display:flex; gap:20px;">
+  <div style="display:flex; gap:20px; flex-wrap:wrap;">
     <!-- BLOCK 1 -->
-    <div style="flex:1;">
+    <div style="flex:1 1 45%;">
       <div id="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           What are some challenges with conducting Open Science?
@@ -294,11 +294,11 @@ title: Advanced Resources
               Take a deeper look at the practical and systematic obstacles that can limit the adoption of OS. This article examines real-world experiences and highlights opportunities for improving accessibility, collaboration, and transparency. 
             </li>
           </ul>
-        <details>
+        </details>
       </div> <!--- closing white box -->
     </div> <!--- closing BLOCK 1 --->
     <!-- BLOCK 2 -->
-    <div style="flex:1;">
+    <div style="flex:1 1 45%;">
       <div id="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           Authorship
@@ -318,15 +318,15 @@ title: Advanced Resources
             <br>
               Investigate how authorship models in large collaborative projects challenge traditional approaches to research evaluation. Explore whether new methods of recognizing contributions can lead to fairer and inclusive practices. 
             </li>
-            <li> <h href="" target="-blank"> </a>
+            <li> <a href="" target="-blank"> </a>
             <br>
             </li>
           </ul>
-        <details>
+        </details>
       </div> <!--- closing white box -->
     </div> <!--- closing BLOCK 2 --->
     <!-- BLOCK 3 -->
-    <div style="flex:1;">
+    <div style="flex:1 1 45%;">
       <div id="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           What are some solutions for reducing barriers to Open Science?
@@ -346,16 +346,16 @@ title: Advanced Resources
             <br>
               Implementing OS practices is not always easy. Researchers may face technical, financial, and cultural barriers that limit their participation. Gain insights into practical solutions that foster greater transparency and knowledge sharing.
             </li>
-            <li> <h href="https://onlinelibrary.wiley.com/doi/10.1111/lang.12576" target="_blank"> A Perspective from the Global South Regarding Overcoming Challenges to Open Research Practices </a>
+            <li> <a href="https://onlinelibrary.wiley.com/doi/10.1111/lang.12576" target="_blank"> A Perspective from the Global South Regarding Overcoming Challenges to Open Research Practices </a>
             <br>
             Consider how regional contexts shape the adoption of OS practices. This resource highlights perspectives from the Global South, emphasizing equitable participation, local priorities, and strategies for addressing barriers in the global research ecosystem.
             </li>
           </ul>
-        <details>
+        </details>
       </div> <!--- closing white box -->
     </div> <!--- closing BLOCK 3 --->
     <!-- BLOCK 4 -->
-    <div style="flex:1;">
+    <div style="flex:1 1 45%;">
       <div id="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           Illusion of Generalizability
@@ -376,7 +376,7 @@ title: Advanced Resources
               Large-scale collaborations can improve statistical power and reproducibility but they do not automatically ensure that findings are universally applicable. Explore the limitations of big-team science and the factors researchers should consider when evaluating the generalizability of research outcomes.
             </li>
           </ul>
-        <details>
+        </details>
       </div> <!--- closing white box -->
     </div> <!--- closing BLOCK 4 --->
   </div> <!--- BLOCKS -->
