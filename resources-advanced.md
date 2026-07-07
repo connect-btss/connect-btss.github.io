@@ -15,25 +15,25 @@ title: Advanced Resources
 > [View resources for beginners]({{site.baseurl}}/resources-beginner)
 
 ***
-<div style="display: flex; gap:30px;">
+<div style="display: flex; gap:30px;"> <!-- setting the page for sidebar and content -->
   <!--- Adding details for the sidebar -->
   <div class="side-index">
     <h3>Contents</h3>
     <ul>
       <li>
-        <a href="#managingglobalteams">Managing Global Teams</a>
+        <a href="#managingglobalteams"> <strong> Managing Global Teams </strong></a>
       </li>
       <li>
-        <a href="#publishing">Publishing</a>
+        <a href="#publishing"> <strong> Publishing </strong> </a>
       </li>
       <li>
-        <a href="#preregistration">How to Preregister a Study?</a>
+        <a href="#preregistration"> <strong> How to Preregister a Study? </strong> </a>
       </li>
       <li>
-        <a href="#integratingOS">How to Integrate OS into Ongoing Projects?</a>
+        <a href="#integratingOS">  <strong> How to Integrate OS into Ongoing Projects? </strong> </a>
       </li>
       <li>
-        <a href="#barriers">Barriers</a>
+        <a href="#barriers"> <strong> Barriers </strong> </a>
       </li>
     </ul>
   </div>
@@ -83,7 +83,7 @@ title: Advanced Resources
             </details>
           </div>
         </div> 
-      <!-- RIGHT COLUMN -->
+        <!-- RIGHT COLUMN -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
             <div class="header-teal">
@@ -133,13 +133,13 @@ title: Advanced Resources
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 What is the Process for Publishing?
               </h2>
-            </div>
+            </div> <!-- closing header blue -->
             <p>
               Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent collaborative efforts and communicate large-scale findings.
             </p>
-          </div>
+          </div> <!-- closing box white -->
           <br>
-          <div class="box-white">
+          <div class="box-white"> 
             <details>
             <summary><i>Resources</i></summary>
               <br>
@@ -165,42 +165,40 @@ title: Advanced Resources
                 </li> 
               </ul>
             </details>
-          </div>
-        </div>
-      </div>
-      <br>
-      <!-- RIGHT -->
-      <div style="flex:1; min-width:300px;">
-        <div class="box-white">
-          <div class="header-blue">
-            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-              Authorship
-            </h2>
-          </div>
-          <p>
-            Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
-          </p>
-        </div>
-        <br>
-        <div class="box-white">
-          <details>
-          <summary><i>Resources</i></summary>
-             <br>
-             <ul>
-                <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
-                <br>
-                 Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
-                </li> 
-                <li> 
-                  <a href="#" target="_blank"> CRediT Reporting Example </a><br> Example demonstrating how contribution reporting can be implemented.               
-                </li> 
-                <li> 
-                  <a href="http://tenzing.club" target="_blank"> Contributor Tables (Tenzing) </a> 
-                </li>
-              </ul>
-            </details>
-          </div>
-        </div>
+          </div> <!-- closing box white -->
+        </div> <!-- closing left -->
+        <!-- RIGHT -->
+        <div style="flex:1; min-width:300px;">
+          <div class="box-white">
+            <div class="header-blue">
+              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                Authorship
+              </h2>
+            </div> <!-- closing header blue-->
+            <p>
+              Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
+            </p>
+          </div> <!-- closing box white -->
+          <br>
+          <div class="box-white">
+            <details>
+            <summary><i>Resources</i></summary>
+               <br>
+               <ul>
+                  <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
+                  <br>
+                   Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
+                  </li> 
+                  <li> 
+                    <a href="#" target="_blank"> CRediT Reporting Example </a><br> Example demonstrating how contribution reporting can be implemented.               
+                  </li> 
+                  <li> 
+                    <a href="http://tenzing.club" target="_blank"> Contributor Tables (Tenzing) </a> 
+                  </li>
+                </ul>
+              </details>
+            </div> <!-- closing box white -->
+        </div> <!-- closing right -->
       </div>
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
     <div style="display: flex; gap:20px;">
