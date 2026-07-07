@@ -266,7 +266,7 @@ title: Advanced Resources
         </div> <!--- closing flex box -->
         <!-- BOX 2 -->
         <div style="flex:1;">
-          <div id="intergratingOS" class="box-lightblue">
+          <div id="integratingOS" class="box-lightblue">
             <div class="box-white">
               <div class="header-yellow">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
