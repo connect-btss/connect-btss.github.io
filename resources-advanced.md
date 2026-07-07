@@ -46,20 +46,20 @@ title: Advanced Resources
         <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
           Managing Global Teams
         </h2>
-      </div>
+      </div> <!-- closing header red -->
       <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
         <!-- LEFT -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
-            <div class="header-teal">
+            <div class="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
                 Time Zones
               </h2>
-            </div>
+            </div> <!-- closing header red -->
             <p>
               Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
             </p>
-          </div>
+          </div> <!-- closing box white -->
           <br>
           <div class="box-white">
             <details>
@@ -81,8 +81,8 @@ title: Advanced Resources
                   </li>
                 </ul>
             </details>
-          </div>
-        </div> 
+          </div> <!-- closing box white -->
+        </div>  <!-- flex -->
         <!-- RIGHT COLUMN -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
