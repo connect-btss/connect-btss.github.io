@@ -203,19 +203,19 @@ title: Advanced Resources
     </div>
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
     <div style="display: flex; gap:20px;">
+      <div id="preregistration" class="box-purple">
         <!-- BLOCK 1 -->
         <div style="flex:2;">
-          <div id="preregistration" class="box-purple">
-            <div class="box-white">
-              <div class="header-teal">
-                <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-                  How do you Preregister a Study?
-                </h2>
-              </div> <!--- closing teal header -->
-              <p>
-                Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
-              </p>
-            </div> <!--- closing white box -->
+          <div class="box-white">
+            <div class="header-teal">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+                How do you Preregister a Study?
+              </h2>
+            </div> <!--- closing teal header -->
+            <p>
+              Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
+            </p>
+          </div> <!--- closing box white -->
         </div> <!-- closing BLOCK 1 -->
         <!-- BLOCK 2 -->
         <div style="flex:1;">
