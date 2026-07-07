@@ -70,6 +70,7 @@ title: Advanced Resources
         Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
       </p>
       </div>
+      <br>
       <div id="box-white">
         <br>
         <details>
@@ -183,7 +184,9 @@ title: Advanced Resources
 
 <!-- PREREGISTRATION -->
 <div id="box-yellow" style="margin-bottom: 40px;">
-  <div style="flex:1; min-width:300px;">
+  <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
+  <!-- LEFT -->
+  <div style="flex:1; min-width:400px;">
   <div id="box-white">
     <div id="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
@@ -217,8 +220,39 @@ title: Advanced Resources
         </li>
       </ul>
     </details>
-  </div>
+    <!-- RIGHT -->
+    <div style="flex:1; min-width:200px;">
+      <div id="box-white">
+        <div id="header-blue">
+          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+            How can we Integrate OS into Ongoing Projects?
+          </h2>
+        </div>
+        <p>
+          Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
+        </p>
+      </div>
+      <br>
+      <div id="box-white">
+        <details>
+        <summary><i>Resources</i></summary>
+          <br>
+          <ul>
+            <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
+            <br>
+             Insert blurb here. 
+            </li> 
+            <li> 
+              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+              <br> 
+              Insert blurb here.               
+            </li> 
+          </ul>
+        </details>
+      </div>
+    </div>
 </div>
-    
+
+
 
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
