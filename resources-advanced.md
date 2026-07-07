@@ -184,7 +184,7 @@ title: Advanced Resources
 <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
 <div style="display: flex; gap:20px;">
     <!-- BOX 1 -->
-    <div style="flex:1;">
+    <div style="flex:2;">
       <div class="box-purple">
         <div class="box-white">
           <div class="header-teal">
@@ -203,13 +203,9 @@ title: Advanced Resources
           <br>
             <ul>
               <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
-              <br>
-               Insert blurb here. 
               </li> 
               <li> 
                 <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
-                <br> 
-                Insert blurb here.               
               </li> 
               <li> 
                 <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
@@ -268,13 +264,6 @@ title: Advanced Resources
           <br>
           <ul>
               <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
-              <br>
-               Insert blurb here. 
-              </li> 
-              <li> 
-                <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-                <br> 
-                Insert blurb here.               
               </li> 
             </ul>
           </details>
