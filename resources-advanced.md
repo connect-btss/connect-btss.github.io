@@ -204,7 +204,7 @@ title: Advanced Resources
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
     <div style="display: flex; gap:20px;">
       <div id="preregistration" class="box-purple">
-        <!-- BLOCK 1 -->
+        <!-- LEFT -->
         <div style="flex:2;">
           <div class="box-white">
             <div class="header-teal">
@@ -216,8 +216,8 @@ title: Advanced Resources
               Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
             </p>
           </div> <!--- closing box white -->
-        </div> <!-- closing BLOCK 1 -->
-        <!-- BLOCK 2 -->
+        </div> <!-- closing LEFT -->
+        <!-- RIGHT -->
         <div style="flex:1;">
           <div class="box-white">
             <details>
@@ -263,8 +263,9 @@ title: Advanced Resources
               </ul>
             </details>
           </div> <!--- closing white box -->
-        </div> <!--- closing flex box -->
+        </div> <!--- closing RIGHT -->
         </div> <!--- closing purple box -->
+      </div> <!-- closing FLEX -->
         <!-- BOX 2 -->
         <div style="flex:1;">
           <div id="integratingOS" class="box-lightblue">
