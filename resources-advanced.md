@@ -181,78 +181,82 @@ title: Advanced Resources
   </div>
 
 
-<!-- PREREGISTRATION -->
+<!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
 <div style="display: flex; gap:20px;">
-  <div style="width:200px; min-height:150px; margin-right: 10px;">
+  <!---div style="width:200px; min-height:150px; margin-right: 10px;">
     <!-- BOX 1 -->
-    <div id="box-purple">
-      <div id="box-white">
-        <div id="header-purple">
-          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-            How do you Preregister a Study?
-          </h2>
-        </div> <!--- closing purple header -->
-        <p>
-          Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
-        </p>
-      </div> <!--- closing white box -->
-      <br>
-      <div id="box-white">
-        <details>
-        <summary><i>Resources</i></summary>
+    <div style="flex:1;">
+      <div id="box-purple">
+        <div id="box-white">
+          <div id="header-purple">
+            <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+              How do you Preregister a Study?
+            </h2>
+          </div> <!--- closing purple header -->
+          <p>
+            Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
+          </p>
+        </div> <!--- closing white box -->
         <br>
-          <ul>
-            <li> <a href="#" target="_blank"> What is Preregistration? </a>
-            <br>
-             Insert blurb here. 
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-              <br> 
-              Insert blurb here.               
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
-            </li>
-            <li> 
-              <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
-            </li>
-          </ul>
-        </details>
-      </div> <!--- closing white box -->
-    </div> <!--- closing purple box -->
+        <div id="box-white">
+          <details>
+          <summary><i>Resources</i></summary>
+          <br>
+            <ul>
+              <li> <a href="#" target="_blank"> What is Preregistration? </a>
+              <br>
+               Insert blurb here. 
+              </li> 
+              <li> 
+                <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+                <br> 
+                Insert blurb here.               
+              </li> 
+              <li> 
+                <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+              </li>
+              <li> 
+                <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
+              </li>
+            </ul>
+          </details>
+        </div> <!--- closing white box -->
+      </div> <!--- closing purple box -->
+    </div> <!--- closing flex box -->
     <br>
     <!-- BOX 2 -->
-    <div id="box-lightblue">
-      <div id="box-white">
-        <div id="header-lightblue">
-          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-            How can we Integrate OS into Ongoing Projects?
-          </h2>
-        </div> <!--- closing lightblue header -->
-        <p>
-        Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
-        </p>
-      </div> <!--- closing white box -->
-      <br>
-      <div id="box-white">
-        <details>
-        <summary><i>Resources</i></summary>
+    <div style="flex:1;">
+      <div id="box-lightblue">
+        <div id="box-white">
+          <div id="header-lightblue">
+            <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+              How can we Integrate OS into Ongoing Projects?
+            </h2>
+          </div> <!--- closing lightblue header -->
+          <p>
+          Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
+          </p>
+        </div> <!--- closing white box -->
         <br>
-        <ul>
-            <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
-            <br>
-             Insert blurb here. 
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-              <br> 
-              Insert blurb here.               
-            </li> 
-          </ul>
-        </details>
-      </div> <!--- closing white box -->
-    </div> <!--- closing lightblue box -->
+        <div id="box-white">
+          <details>
+          <summary><i>Resources</i></summary>
+          <br>
+          <ul>
+              <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
+              <br>
+               Insert blurb here. 
+              </li> 
+              <li> 
+                <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+                <br> 
+                Insert blurb here.               
+              </li> 
+            </ul>
+          </details>
+        </div> <!--- closing white box -->
+      </div> <!--- closing lightblue box -->
+    </div> <!--- closing flex box -->
   </div>
 </div>  
 
