@@ -86,7 +86,7 @@ title: Advanced Resources
         <!-- RIGHT COLUMN -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
-            <div class="header-teal">
+            <div class="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 Collaborative Writing
               </h2>
@@ -297,16 +297,17 @@ title: Advanced Resources
           Conducting BTS or implementing OS is not always straightforward across collaborators. Below we have highlighted sources that discuss challenges researchers have faced and how to mitigate them.
         </p>
       </div> <!--- closing white box -->
+      <br>
       <!--- ADDING BLOCKS -->
       <div style="display:flex; gap:20px; flex-wrap:wrap;">
         <!-- BLOCK 1 -->
         <div style="flex:1 1 45%;">
           <div class="box-white">
-            <div class="header-red">
+            <div class="header-blue">
               <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                 What are some challenges with conducting Open Science?
               </h2>
-            </div> <!--- closing red header -->
+            </div> <!--- closing blue header -->
             <br>
             <p>
               Explore some of the common challenges researchers face when adopting OS, including cultural, technical, institutional, and resource-related barriers.
@@ -329,11 +330,11 @@ title: Advanced Resources
         <!-- BLOCK 2 -->
         <div style="flex:1 1 45%;">
           <div class="box-white">
-            <div class="header-red">
+            <div class="header-blue">
               <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                 Authorship
               </h2>
-            </div> <!--- closing red header -->
+            </div> <!--- closing blue header -->
             <br>
             <p>
               Examine how authorship is assigned, recognized, and communicated in collaborative research. Discussions include the evolving expectations around credit, contribution, and accountability in OS.
@@ -359,11 +360,11 @@ title: Advanced Resources
         <!-- BLOCK 3 -->
         <div style="flex:1 1 45%;">
           <div class="box-white">
-            <div class="header-red">
+            <div class="header-blue">
               <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                 What are some solutions for reducing barriers to Open Science?
               </h2>
-            </div> <!--- closing red header -->
+            </div> <!--- closing blue header -->
             <br>
             <p>
               Below discover practical strategies for overcoming obstacles to OS adoption. Learn about policies, tools, training, and community initiatives that support more open, equitable, and sustained research practices.
@@ -390,11 +391,11 @@ title: Advanced Resources
         <!-- BLOCK 4 -->
         <div style="flex:1 1 45%;">
           <div class="box-white">
-            <div class="header-red">
+            <div class="header-blue">
               <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                 Illusion of Generalizability
               </h2>
-            </div> <!--- closing red header -->
+            </div> <!--- closing blue header -->
             <br>
             <p>
               Research findings may appear broadly applicable but may not always generalize across populations, settings, or contexts. Discuss the importance of diversity, replication, and thoughtful study design in producing robust and reliable evidence.
