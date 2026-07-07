@@ -105,7 +105,7 @@ title: Advanced Resources
   <div style="flex:1; min-width:300px;">
     <div id="box-white">
       <div id="header-yellow">
-        <h2 style="margin-bottom:0;margin-top:0;color:#364362;">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
           What is the Process for Publishing?
         </h2>
       </div>
@@ -141,35 +141,35 @@ title: Advanced Resources
         </details>
       </div>
     </div>
-    <!-- RIGHT -->
-      <div id="box-white">
-        <div id="header-blue">
-          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-            Authorship
-          </h2>
-        </div>
-        <p>
-          Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
-        </p>
-      </div>
-      <br>
-      <div id="box-white">
-        <details>
-        <summary><i>Resources</i></summary>
-           <ul>
-            <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
-            <br>
-             Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> CRediT Reporting Example </a><br> Example demonstrating how contribution reporting can be implemented.               
-            </li> 
-            <li> 
-              <a href="http://tenzing.club" target="_blank"> Contributor Tables (Tenzing) </a> 
-            </li> 
-          </ul>
-        </details>
-      </div>
+  </div>
+  <!-- RIGHT -->
+  <div id="box-white">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        Authorship
+      </h2>
+    </div>
+    <p>
+      Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
+    </p>
+  </div>
+  <br>
+  <div id="box-white">
+    <details>
+    <summary><i>Resources</i></summary>
+       <ul>
+          <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
+          <br>
+           Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
+          </li> 
+          <li> 
+            <a href="#" target="_blank"> CRediT Reporting Example </a><br> Example demonstrating how contribution reporting can be implemented.               
+          </li> 
+          <li> 
+            <a href="http://tenzing.club" target="_blank"> Contributor Tables (Tenzing) </a> 
+          </li> 
+        </ul>
+      </details>
     </div>
   </div>
 </div>
