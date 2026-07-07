@@ -1141,7 +1141,7 @@ details > summary {
   border: none;
 }
 
-#box-blue {
+.box-blue {
   background-color: #364362;
   color: #FFFFFF;
   padding:25px;
@@ -1150,12 +1150,12 @@ details > summary {
   border-radius: 10px; /* rounded corners */
   margin-bottom: 40px; /* adds space underneath */
 }
-#box-blue:hover{                                
+.box-blue:hover{                                
   transform: translateY(-5px);
 }
 
 
-#box-yellow {
+.box-yellow {
   background-color:#FEC51D;
   color: #364362;
   padding:25px;
@@ -1163,11 +1163,11 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }
-#box-yellow:hover{
+.box-yellow:hover{
   transform: translateY(-5px);
 }
 
-#box-teal {
+.box-teal {
   background-color: #0CA6D6;
   color: #FFFFFF;
   padding:25px;
@@ -1175,11 +1175,11 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }  
-#box-teal:hover{
+.box-teal:hover{
   transform: translateY(-5px);
 }
 
-#box-red {
+.box-red {
   background-color: #EC4801;
   color: #FFFFFF;
   padding:25px;
@@ -1187,11 +1187,11 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }  
-#box-red:hover{
+.box-red:hover{
   transform: translateY(-5px);
 }
 
-#box-purple {
+.box-purple {
   background-color: #391F7B;
   color: #FFFFFF;
   padding:25px;
@@ -1199,11 +1199,11 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }  
-#box-purple:hover{
+.box-purple:hover{
   transform: translateY(-5px);
 }
 
-#box-lightblue {
+.box-lightblue {
   background-color: #8EBEFF;
   color: #FFFFFF;
   padding:25px;
@@ -1211,11 +1211,11 @@ details > summary {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */
 }  
-#box-lightblue:hover{
+.box-lightblue:hover{
   transform: translateY(-5px);
 }
 
-#box-white {
+.box-white {
   background-color: #FFFFFF;
   color: #364362;
   padding:20px;
@@ -1223,37 +1223,37 @@ details > summary {
   border-radius: 10px; /* rounded corners */
 }
 
-#header-yellow {
+.header-yellow {
   border-radius: 15px;
   background: #FEC51D;
   padding: 20px;
 }
 
-#header-teal {
+.header-teal {
   border-radius: 25px;
   background: #0CA6D6;
   padding: 20px;
 }
 
-#header-blue {
+.header-blue {
   border-radius: 15px;
   background: #364362;
   padding: 20px;
 }
 
-#header-red {
+.header-red {
   border-radius: 15px;
   background: #EC4801;
   padding: 20px;
 }
 
-#header-purple {
+.header-purple {
   border-radius: 15px;
   background: #391F7B;
   padding: 20px;
 }
 
-#header-lightblue {
+.header-lightblue {
   border-radius: 15px;
   background: #8EBEFF;
   padding: 20px;

@@ -16,8 +16,8 @@ title: Advanced Resources
 
 ***
 <!-- MANAGING GLOBAL TEAMS -->
-<div id="box-teal" style="margin-bottom: 40px;">
-  <div id="header-red">
+<div class="box-teal" style="margin-bottom: 40px;">
+  <div class="header-red">
     <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
       Managing Global Teams
     </h2>
@@ -25,8 +25,8 @@ title: Advanced Resources
   <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
     <!-- LEFT -->
     <div style="flex:1; min-width:300px;">
-      <div id="box-white">
-        <div id="header-teal">
+      <div class="box-white">
+        <div class="header-teal">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
             Time Zones
           </h2>
@@ -36,7 +36,7 @@ title: Advanced Resources
         </p>
       </div>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
             <br>
@@ -60,8 +60,8 @@ title: Advanced Resources
     </div> 
   <!-- RIGHT COLUMN -->
     <div style="flex:1; min-width:300px;">
-      <div id="box-white">
-        <div id="header-teal">
+      <div class="box-white">
+        <div class="header-teal">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
             Collaborative Writing
           </h2>
@@ -71,7 +71,7 @@ title: Advanced Resources
       </p>
       </div>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -96,8 +96,8 @@ title: Advanced Resources
 
 
 <!-- PUBLISHING + AUTHORSHIP -->
-<div id="box-blue" style="margin-bottom: 40px;">
-  <div id="header-yellow">
+<div class="box-blue" style="margin-bottom: 40px;">
+  <div class="header-yellow">
     <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
       Publishing
     </h2>
@@ -105,8 +105,8 @@ title: Advanced Resources
   <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
     <!-- LEFT -->
     <div style="flex:1; min-width:300px;">
-      <div id="box-white">
-        <div id="header-blue">
+      <div class="box-white">
+        <div class="header-blue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
             What is the Process for Publishing?
           </h2>
@@ -116,7 +116,7 @@ title: Advanced Resources
         </p>
       </div>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
         <summary><i>Resources</i></summary>
           <br>
@@ -148,8 +148,8 @@ title: Advanced Resources
   <br>
   <!-- RIGHT -->
   <div style="flex:1; min-width:300px;">
-    <div id="box-white">
-      <div id="header-blue">
+    <div class="box-white">
+      <div class="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
           Authorship
         </h2>
@@ -159,7 +159,7 @@ title: Advanced Resources
       </p>
     </div>
     <br>
-    <div id="box-white">
+    <div class="box-white">
       <details>
       <summary><i>Resources</i></summary>
          <br>
@@ -185,9 +185,9 @@ title: Advanced Resources
 <div style="display: flex; gap:20px;">
     <!-- BOX 1 -->
     <div style="flex:1;">
-      <div id="box-purple">
-        <div id="box-white">
-          <div id="header-teal">
+      <div class="box-purple">
+        <div class="box-white">
+          <div class="header-teal">
             <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               How do you Preregister a Study?
             </h2>
@@ -197,7 +197,7 @@ title: Advanced Resources
           </p>
         </div> <!--- closing white box -->
         <br>
-        <div id="box-white">
+        <div class="box-white">
           <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -225,9 +225,9 @@ title: Advanced Resources
     <br>
     <!-- BOX 2 -->
     <div style="flex:1;">
-      <div id="box-lightblue">
-        <div id="box-white">
-          <div id="header-yellow">
+      <div class="box-lightblue">
+        <div class="box-white">
+          <div class="header-yellow">
             <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               How can we Integrate OS into Ongoing Projects?
             </h2>
@@ -237,7 +237,7 @@ title: Advanced Resources
           </p>
         </div> <!--- closing white box -->
         <br>
-        <div id="box-white">
+        <div class="box-white">
           <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -260,8 +260,8 @@ title: Advanced Resources
 
 <br>
 <!--- BARRIERS -->
-<div id="box-red" style="margin-bottom: 40px;">
-  <div id="header-blue">
+<div class="box-red" style="margin-bottom: 40px;">
+  <div class="header-blue">
     <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
       Barriers
     </h2>
@@ -275,7 +275,7 @@ title: Advanced Resources
   <div style="display:flex; gap:20px; flex-wrap:wrap;">
     <!-- BLOCK 1 -->
     <div style="flex:1 1 45%;">
-      <div id="header-red">
+      <div class="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           What are some challenges with conducting Open Science?
         </h2>
@@ -285,7 +285,7 @@ title: Advanced Resources
         Explore some of the common challenges researchers face when adopting OS, including cultural, technical, institutional, and resource-related barriers.
       </p>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -300,7 +300,7 @@ title: Advanced Resources
     </div> <!--- closing BLOCK 1 --->
     <!-- BLOCK 2 -->
     <div style="flex:1 1 45%;">
-      <div id="header-red">
+      <div class="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           Authorship
         </h2>
@@ -310,7 +310,7 @@ title: Advanced Resources
         Examine how authorship is assigned, recognized, and communicated in collaborative research. Discussions include the evolving expectations around credit, contribution, and accountability in OS.
       </p>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -328,7 +328,7 @@ title: Advanced Resources
     </div> <!--- closing BLOCK 2 --->
     <!-- BLOCK 3 -->
     <div style="flex:1 1 45%;">
-      <div id="header-red">
+      <div class="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           What are some solutions for reducing barriers to Open Science?
         </h2>
@@ -338,7 +338,7 @@ title: Advanced Resources
         Below discover practical strategies for overcoming obstacles to OS adoption. Learn about policies, tools, training, and community initiatives that support more open, equitable, and sustained research practices.
       </p>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
           <br>
@@ -357,7 +357,7 @@ title: Advanced Resources
     </div> <!--- closing BLOCK 3 --->
     <!-- BLOCK 4 -->
     <div style="flex:1 1 45%;">
-      <div id="header-red">
+      <div class="header-red">
         <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
           Illusion of Generalizability
         </h2>
@@ -367,7 +367,7 @@ title: Advanced Resources
         Research findings may appear broadly applicable but may not always generalize across populations, settings, or contexts. Discuss the importance of diversity, replication, and thoughtful study design in producing robust and reliable evidence.
       </p>
       <br>
-      <div id="box-white">
+      <div class="box-white">
         <details>
           <summary><i>Resources</i></summary>
           <br>
