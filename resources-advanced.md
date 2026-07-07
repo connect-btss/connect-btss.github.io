@@ -259,6 +259,7 @@ title: Advanced Resources
         </details>
       </div> <!--- closing white box -->
     </div> <!--- closing purple box -->
+    <br>
     <!-- INTEGRATING OS -->
     <div id="integratingOS" class="box-lightblue">
       <div class="box-white">

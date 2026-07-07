@@ -1228,11 +1228,17 @@ details > summary {
   background: #FEC51D;
   padding: 20px;
 }
+.header-yellow a:hover {
+  color: #FEC51D;
+}
 
 .header-teal {
   border-radius: 25px;
   background: #0CA6D6;
   padding: 20px;
+}
+.header-yellow a:hover {
+  color: #0CA6D6;
 }
 
 .header-blue {
@@ -1240,11 +1246,17 @@ details > summary {
   background: #364362;
   padding: 20px;
 }
+.header-yellow a:hover {
+  color: #364362;
+}
 
 .header-red {
   border-radius: 15px;
   background: #EC4801;
   padding: 20px;
+}
+.header-yellow a:hover {
+  color: #EC4801;
 }
 
 .header-purple {
@@ -1252,11 +1264,17 @@ details > summary {
   background: #391F7B;
   padding: 20px;
 }
+.header-yellow a:hover {
+  color: #391F7B;
+}
 
 .header-lightblue {
   border-radius: 15px;
   background: #8EBEFF;
   padding: 20px;
+}
+.header-yellow a:hover {
+  color: #8EBEFF;
 }
 
 
@@ -1304,7 +1322,7 @@ table {
 }
 
 .side-index h3 {
-  color: #FFFFFF;
+  color: #FEC51D;
   margin-top: 0;
 }
 
