@@ -182,7 +182,7 @@ title: Advanced Resources
 
 
 <!-- PREREGISTRATION -->
-<div style="display: flex;">
+<div style="display: flex; gap:20px;">
   <div style="width:200px; min-height:150px; margin-right: 10px;">
     <!-- BOX 1 -->
     <div id="box-purple">
@@ -221,6 +221,7 @@ title: Advanced Resources
         </details>
       </div> <!--- closing white box -->
     </div> <!--- closing purple box -->
+    <br>
     <!-- BOX 2 -->
     <div id="box-lightblue">
       <div id="box-white">
