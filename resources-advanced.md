@@ -184,11 +184,11 @@ title: Advanced Resources
 
 <!-- PREREGISTRATION -->
 <div style="display: flex;">
-  <div style="width:200px; height:150px; border:1px solid #391f7b; margin-right: 10px;>
+  <div style="width:200px; height:150px; border:1px solid #391f7b; margin-right: 10px;">
     <!-- BOX 1 -->
     <div id="box-purple">
       <div id="box-white">
-        <div id="header-purple"
+        <div id="header-purple">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
             How do you Preregister a Study?
           </h2>
@@ -225,7 +225,7 @@ title: Advanced Resources
     <!-- BOX 2 -->
     <div id="box-lightblue">
       <div id="box-white">
-        <div id="header-lightblue"
+        <div id="header-lightblue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
             How can we Integrate OS into Ongoing Projects?
           </h2>
