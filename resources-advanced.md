@@ -96,7 +96,7 @@ title: Advanced Resources
 <!-- PUBLISHING + AUTHORSHIP -->
 <div id="box-blue" style="margin-bottom: 40px;">
   <div id="header-yellow">
-    <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
+    <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
       Publishing
     </h2>
   </div>
@@ -145,7 +145,7 @@ title: Advanced Resources
   <!-- RIGHT -->
   <div style="flex:1; min-width:300px;">
     <div id="box-white">
-      <div id="header-yellow">
+      <div id="header-blue">
         <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
           Authorship
         </h2>
@@ -168,7 +168,7 @@ title: Advanced Resources
             </li> 
             <li> 
               <a href="http://tenzing.club" target="_blank"> Contributor Tables (Tenzing) </a> 
-            </li> 
+            </li>
           </ul>
         </details>
       </div>
