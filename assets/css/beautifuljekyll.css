@@ -1290,3 +1290,42 @@ table {
   border-radius: 10px;
   overflow: hidden;
 }
+
+/* custom added by Rebeca for sidebar */
+.side-index {
+  position: sticky;
+  top: 20px;
+  width: 220px;
+  background-color: #364362;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px #FEC51D;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.side-index h3 {
+  color: #FFFFFF;
+  margin-top: 0;
+}
+
+.side-index ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.side-index li {
+  margin-bottom: 12px;
+}
+
+.side-index a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.side-index a:hover {
+  color: #FEC51D;
+}
+
+html {
+  scroll-behavior: smooth;
+}
