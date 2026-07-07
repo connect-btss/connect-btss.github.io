@@ -119,7 +119,7 @@ title: Advanced Resources
       </div>
     </div>
     <!-- PUBLISHING + AUTHORSHIP -->
-    <div class="box-blue" style="margin-bottom: 40px;">
+    <div class="box-yellow" style="margin-bottom: 40px;">
       <div id="publishing" class="header-yellow">
         <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
           Publishing
