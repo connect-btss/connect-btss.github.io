@@ -122,8 +122,9 @@ title: Advanced Resources
               <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank"> What Defines BTS? </a> 
               <i>(Preprint)</i>
               <br>
-              Examines BTS publications, including article content and author characteristics.               </li> 
-              <li> 
+              Examines BTS publications, including article content and author characteristics.               
+            </li> 
+            <li> 
               <a href="https://www.apa.org/pubs/journals/resources/publishing-tips/publishing-process" target="_blank"> Publishing in a Scholarly Journal </a>
               <i>(American Psychological Association)</i>
             </li> 
@@ -174,6 +175,41 @@ title: Advanced Resources
       </div>
     </div>
   </div>
-
+   <!-- BOTTOM LEFT -->
+    <div style="flex:1; min-width:300px;">
+    <div id="box-white">
+      <div id="header-blue">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+          How do you Preregister a Study?
+        </h2>
+      </div>
+      <p>
+        Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
+      </p>
+    </div>
+    <br>
+    <div id="box-white">
+      <details>
+      <summary><i>Resources</i></summary>
+         <ul>
+            <li> <a href="#" target="_blank"> What is Preregistration? </a>
+            <br>
+             Contributor Roles Taxonomy used to identify and report individual contributions to scholarly work. 
+            </li> 
+            <li> 
+              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+              <br> Example demonstrating how contribution reporting can be implemented.               
+            </li> 
+            <li> 
+              <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+            </li>
+            <li> 
+              <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
+            </li>
+          </ul>
+        </details>
+      </div>
     
+  
+
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
