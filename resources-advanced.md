@@ -120,7 +120,7 @@ title: Advanced Resources
     </div>
     <!-- PUBLISHING + AUTHORSHIP -->
     <div class="box-yellow" style="margin-bottom: 40px;">
-      <div id="publishing" class="header-yellow">
+      <div id="publishing" class="header-teal">
         <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
           Publishing
         </h2>
@@ -129,11 +129,11 @@ title: Advanced Resources
         <!-- LEFT -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
-            <div class="header-blue">
+            <div class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 What is the Process for Publishing?
               </h2>
-            </div> <!-- closing header blue -->
+            </div> <!-- closing header teal -->
             <p>
               Publishing provides researchers with an opportunity to share their work with the broader scientific community. In BTS, publications allow researchers to represent collaborative efforts and communicate large-scale findings.
             </p>
@@ -170,13 +170,13 @@ title: Advanced Resources
         <!-- RIGHT -->
         <div style="flex:1; min-width:300px;">
           <div class="box-white">
-            <div class="header-blue">
+            <div class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 Authorship
               </h2>
-            </div> <!-- closing header blue-->
+            </div> <!-- closing header teal-->
             <p>
-              Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Because BTS often involves dozens or hundreds of contributors, authorship is typically guided by transparent, predefined criteria that reflect meaningful intellectual contributions, such as study design, data collection, analysis, interpretation, and manuscript preparation. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
+              Authorship in Big Team Science (BTS) recognizes the contributions of researchers working collaboratively on large-scale, multi-institutional projects. Clear documentation of individual roles and the use of contributor taxonomies (e.g., CRediT) help ensure fairness, accountability, and appropriate recognition for all team members.
             </p>
           </div> <!-- closing box white -->
           <br>
