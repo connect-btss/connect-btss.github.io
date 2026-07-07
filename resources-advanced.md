@@ -39,6 +39,7 @@ title: Advanced Resources
       <div id="box-white">
         <details>
           <summary><i>Resources</i></summary>
+            <br>
             <ul>
               <li>
                 <a href="https://docs.google.com/document/d/1p4y7Ym98OenXNhwDydeKXBk79gv5WQ3xWr21fmR16yc/edit?tab=t.0#heading=h.jd25qcofpkm" target="blank" rel="noopener noreferrer"> 
@@ -69,10 +70,11 @@ title: Advanced Resources
         Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
       </p>
       </div>
-      <br>
       <div id="box-white">
+        <br>
         <details>
           <summary><i>Resources</i></summary>
+          <br>
           <ul>
             <li>
               <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank" rel="noopener noreferrer">
@@ -117,6 +119,7 @@ title: Advanced Resources
       <div id="box-white">
         <details>
         <summary><i>Resources</i></summary>
+          <br>
           <ul>
             <li> 
               <a href="https://doi.org/10.31219/osf.io/hqta4_v2" target="_blank"> What Defines BTS? </a> 
@@ -159,6 +162,7 @@ title: Advanced Resources
     <div id="box-white">
       <details>
       <summary><i>Resources</i></summary>
+         <br>
          <ul>
             <li> <a href="#" target="_blank"> CRediT Taxonomy </a>
             <br>
@@ -194,6 +198,7 @@ title: Advanced Resources
   <div id="box-white">
     <details>
     <summary><i>Resources</i></summary>
+      <br>
       <ul>
         <li> <a href="#" target="_blank"> What is Preregistration? </a>
         <br>
