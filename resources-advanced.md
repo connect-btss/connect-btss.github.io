@@ -179,40 +179,41 @@ title: Advanced Resources
 
 <!-- PREREGISTRATION -->
 <div id="box-yellow" style="margin-bottom: 40px;">
-    <div style="flex:1; min-width:300px;">
-    <div id="box-white">
-      <div id="header-blue">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-          How do you Preregister a Study?
-        </h2>
-      </div>
-      <p>
-        Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
-      </p>
+  <div style="flex:1; min-width:300px;">
+  <div id="box-white">
+    <div id="header-blue">
+      <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+        How do you Preregister a Study?
+      </h2>
     </div>
-    <br>
-    <div id="box-white">
-      <details>
-      <summary><i>Resources</i></summary>
-         <ul>
-            <li> <a href="#" target="_blank"> What is Preregistration? </a>
-            <br>
-             Insert blurb here. 
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
-              <br> 
-              Insert blurb here.               
-            </li> 
-            <li> 
-              <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
-            </li>
-            <li> 
-              <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
-            </li>
-          </ul>
-        </details>
-      </div>
+    <p>
+      Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
+    </p>
+  </div>
+  <br>
+  <div id="box-white">
+    <details>
+    <summary><i>Resources</i></summary>
+      <ul>
+        <li> <a href="#" target="_blank"> What is Preregistration? </a>
+        <br>
+         Insert blurb here. 
+        </li> 
+        <li> 
+          <a href="#" target="_blank"> Preregistering a Study or Research Project </a>
+          <br> 
+          Insert blurb here.               
+        </li> 
+        <li> 
+          <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+        </li>
+        <li> 
+          <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
+        </li>
+      </ul>
+    </details>
+  </div>
+</div>
     
   
 
