@@ -202,96 +202,89 @@ title: Advanced Resources
       </div>
     </div>
     <!-- PREREGISTRATION & USING OS IN CURRENT WORK -->
-    <div style="display: flex; gap:20px;">
-      <div id="preregistration" class="box-purple">
-        <!-- LEFT -->
-        <div style="flex:2;">
-          <div class="box-white">
-            <div class="header-teal">
-              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-                How do you Preregister a Study?
-              </h2>
-            </div> <!--- closing teal header -->
-            <p>
-              Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
-            </p>
-          </div> <!--- closing box white -->
-        </div> <!-- closing LEFT -->
-        <!-- RIGHT -->
-        <div style="flex:1;">
-          <div class="box-white">
-            <details>
-            <summary><i>Resources</i></summary>
-            <br>
-              <ul>
-                <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
-                </li> 
-                <li> 
-                  <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
-                </li> 
-                <li> 
-                  <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
-                </li>
-                <li> 
-                  <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
-                      <div style="position:relative; width:300px;">
-                        <img
-                          src="https://img.youtube.com/vi/7ic_BgpmakI/maxresdefault.jpg"
-                          alt="Video thumbnail"
-                          style="width:300px; border-radius:10px;">
-                        <span style="
-                          position:absolute;
-                          top:50%;
-                          left:50%;
-                          transform:translate(-50%, -50%);
-                          background:white;
-                          color:#EC4801;
-                          padding:10px 15px;
-                          border-radius:50%;
-                          font-size:24px;">
-                          ▶
-                        </span>
-                      </div>
-                    </a>
-                    <br>
-                    <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
-                      Hoe to Preregister a Study on AsPredicted
-                    </a>
-                    <br>
-                      Learn how to create a study preregistration using AsPredicted platform, a simple tool designed to help researchers document their hypothesis, methods, and analysis plans before data collection.
-                </li>
-              </ul>
-            </details>
-          </div> <!--- closing white box -->
-        </div> <!--- closing RIGHT -->
-        </div> <!--- closing purple box -->
-      </div> <!-- closing FLEX -->
-      <!-- INTEGRATING OS -->
-      <div id="integratingOS" class="box-lightblue">
-        <div class="box-white">
-          <div class="header-yellow">
-            <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-              How can we Integrate OS into Ongoing Projects?
-            </h2>
-          </div> <!--- closing yellow header -->
-          <p>
-            Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
-          </p>
-        </div> <!--- closing white box -->
-        <br>
-        <div class="box-white">
-          <details>
-          <summary><i>Resources</i></summary>
-          <br>
-          <ul>
-             <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
-             </li> 
-          </ul>
-          </details>
-        </div> <!--- closing white box -->
-      </div> <!--- closing lightblue box -->
+    <div id="preregistration" class="box-purple">
+      <div class="box-white">
+        <div class="header-teal">
+          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+            How do you Preregister a Study?
+          </h2>
+        </div> <!--- closing teal header -->
+        <p>
+          Preregistering is a way for researchers to communicate and register their research plans, before collecting their data. By doing this, researchers exercise the transparency required of open science, while increasing the credibility of their future findings.
+        </p>
+      </div> <!--- closing box white -->
       <br>
-      <!--- BARRIERS -->
+      <div class="box-white">
+      <details>
+        <summary><i>Resources</i></summary>
+        <br>
+          <ul>
+            <li> <a href="https://www.cos.io/initiatives/prereg" target="_blank"> What is Preregistration? </a>
+            </li> 
+            <li> 
+              <a href="https://www.yorksj.ac.uk/library/research-support/preregistering-a-study-or-research-project/" target="_blank"> Preregistering a Study or Research Project </a>
+            </li> 
+            <li> 
+              <a href="https://www.apa.org/pubs/journals/resources/preregistration" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
+            </li>
+            <li> 
+              <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
+                  <div style="position:relative; width:300px;">
+                    <img
+                      src="https://img.youtube.com/vi/7ic_BgpmakI/maxresdefault.jpg"
+                      alt="Video thumbnail"
+                      style="width:300px; border-radius:10px;">
+                    <span style="
+                      position:absolute;
+                      top:50%;
+                      left:50%;
+                      transform:translate(-50%, -50%);
+                      background:white;
+                      color:#EC4801;
+                      padding:10px 15px;
+                      border-radius:50%;
+                      font-size:24px;">
+                       ▶
+                    </span>
+                  </div>
+                </a>
+                <br>
+                <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
+                  How to Preregister a Study on AsPredicted
+                </a>
+                <br>
+                  Learn how to create a study preregistration using AsPredicted platform, a simple tool designed to help researchers document their hypothesis, methods, and analysis plans before data collection.
+            </li>
+          </ul>
+        </details>
+      </div> <!--- closing white box -->
+    </div> <!--- closing purple box -->
+    <!-- INTEGRATING OS -->
+    <div id="integratingOS" class="box-lightblue">
+      <div class="box-white">
+        <div class="header-yellow">
+          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+            How can we Integrate OS into Ongoing Projects?
+          </h2>
+        </div> <!--- closing yellow header -->
+        <p>
+          Explore practical ways to incorporate Open Science practices into existing research workflows, from planning and data management to documentation, sharing, and collaboration. Learn how small, sustainable changes can improve transparency, reproducibility, and the overall impact of your work.
+        </p>
+      </div> <!--- closing white box -->
+      <br>
+      <div class="box-white">
+        <details>
+        <summary><i>Resources</i></summary>
+        <br>
+        <ul>
+           <li> <a href="#" target="_blank"> Ways to Incorporate Open Science Practices into Overall Workflow </a>
+           </li> 
+        </ul>
+        </details>
+      </div> <!--- closing white box -->
+    </div> <!--- closing lightblue box -->
+    <br>
+    <!--- BARRIERS -->
       <div id="barriers" class="box-red" style="margin-bottom: 40px;">
         <div class="box-white">
           <div class="header-blue">
