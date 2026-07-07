@@ -215,7 +215,32 @@ title: Advanced Resources
                 <a href="#" target="_blank"> Webinar: Preregistration Standards for Psychology </a> 
               </li>
               <li> 
-                <a href="#" target="_blank"> How to preregister a study on "As Predicted"</a> 
+                <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
+                  <div style="position:relative; width:300px;"
+                    <img
+                      src="https://img.youtube.com/vi/7ic_BgpmakI/maxresdefault.jpg"
+                      alt="Video thumbnail"
+                      style="width:300px; border-radius:10px;">
+                    <span style="
+                      position:absolute;
+                      top:50%;
+                      left:50%;
+                      transform:translate(-50%, -50%);
+                      background:white;
+                      color:#EC4801;
+                      padding:10px 15px;
+                      border-radius:50%;
+                      font-size:24px;">
+                      ▶
+                    </span>
+                  </div>
+                </a>
+                <br>
+                <a href="https://www.youtube.com/watch?v=7ic_BgpmakI" target="_blank">
+                  Hoe to Preregister a Study on AsPredicted
+                </a>
+                <br>
+                  Learn how to create a study preregistration using AsPredicted platform, a simple tool designed to help researchers document their hypothesis, methods, and analysis plans before data collection.
               </li>
             </ul>
           </details>
@@ -267,7 +292,6 @@ title: Advanced Resources
         Barriers
       </h2>
     </div> <!--- closing header box -->
-    <br>
     <p>
       Conducting BTS or implementing OS is not always straightforward across collaborators. Below we have highlighted sources that discuss challenges researchers have faced and how to mitigate them.
     </p>
