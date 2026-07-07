@@ -424,6 +424,7 @@ title: Advanced Resources
         </div> <!--- closing BLOCK 4 --->
       </div> <!--- BLOCKS -->
     </div> <!---closing red box -->
+  </div> <!-- closing main content box -->
 </div> 
 
 
