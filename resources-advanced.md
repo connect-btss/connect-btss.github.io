@@ -220,6 +220,5 @@ title: Advanced Resources
   </div>
 </div>
     
-  
 
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
