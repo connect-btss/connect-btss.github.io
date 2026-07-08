@@ -540,17 +540,15 @@ title: Advanced Resources
                   More OS Tools
                   </h2>
                 </div> <!--- closing header blue -->
-              </div> <!-- closing box-white -->
-              <br>
-              <div class="box-white">
-                <details>
-                  <summary><i>Resources</i></summary>
-                  <br>
-                  <ul>
-                    <li> <a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681#tbl1" target="_blank"> More Tools for Open Science Practices </a>
-                    </li>
-                  </ul>
-                </details>
+                <br>
+                  <details>
+                    <summary><i>Resources</i></summary>
+                    <br>
+                    <ul>
+                      <li> <a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681#tbl1" target="_blank"> More Tools for Open Science Practices </a>
+                      </li>
+                    </ul>
+                  </details>
               </div> <!-- closing box-white -->
             </div> <!-- closing box white --> 
           </div> <!-- closing box-red -->
