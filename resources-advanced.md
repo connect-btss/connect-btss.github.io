@@ -15,7 +15,7 @@ title: Advanced Resources
 > [View resources for beginners]({{site.baseurl}}/resources-beginner)
 
 ***
-<div style="display: flex; gap:30px; align-items:flex-start;"> <!-- setting the page for sidebar and content -->
+<div style="display: flex; gap:30px; align-items:flex-start; width:100%"> <!-- setting the page for sidebar and content -->
   <!--- SIDEBAR -->
     <aside class="side-index" style="flex:0 0 250px;">
       <h2>Contents</h2>
@@ -42,7 +42,7 @@ title: Advanced Resources
     </aside>
     
   <!-- PAGE CONTENT -->
-    <main class="content"; style="flex:1;">
+    <main class="content"; style="flex:1; min-width:0;">
       <!-- MANAGING GLOBAL TEAMS -->
         <div class="box-teal" style="margin-bottom: 40px;">
           <div id="managingglobalteams" class="header-red">
