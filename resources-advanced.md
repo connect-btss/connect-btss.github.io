@@ -288,9 +288,9 @@ title: Advanced Resources
       </div> <!--- closing lightblue box -->
       <br>
       <!--- BARRIERS -->
-      <div id="barriers" class="box-red" style="margin-bottom: 40px;">
+      <div id="barriers" class="box-yellow" style="margin-bottom: 40px;">
         <div class="box-white">
-          <div class="header-blue">
+          <div class="header-lightblue">
             <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
               Barriers
             </h2>
@@ -305,7 +305,7 @@ title: Advanced Resources
           <!-- BLOCK 1 -->
           <div style="flex:1 1 45%;">
             <div class="box-white">
-              <div class="header-blue">
+              <div class="header-lightblue">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   What are some challenges with conducting Open Science?
                 </h2>
@@ -332,7 +332,7 @@ title: Advanced Resources
           <!-- BLOCK 2 -->
           <div style="flex:1 1 45%;">
             <div class="box-white">
-              <div class="header-blue">
+              <div class="header-lightblue">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   Authorship
                 </h2>
@@ -362,7 +362,7 @@ title: Advanced Resources
           <!-- BLOCK 3 -->
           <div style="flex:1 1 45%;">
             <div class="box-white">
-              <div class="header-blue">
+              <div class="header-lightblue">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   What are some solutions for reducing barriers to Open Science?
                 </h2>
@@ -393,11 +393,11 @@ title: Advanced Resources
           <!-- BLOCK 4 -->
           <div style="flex:1 1 45%;">
             <div class="box-white">
-              <div class="header-blue">
+              <div class="header-lightblue">
                 <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   Illusion of Generalizability
                 </h2>
-              </div> <!--- closing blue header -->
+              </div> <!--- closing lightblue header -->
               <br>
               <p>
                 Research findings may appear broadly applicable but may not always generalize across populations, settings, or contexts. Discuss the importance of diversity, replication, and thoughtful study design in producing robust and reliable evidence.
