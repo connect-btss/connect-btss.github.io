@@ -42,7 +42,7 @@ title: Advanced Resources
     </aside>
     
   <!-- PAGE CONTENT -->
-    <main class="content"; style="flex:1; min-width:0;">
+    <div class="content"; style="flex:1; min-width:0;">
       <!-- MANAGING GLOBAL TEAMS -->
         <div class="box-teal" style="margin-bottom: 40px;">
           <div id="managingglobalteams" class="header-red">
@@ -554,7 +554,7 @@ title: Advanced Resources
               </div> <!-- closing box-white -->
             </div> <!-- closing box white --> 
           </div> <!-- closing box-red -->
-    </main> <!-- closing main content box -->
+    </div> <!-- closing main content box -->
 </div> <!-- closing flex -->
 
 
