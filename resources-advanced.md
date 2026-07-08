@@ -429,6 +429,7 @@ title: Advanced Resources
           </div> <!-- closing header blue -->
           <!--- ADDING BLOCKS -->
           <div style="display:flex; gap:20px; flex-wrap:wrap;">
+          <br>
             <!-- BLOCK 1 -->
             <div style="flex:1 1 45%;">
               <div class="box-white">
