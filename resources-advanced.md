@@ -17,7 +17,7 @@ title: Advanced Resources
 ***
 <div style="display: flex; gap:30px; align-items:flex-start;"> <!-- setting the page for sidebar and content -->
   <!--- SIDEBAR -->
-    <div class="side-index" styles="flex:0 0 250px;">
+    <aside class="side-index" styles="flex:0 0 250px;">
       <h2>Contents</h2>
       <ul>
         <li>
@@ -39,10 +39,10 @@ title: Advanced Resources
           <a href="#tools"> <strong> Relevant BTS Tools </strong> </a>
         <li/>
       </ul>
-    </div>
+    </aside>
     
   <!-- PAGE CONTENT -->
-    <div style="flex:1;">
+    <main class="content"; style="flex:1;">
       <!-- MANAGING GLOBAL TEAMS -->
         <div class="box-teal" style="margin-bottom: 40px;">
           <div id="managingglobalteams" class="header-red">
@@ -554,7 +554,7 @@ title: Advanced Resources
               </div> <!-- closing box-white -->
             </div> <!-- closing box white --> 
           </div> <!-- closing box-red -->
-    </div> <!-- closing main content box -->
+    </main> <!-- closing main content box -->
 </div> <!-- closing flex -->
 
 

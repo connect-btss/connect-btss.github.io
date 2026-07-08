@@ -1348,6 +1348,18 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Layout for sidebar + main content */
+.page-layout {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 40px;
+  align-items: start;
+}
+
+.content {
+  min-width: 0;
+}
+
 /* Bottom-right popup added by Rebeca */
 
 .resource-popup {
