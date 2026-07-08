@@ -1418,3 +1418,21 @@ html {
 .popup-close:hover{
   color:black;
 }
+
+
+/* making it so that it doesn't break if accessed on mobile */
+@media (max-width: 768px) {
+  .side-index {
+    position: relative;
+    width: 100%;
+    flex: none;
+  }
+
+  main.content {
+    width: 100%;
+  }
+
+  body > div {
+    flex-direction: column;
+  }
+}
