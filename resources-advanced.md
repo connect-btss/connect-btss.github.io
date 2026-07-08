@@ -433,7 +433,7 @@ title: Advanced Resources
         <div style="flex:1 1 45%;">
           <div class="box-white">
             <div class="header-blue">
-              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               r/RStudio
               </h2>
             </div> <!--- closing header blue -->
@@ -463,7 +463,7 @@ title: Advanced Resources
         <div style="flex:1 1 45%;">
           <div class="box-white">
             <div class="header-blue">
-              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               GitHub
               </h2>
             </div> <!--- closing header blue -->
@@ -489,7 +489,7 @@ title: Advanced Resources
         <div style="flex:1 1 45%;">
           <div class="box-white">
             <div class="header-blue">
-              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               Data Validator
               </h2>
             </div> <!--- closing header blue -->
@@ -513,7 +513,7 @@ title: Advanced Resources
         <div style="flex:1 1 45%;">
           <div class="box-white">
             <div class="header-blue">
-              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               STAPLE
               </h2>
             </div> <!--- closing header blue -->
@@ -537,7 +537,7 @@ title: Advanced Resources
         <div style="flex:1 1 45%;">
         <div class="box-white">
             <div class="header-blue">
-              <h2 style="margin-bottom:0, margin-top:0; color:#FFFFFF;">
+              <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
               More OS Tools
               </h2>
             </div> <!--- closing header blue -->
