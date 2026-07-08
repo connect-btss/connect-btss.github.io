@@ -17,7 +17,7 @@ title: Advanced Resources
 ***
 <div style="display: flex; gap:30px; align-items:flex-start;"> <!-- setting the page for sidebar and content -->
   <!--- SIDEBAR -->
-    <aside class="side-index" styles="flex:0 0 250px;">
+    <aside class="side-index" style="flex:0 0 250px;">
       <h2>Contents</h2>
       <ul>
         <li>
