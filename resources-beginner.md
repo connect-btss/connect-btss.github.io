@@ -19,58 +19,71 @@ title: Beginner Resources
 -->
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-blue">
-    <div id="box-white">
-      <div id="header-blue">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is Big Team Science (BTS)?</h2>
-      </div>
+  <div class="box-blue">
+    <div class="box-white">
+      <div class="header-blue">
+        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+          What is Big Team Science (BTS)?
+        </h2>
+      </div> <!--- closing header blue -->
       <p>
         Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
       </p> 
-        <div id="header-teal">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Big Team Science</h2>
-        </div>
+    </div> <!--- close box white -->
+    <br>
+    <div class="box-white">
+      <details>
+        <summary><i>Resources</i></summary>
           <br>
-          <ul>
-          <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>
-          Provides an overview of BTS, as well as recommendations for expanding collaborative research.
-          </li>
-          <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
-          "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
-          </li>
-          </ul>
-        <div id="header-red">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Managing Big Team Science</h2>
-        </div>
-          <ul>
+          <div class="header-teal">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              Introduction to Big Team Science
+            </h2>
+          </div> <!--- closing header teal -->
             <br>
-            <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
-            Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
+            <ul>
+            <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>              Provides an overview of BTS, as well as recommendations for expanding collaborative research.
             </li>
-            <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10343" target="_blank">Team Science: A Syllabus For Success on Big Projects <i>(Peterson et al., 2023)</i></a><br>
-            Outlines strategies for successful team science.
+            <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
+            "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
             </li>
-            <li><a href="https://journals.sagepub.com/doi/10.1177/25152459261423052" target="_blank">Realizing the Full Potential of Big-Team Behavioral Science: How Global Collaborations Can Benefit From Participatory Open-Research Practices <i>(Weinstein et al., 2026)</i></a><br>
-            Explores how open-research practices can strengthen global BTS.
-            </li>
-          </ul>
-        <div id="header-yellow">
-        <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> How has Big Team Science been implemented across different research fields? </h2>
-        </div>
-        <br>
-          <ul>
-            <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
-            </li>
-            <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
-            </li>
-            <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
-            </li>
-            <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>
-            </li>
-          </ul>
-    </div>      
-  </div>
-</div>
+            </ul>
+          <div class="header-red">
+             <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              Managing Big Team Science
+            </h2>
+          </div> <!--- closing header red -->
+            <ul>
+              <br>
+              <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
+              Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
+              </li>
+              <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10343" target="_blank">Team Science: A Syllabus For Success on Big Projects <i>(Peterson et al., 2023)</i></a><br>
+              Outlines strategies for successful team science.
+              </li>
+              <li><a href="https://journals.sagepub.com/doi/10.1177/25152459261423052" target="_blank">Realizing the Full Potential of Big-Team Behavioral Science: How Global Collaborations Can Benefit From Participatory Open-Research Practices <i>(Weinstein et al., 2026)</i></a><br>
+              Explores how open-research practices can strengthen global BTS.
+              </li>
+            </ul>
+          <div class="header-yellow">
+             <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              How has Big Team Science been implemented across different research fields? 
+            </h2>
+          </div> <!-- closing header-yellow -->
+          <br>
+            <ul>
+              <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
+              </li>
+              <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
+              </li>
+              <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
+              </li>
+              <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                </li>
+             </ul>
+      </details>
+    </div> <!--- close box white -->      
+  </div> <!--- close box blue -->
+</div> <!--- close block -->
 
 
 
@@ -78,11 +91,12 @@ title: Beginner Resources
   <tr>
     <!-- LEFT -->
     <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-      <div id="box-blue">
-        <div id="header-red">
+      <div class="box-blue">
+        <div class="header-red">
          <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
         </div>
-        <div id="box-white">
+        <br>
+        <div class="box-white">
           <h2>FAIR Data</h2>
           FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
           <details>
@@ -114,12 +128,12 @@ title: Beginner Resources
     </td>  
     <!-- RIGHT -->
     <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-      <div id="box-teal">
-        <div id="header-blue">
+      <div class="box-teal">
+        <div class="header-blue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
         </div>
         <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
-        <div id="box-white">
+        <div class="box-white">
           <details>
           <summary><i>Resources</i></summary>
             <ul>
@@ -141,12 +155,12 @@ title: Beginner Resources
   <tr>
     <!-- LEFT -->
     <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-      <div id="box-yellow" style="flex: 1; min-width: 300px;">
-        <div id="header-blue">
+      <div class="box-yellow" style="flex: 1; min-width: 300px;">
+        <div class="header-blue">
           <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
         </div>
         <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
-        <div id="box-white">
+        <div class="box-white">
           <details>
           <summary><i>Resources</i></summary>
             <br>
@@ -178,14 +192,14 @@ title: Beginner Resources
 
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-teal">
-    <div id="header-red">
+  <div class="box-teal">
+    <div class="header-red">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
     </div>
       <p>
         Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
       </p>
-      <div id="box-white">
+      <div class="box-white">
         <table>
           <tr>
             <th>Feature</th>
@@ -210,7 +224,7 @@ title: Beginner Resources
         </table>
       </div>
     <br>  
-    <div id="box-white">
+    <div class="box-white">
       <details>
         <summary><i>Resources</i></summary>
           <ul>
@@ -239,14 +253,14 @@ title: Beginner Resources
   </div>  
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-blue">
-    <div id="header-yellow">
+  <div class="box-blue">
+    <div class="header-yellow">
       <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
     </div>
     <p>
       Credible research refers to research that is trusted, reliable, and accurate.
     </p>
-    <div id="box-white">
+    <div class="box-white">
       <table>
           <tr>
             <th>Feature</th>
@@ -315,11 +329,11 @@ title: Beginner Resources
       </table>
     </div>  
     <br>
-    <div id="box-white">  
+    <div class="box-white">  
       <details>
         <summary><i>Resources</i></summary>
         <br>
-        <div id="box-white">
+        <div class="box-white">
           <ul>
             <li><a href="https://www.cos.io/initiatives/prereg" target="_blank">Preregistration <i>(COS)</i></a><br>
             “...specifying your research plan in advance of your study and submitting it to a registry.” 
@@ -338,12 +352,12 @@ title: Beginner Resources
 </div>
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-  <div id="box-yellow">
-    <div id="header-blue">
+  <div class="box-yellow">
+    <div class="header-blue">
       <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
     </div>
     <br>
-      <div id="box-white">
+      <div class="box-white">
       <ul>
         <li>
           <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
@@ -375,3 +389,7 @@ title: Beginner Resources
     </div>
   </div>
 </div>  
+
+
+    
+> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
