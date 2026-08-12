@@ -390,6 +390,22 @@ title: Beginner Resources
   </div>
 </div>  
 
+<div id="resource-popup" class="resource-popup">
+  <button id="close-popup" class="popup-close">&times;</button>
+
+  <h3>Looking for advanced resources?</h3>
+
+  <p>
+    If you're looking for an more information about Big Team Science and Open Science,
+    visit our Advanced Resources page.
+  </p>
+
+  <a href="{{ site.baseurl }}/resources-advanced/" class="popup-button">
+    View Advanced Resources
+  </a>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/popup.js"></script>
 
     
 > All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
