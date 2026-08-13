@@ -24,7 +24,7 @@ title: Beginner Resources
       <h2>Contents</h2>
       <ul>
         <li>
-          <a href="#bigteamscience"> <strong> Big Team Science </strong></a>
+          <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? </strong></a>
         </li>
         <li>
           <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
@@ -53,7 +53,7 @@ title: Beginner Resources
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-blue">
             <div class="box-white">
-              <div class="header-blue">
+              <div id="bigteamscience" class="header-blue">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
                   What is Big Team Science (BTS)?
                 </h2>
@@ -121,7 +121,7 @@ title: Beginner Resources
             <!-- LEFT -->
             <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
               <div class="box-blue">
-                <div class="header-red">
+                <div id="increasingresearchtransparency" class="header-red">
                  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
                 </div>
                 <br>
@@ -158,7 +158,7 @@ title: Beginner Resources
             <!-- RIGHT -->
             <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
               <div class="box-teal">
-                <div class="header-blue">
+                <div id="WEIRDresearch" class="header-blue">
                   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
                 </div>
                 <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
@@ -185,7 +185,7 @@ title: Beginner Resources
             <!-- LEFT -->
             <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
               <div class="box-yellow" style="flex: 1; min-width: 300px;">
-                <div class="header-blue">
+                <div id="whatisOS" class="header-blue">
                   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science?</h2>
                 </div>
                 <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>     
@@ -218,11 +218,9 @@ title: Beginner Resources
             </td>
           </tr>
         </table>  
-        
-        
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-teal">
-            <div class="header-red">
+            <div id="replicationcrisis" class="header-red">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
             </div>
               <p>
@@ -280,10 +278,9 @@ title: Beginner Resources
               </div>
             </div>
           </div>  
-        
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-blue">
-            <div class="header-yellow">
+            <div id="increasingcredibility" class="header-yellow">
               <h2 style="margin-bottom:0;margin-top:0">How can you increase the credibility of your research results?</h2>
             </div>
             <p>
@@ -379,10 +376,9 @@ title: Beginner Resources
             </div>
           </div>
         </div>
-        
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
-            <div class="header-blue">
+            <div id="intrototools" class="header-blue">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
             </div>
             <br>
