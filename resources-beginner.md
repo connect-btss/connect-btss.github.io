@@ -27,19 +27,22 @@ title: Beginner Resources
           <a href="#bigteamscience"> <strong> Big Team Science </strong></a>
         </li>
         <li>
-          <a href="#publishing"> <strong> Publishing </strong> </a>
+          <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
         </li>
         <li>
-          <a href="#preregistration"> <strong> How to Preregister a Study? </strong> </a>
+          <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
         </li>
         <li>
-          <a href="#integratingOS">  <strong> How to Integrate OS into Ongoing Projects? </strong> </a>
+          <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
         </li>
         <li>
-          <a href="#barriers"> <strong> Barriers </strong> </a>
+          <a href="#replicationcrisis"> <strong> What is the Replication Crisis? </strong> </a>
         </li>
         <li>
-          <a href="#tools"> <strong> Relevant BTS Tools </strong> </a>
+          <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
+        </li>
+        <li> 
+          <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
         </li>
       </ul>
     </aside>
