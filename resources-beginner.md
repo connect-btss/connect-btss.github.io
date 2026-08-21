@@ -69,6 +69,7 @@ title: Beginner Resources
                   Introduction to Big Team Science
                 </h2>
               </div> <!--- closing header teal -->
+              <br>
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
@@ -88,6 +89,7 @@ title: Beginner Resources
                   Managing Big Team Science
                 </h2>
               </div> <!--- closing header red -->
+              <br>
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
@@ -111,6 +113,7 @@ title: Beginner Resources
                   How has Big Team Science been implemented across different research fields? 
                 </h2>
               </div> <!-- closing header-yellow -->
+              <br>
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
