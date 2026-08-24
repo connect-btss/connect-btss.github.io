@@ -269,9 +269,7 @@ title: Beginner Resources
                     </tr>
                  </table>
                 <li><strong>FAIR Data</strong></li>
-                  <p>
                     FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
-                  </p>
                   <details>
                   <summary><i>Resources</i></summary>
                     <ul>
