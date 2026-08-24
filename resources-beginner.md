@@ -199,76 +199,104 @@ title: Beginner Resources
               <br>
               <ul>
                 <li><strong>Pregrestistration vs Registered Report</strong></li>
+                  <p>
+                    Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
+                  </p>
+                  <table>
+                    <tr>
+                      <th>Feature</th>
+                      <th>Preregistration</th>
+                      <th>Registered Reports</th>
+                    </tr>
+                    <tr>
+                      <td><strong>What is it?</strong></td>
+                      <td>
+                        A research plan written before data analysis
+                        (or data collection).
+                      </td>
+                      <td>
+                        A publication format where the study proposal
+                        undergoes peer review before results are known.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Main Goal</strong></td>
+                      <td>
+                        Increase transparency and reduce QRPs.
+                      </td>
+                      <td>
+                        Increase transparency and reduce publication bias
+                        by evaluating research by its hypotheses and methods
+                        over its outcomes.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Publication Guarantee</strong></td>
+                      <td>
+                        No publication guarantee.
+                      </td>
+                      <td>
+                        “In-principle acceptance” if authors follow approved protocol.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Where can it be submitted?</strong></td>
+                      <td>
+                        Public repositories
+                      </td>
+                      <td>
+                        Submitted directly to a journal that offers the
+                        Registered Report format.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Typical Review Process</strong></td>
+                      <td>
+                        No formal feedback.
+                      </td>
+                      <td>
+                        Two-stage peer review: before and after data collection.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td><strong>Output</strong></td>
+                      <td>
+                        Public preregistration document.
+                      </td>
+                      <td>
+                        Peer-reviewed journal article.
+                      </td>
+                    </tr>
+                 </table>
+                <li>FAIR Data</l1>
+                  <p>
+                    FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
+                  </p>
+                  <details>
+                  <summary><i>Resources</i></summary>
+                    <ul>
+                      <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
+                      <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
+                    </ul>
+                  </details>
+                <li>Authorship / Contribution Reporting</li>
+                  <details>
+                  <summary><i>Resources</i></summary>
+                    <ul>
+                      <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
+                      <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
+                    </ul>
+                  </details>
+                <li>Collaboration Agreements</li>
+                  Collaboration agreements are documents that transparently outline the terms of a joint project
+                  <details>
+                  <summary><i>Resources</i></summary>  
+                    <ul>
+                      <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
+                      <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
+                    </ul>
+                  </details>
               </ul>
-                <p>
-                  Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
-                </p>
-                <table>
-                  <tr>
-                    <th>Feature</th>
-                    <th>Preregistration</th>
-                    <th>Registered Reports</th>
-                  </tr>
-                  <tr>
-                    <td><strong>What is it?</strong></td>
-                    <td>
-                      A research plan written before data analysis
-                      (or data collection).
-                    </td>
-                    <td>
-                      A publication format where the study proposal
-                      undergoes peer review before results are known.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td><strong>Main Goal</strong></td>
-                    <td>
-                      Increase transparency and reduce QRPs.
-                    </td>
-                    <td>
-                      Increase transparency and reduce publication bias
-                      by evaluating research by its hypotheses and methods
-                      over its outcomes.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td><strong>Publication Guarantee</strong></td>
-                    <td>
-                      No publication guarantee.
-                    </td>
-                    <td>
-                      “In-principle acceptance” if authors follow approved protocol.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td><strong>Where can it be submitted?</strong></td>
-                    <td>
-                      Public repositories
-                    </td>
-                    <td>
-                      Submitted directly to a journal that offers the
-                      Registered Report format.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td><strong>Typical Review Process</strong></td>
-                    <td>
-                      No formal feedback.
-                    </td>
-                    <td>
-                      Two-stage peer review: before and after data collection.
-                    </td>
-                  </tr>
-                  <tr>
-                    <td><strong>Output</strong></td>
-                    <td>
-                      Public preregistration document.
-                    </td>
-                    <td>
-                      Peer-reviewed journal article.
-                    </td>
-                  </tr>
-               </table>
             </div> <!--- closing yellow box --->
           </div> <!--- closing white box --->
        
