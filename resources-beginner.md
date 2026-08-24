@@ -5,7 +5,7 @@ title: Beginner Resources
 
 <style>
 .container-md {
-  max-width: 1800px;
+  max-width: 2000px;
 }
 </style>
 
