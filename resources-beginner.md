@@ -22,7 +22,7 @@ title: Beginner Resources
   <!--- SIDEBAR -->
     <aside class="side-index" style="flex:0 0 250px;">
       <h2>Contents</h2>
-        <div class="sidebar-subheading">Introduction to BTS</div> <!--- first main section --->
+        <a href"#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> <!--- first main section --->
           <ul>
             <li>
               <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? and Why it is Important? </strong></a>
@@ -30,7 +30,12 @@ title: Beginner Resources
             <li>
               <a href="#acrossfields"> <strong> How has BTS been implemended across different research fields? </strong></a>
             </li>
-        <div class="sidebar-subheading"> What is Open Science, and How does it relate to BTS?</div>
+          </ul>
+        <a href"#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
+          <ul>
+            <li>
+              <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
+            </li>
             <li>
               <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
             </li>
@@ -38,16 +43,14 @@ title: Beginner Resources
               <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
             </li>
             <li>
-              <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
-            </li>
-            <li>
               <a href="#replicationcrisis"> <strong> What is the Replication Crisis? </strong> </a>
             </li>
             <li>
               <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
             </li>
-          <div class="sidebar-subheading">Getting Involves in BTS and OS</div>
-          <div class="sidebar-subheading">Introduction to Infrasturcture and Tools for BTS and OS</div>
+          </ul>
+        <a href"#gettinginvolves" class="sidebar-subheading">Getting Involved in BTS and OS</a>
+        <a href"#tools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
             <li> 
               <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
             </li>

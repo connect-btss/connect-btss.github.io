@@ -1351,15 +1351,19 @@ html {
 
 /* adding subheadings within sidebar */
 .side-index .sidebar-subheading {
+  display: block;
   color: #FEC51D;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 22px;
   margin-bottom: 10px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid rgba(254, 197, 29, 0.4);
+  text-decoration: none;
+}
+
+.side-index .sidebar-subheading:hover {
+  color: #FFFFFF;
 }
 
 /* Bottom-right popup added by Rebeca */
