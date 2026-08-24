@@ -127,27 +127,28 @@ title: Beginner Resources
               </h2>
             </div> <!--- closing header red --->
             <br>
-            <div id="whatisOS" class="sidebar-subheading">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                What is Open Science?
-              </h3>
-            </div>
-            <p>
-              Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
-            </p>
-            <div id="OSandBTS" class="sidebar-subheading">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                How is OS related to BTS?
-              </h3>
-            </div>
-            <p>
-              Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.
-            </p>
-            <br>
-            <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
-              <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-              <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">Government of Canada</a>)</i>
-            </div>
+            <div class="flex-container">
+              <div class="flex-item" id="whatisOS" class="sidebar-subheading">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+                  What is Open Science?
+                </h3>
+                <p>
+                  Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
+                </p>
+              </div> <!--- closing flex item 1 --->
+              <div class="flex-item" id="OSandBTS" class="sidebar-subheading">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+                  How is OS related to BTS?
+                </h3>
+                <p>
+                  Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.
+                </p>
+              </div>
+              <br>
+              <div class="flex-item" style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
+                <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">Government of Canada</a>)</i>
+              </div>
             <br>
             <br>
             <details>
@@ -167,7 +168,7 @@ title: Beginner Resources
               <br>
             </details> 
           </div> <!--- closing white box --->
-        </div>
+        </div> <!--- closing flex box --->
       <!--- What are the challenges --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-white">
@@ -287,7 +288,7 @@ title: Beginner Resources
                           Explains how preregistration and registered reports both serve as open science practices, while differing in their primary intentions.
                           </li>
                         </ul>
-                      </div>  
+                      </div> <!--- closing box-white --->  
                     </details>
                   <li><strong>FAIR Data</strong></li>
                       FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
