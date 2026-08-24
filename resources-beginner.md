@@ -58,6 +58,7 @@ title: Beginner Resources
               <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
             </li>
           </ul>
+      </div>
     </aside>
 
   <!-- PAGE CONTENT -->
