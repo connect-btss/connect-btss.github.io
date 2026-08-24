@@ -187,11 +187,10 @@ title: Beginner Resources
             <h4 style="margin-bottom:0;margin-top:0;color:#364362;">
               Transparency
             </h4>
-            <br>
             <p>
               Transparency makes research processes, decisions, and outputs more visible and accessible to others.
             </p>
-            <div class="box-yellow">
+            <div class="box-blue">
               <table>
                   <tr>
                     <th>Feature</th>
@@ -258,7 +257,7 @@ title: Beginner Resources
                     </td>
                   </tr>
               </table>
-            </div> <!--- closing yellow box --->
+            </div> <!--- closing blue box --->
           </div> <!--- closing white box --->
        
         <table style="width:100%; border:none; margin-bottom: 40px;">
