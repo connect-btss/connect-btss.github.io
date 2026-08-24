@@ -101,21 +101,21 @@ title: Beginner Resources
                     How has BTS been implemented across different research fields?
                   </h3>
                 </div>
-              </div>
-              <br>
-              <details>
-                <summary><i>Resources</i></summary>
-                  <br>
-                   <ul>
-                    <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
-                    </li>
-                    <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
-                    </li>
-                    <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
-                    </li>
-                    <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                </li>
-                   </ul>
-              </details>
+                <br>
+                <details>
+                  <summary><i>Resources</i></summary>
+                    <br>
+                     <ul>
+                      <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
+                      </li>
+                      <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
+                      </li>
+                      <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
+                      </li>
+                      <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                </li>
+                     </ul>
+                </details>
+              </div> <!--- close box teal--->
             </div> <!--- close box white -->      
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
