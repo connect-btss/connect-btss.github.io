@@ -190,12 +190,12 @@ title: Beginner Resources
             <p>
               Transparency makes research processes, decisions, and outputs more visible and accessible to others.
             </p>
-            <div class="box-yellow">
-              <h4 style="margin-bottom:0;margin-top:0;color:#364362;">
+            <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
               How to make your research more transparent?
-              </h4>
+            </h3>
+            <div class="box-yellow">
               <ul>
-                Pregrestistration vs Registered Report
+                <strong>Pregrestistration vs Registered Report</strong>
               </ul>
               <p>
                 Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
