@@ -298,6 +298,7 @@ title: Beginner Resources
                     </details>
                 </ul>
               </div> <!--- closing yellow box --->
+            <br>
             </li>
             <li>
               <div id="Replication" class="sidebar-subheading">
