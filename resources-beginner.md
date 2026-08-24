@@ -28,7 +28,7 @@ title: Beginner Resources
               <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? and Why it is Important? </strong></a>
             </li>
             <li>
-              <a href="#acrossfields"> <strong> How has BTS been implemended across different research fields? </strong></a>
+              <a href="#acrossfields"> <strong> How has BTS been implemented across different research fields? </strong></a>
             </li>
           </ul>
         <a href="#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
@@ -49,7 +49,7 @@ title: Beginner Resources
               <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
             </li>
           </ul>
-        <a href="#gettinginvolves" class="sidebar-subheading">Getting Involved in BTS and OS</a>
+        <a href="#gettinginvolved" class="sidebar-subheading">Getting Involved in BTS and OS</a>
           <ul>
           </ul>
         <a href="#tools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
@@ -64,24 +64,23 @@ title: Beginner Resources
     <main class="content" style="flex:1;">
       <!-- BIG TEAM SCIENCE -->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-blue">
             <div class="box-white">
-              <div id="bigteamscience" class="header-blue">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                  What is Big Team Science (BTS)?
+              <div id="introductiontoBTS" class="header-teal">
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                  Introduction to Big Team Science (BTS)
                 </h2>
-              </div> <!--- closing header blue -->
+              </div> <!--- closing header teal --->
+              <div id="bigteamscience" class="sidebar-subheading">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+                  What is Big Team Science (BTS) and Why it is Important
+                </h3>
+              </div>
               <p>
-                Big Team Science (BTS) is when a large group of researchers collaborate and combine  their resources to explore a common research focus.
+                Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal, enabling studies that may be difficult for a single research team to conduct alone.
               </p> 
-            </div> <!--- close box white -->
-            <br>
-            <div class="box-white">
-              <div class="header-teal">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                  Introduction to Big Team Science
-                </h2>
-              </div> <!--- closing header teal -->
+              <p>
+                In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability.
+              </p>
               <br>
               <details>
                 <summary><i>Resources</i></summary>
@@ -94,38 +93,12 @@ title: Beginner Resources
                     </li>
                     </ul>
               </details>
-            </div> <!--- closing white box --->
-            <br>
-            <div class="box-white">
-              <div class="header-red">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                  Managing Big Team Science
-                </h2>
-              </div> <!--- closing header red -->
               <br>
-              <details>
-                <summary><i>Resources</i></summary>
-                  <br>
-                   <ul>
-                      <li><a href="https://doi.org/10.1098/rsos.230235" target="_blank">How to build up big team science: A practical guide for large-scale collaborations <i>(Baumgartner et al., 2024)</i></a><br>
-                      Helpful tips for building a BTS group, from identifying leadership to selecting tools to integrating open science approaches.<br>
-                      </li>
-                      <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10343" target="_blank">Team Science: A Syllabus For Success on Big Projects <i>(Peterson et al., 2023)</i></a><br>
-                      Outlines strategies for successful team science.
-                      </li>
-                      <li><a href="https://journals.sagepub.com/doi/10.1177/25152459261423052" target="_blank">Realizing the Full Potential of Big-Team Behavioral Science: How Global Collaborations Can Benefit From Participatory Open-Research Practices <i>(Weinstein et al., 2026)</i></a><br>
-                      Explores how open-research practices can strengthen global BTS.
-                      </li>
-                  </ul>
-              </details>
-            </div> <!--- closing white box --->
-            <br>
-            <div class="box-white">
-              <div class="header-yellow">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                  How has Big Team Science been implemented across different research fields? 
-                </h2>
-              </div> <!-- closing header-yellow -->
+              <div id="acrossfields" class="sidebar-subheading">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+                  How has BTS been implemented across different research fields?
+                </h3>
+              </div>
               <br>
               <details>
                 <summary><i>Resources</i></summary>
@@ -141,8 +114,8 @@ title: Beginner Resources
                    </ul>
               </details>
             </div> <!--- close box white -->      
-          </div> <!--- close box blue -->
         </div> <!--- close block -->
+       
         <table style="width:100%; border:none; margin-bottom: 40px;">
           <tr>
             <!-- LEFT -->
