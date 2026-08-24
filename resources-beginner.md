@@ -268,7 +268,7 @@ title: Beginner Resources
                       </td>
                     </tr>
                  </table>
-                <li>FAIR Data</li>
+                <li><strong>FAIR Data</strong></li>
                   <p>
                     FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
                   </p>
@@ -279,7 +279,7 @@ title: Beginner Resources
                       <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
                     </ul>
                   </details>
-                <li>Authorship / Contribution Reporting</li>
+                <li><strong>Authorship / Contribution Reporting</strong></li>
                   <details>
                   <summary><i>Resources</i></summary>
                     <ul>
@@ -287,7 +287,7 @@ title: Beginner Resources
                       <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
                     </ul>
                   </details>
-                <li>Collaboration Agreements</li>
+                <li><strong>Collaboration Agreements</strong></li>
                   Collaboration agreements are documents that transparently outline the terms of a joint project
                   <details>
                   <summary><i>Resources</i></summary>  
