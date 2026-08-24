@@ -199,9 +199,7 @@ title: Beginner Resources
               <br>
               <ul>
                 <li><strong>Pregrestistration vs Registered Report</strong></li>
-                  <p>
                     Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
-                  </p>
                   <table>
                     <tr>
                       <th>Feature</th>
