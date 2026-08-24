@@ -175,125 +175,150 @@ title: Beginner Resources
               </h2>
             </div> <!--- closing yellow header --->
             <br>
-            <div id="credibility" class="siderbar-subheading">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                Credibility
-              </h3>
-            </div>
-            <p>
-              Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
-            </p>
+            <ul>
+              <li>
+                <div id="credibility" class="sidebar-subheading">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    Credibility
+                  </h3>
+                </div>
+                <p>
+                  Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
+                </p>
+              </li>
             <br>
-            <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-              Transparency
-            </h3>
-            <p>
-              Transparency makes research processes, decisions, and outputs more visible and accessible to others.
-            </p>
-            <div class="box-yellow">
-              <div id="transparency" class="header-teal">
-                <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  How to make your research more transparent?
-                </h3>
-              </div> <!--- closing teal header --->
-              <br>
-              <ul>
-                <li><strong>Pregrestistration vs Registered Report</strong></li>
-                    Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
-                  <table>
-                    <tr>
-                      <th>Feature</th>
-                      <th>Preregistration</th>
-                      <th>Registered Reports</th>
-                    </tr>
-                    <tr>
-                      <td><strong>What is it?</strong></td>
-                      <td>
-                        A research plan written before data analysis
-                        (or data collection).
-                      </td>
-                      <td>
-                        A publication format where the study proposal
-                        undergoes peer review before results are known.
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Main Goal</strong></td>
-                      <td>
-                        Increase transparency and reduce QRPs.
-                      </td>
-                      <td>
-                        Increase transparency and reduce publication bias
-                        by evaluating research by its hypotheses and methods
-                        over its outcomes.
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Publication Guarantee</strong></td>
-                      <td>
-                        No publication guarantee.
-                      </td>
-                      <td>
-                        “In-principle acceptance” if authors follow approved protocol.
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Where can it be submitted?</strong></td>
-                      <td>
-                        Public repositories
-                      </td>
-                      <td>
-                        Submitted directly to a journal that offers the
-                        Registered Report format.
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Typical Review Process</strong></td>
-                      <td>
-                        No formal feedback.
-                      </td>
-                      <td>
-                        Two-stage peer review: before and after data collection.
-                      </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Output</strong></td>
-                      <td>
-                        Public preregistration document.
-                      </td>
-                      <td>
-                        Peer-reviewed journal article.
-                      </td>
-                    </tr>
-                 </table>
-                <li><strong>FAIR Data</strong></li>
-                    FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
-                  <details>
-                  <summary><i>Resources</i></summary>
-                    <ul>
-                      <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
-                      <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
-                    </ul>
-                  </details>
-                <li><strong>Authorship / Contribution Reporting</strong></li>
-                  <details>
-                  <summary><i>Resources</i></summary>
-                    <ul>
-                      <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
-                      <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
-                    </ul>
-                  </details>
-                <li><strong>Collaboration Agreements</strong></li>
-                  Collaboration agreements are documents that transparently outline the terms of a joint project
-                  <details>
-                  <summary><i>Resources</i></summary>  
-                    <ul>
-                      <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
-                      <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
-                    </ul>
-                  </details>
-              </ul>
-            </div> <!--- closing yellow box --->
+            <li>
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                Transparency
+              </h3>
+              <p>
+                Transparency makes research processes, decisions, and outputs more visible and accessible to others.
+              </p>
+              <div class="box-yellow">
+                <div id="transparency" class="header-teal">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                    How to make your research more transparent?
+                  </h3>
+                </div> <!--- closing teal header --->
+                <br>
+                <ul>
+                  <li><strong>Pregrestistration vs Registered Report</strong></li>
+                      Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
+                    <table>
+                      <tr>
+                        <th>Feature</th>
+                        <th>Preregistration</th>
+                        <th>Registered Reports</th>
+                      </tr>
+                      <tr>
+                        <td><strong>What is it?</strong></td>
+                        <td>
+                          A research plan written before data analysis
+                          (or data collection).
+                        </td>
+                        <td>
+                          A publication format where the study proposal
+                          undergoes peer review before results are known.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>Main Goal</strong></td>
+                        <td>
+                          Increase transparency and reduce QRPs.
+                        </td>
+                        <td>
+                          Increase transparency and reduce publication bias
+                          by evaluating research by its hypotheses and methods
+                          over its outcomes.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>Publication Guarantee</strong></td>
+                        <td>
+                          No publication guarantee.
+                        </td>
+                        <td>
+                          “In-principle acceptance” if authors follow approved protocol.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>Where can it be submitted?</strong></td>
+                        <td>
+                          Public repositories
+                        </td>
+                        <td>
+                          Submitted directly to a journal that offers the
+                          Registered Report format.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>Typical Review Process</strong></td>
+                        <td>
+                          No formal feedback.
+                        </td>
+                        <td>
+                          Two-stage peer review: before and after data collection.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td><strong>Output</strong></td>
+                        <td>
+                          Public preregistration document.
+                        </td>
+                        <td>
+                          Peer-reviewed journal article.
+                        </td>
+                      </tr>
+                   </table>
+                  <li><strong>FAIR Data</strong></li>
+                      FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
+                    <details>
+                    <summary><i>Resources</i></summary>
+                      <ul>
+                        <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
+                        <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
+                      </ul>
+                    </details>
+                  <li><strong>Authorship / Contribution Reporting</strong></li>
+                    <details>
+                    <summary><i>Resources</i></summary>
+                      <ul>
+                        <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
+                        <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
+                      </ul>
+                    </details>
+                  <li><strong>Collaboration Agreements</strong></li>
+                    Collaboration agreements are documents that transparently outline the terms of a joint project
+                    <details>
+                    <summary><i>Resources</i></summary>  
+                      <ul>
+                        <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
+                        <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
+                      </ul>
+                    </details>
+                </ul>
+              </div> <!--- closing yellow box --->
+            </li>
+            <li>
+              <div id="Replication" class="sidebar-subheading">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    Replication and Reproducibility
+                  </h3>
+                </div>
+                <p>
+                  Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
+                </p>
+            </li>
+            <li>
+              <div id="Generalizability" class="sidebar-subheading">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    Generalizability and Representativeness
+                  </h3>
+                </div>
+                <p>
+                  Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
+                </p>
+            </li>
           </div> <!--- closing white box --->
        
         <table style="width:100%; border:none; margin-bottom: 40px;">
