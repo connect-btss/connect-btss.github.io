@@ -395,11 +395,7 @@ title: Beginner Resources
                 <p>
                   Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
                 </p>
-            </li>
-          </div> <!--- closing white box --->
-            <!-- RIGHT -->
-            <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-              <div class="box-teal">
+                <div class="box-teal">
                 <div id="WEIRDresearch" class="header-blue">
                   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
                 </div>
@@ -421,9 +417,8 @@ title: Beginner Resources
                   </details>
                 </div>
               </div>
-            </td>
-          </tr>
-          <tr>
+            </li>
+          </div> <!--- closing white box --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-teal">
             <div id="replicationcrisis" class="header-red">
