@@ -190,9 +190,11 @@ title: Beginner Resources
             <p>
               Transparency makes research processes, decisions, and outputs more visible and accessible to others.
             </p>
-            <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-              How to make your research more transparent?
-            </h3>
+            <div id="transparency" class="header-teal">
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                How to make your research more transparent?
+              </h3>
+            </div> <!--- closing teal header --->
             <div class="box-yellow">
               <ul>
                 <strong>Pregrestistration vs Registered Report</strong>
