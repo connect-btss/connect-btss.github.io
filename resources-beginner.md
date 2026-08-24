@@ -184,14 +184,23 @@ title: Beginner Resources
               Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
             </p>
             <br>
-            <h4 style="margin-bottom:0;margin-top:0;color:#364362;">
+            <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
               Transparency
-            </h4>
+            </h3>
             <p>
               Transparency makes research processes, decisions, and outputs more visible and accessible to others.
             </p>
             <div class="box-yellow">
-              <table>
+              <h4 style="margin-bottom:0;margin-top:0;color:#364362;">
+              How to make your research more transparent?
+              </h4>
+              <ul>
+                Pregrestistration vs Registered Report
+              </ul>
+              <p>
+                Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
+              </p>
+                <table>
                   <tr>
                     <th>Feature</th>
                     <th>Preregistration</th>
@@ -256,7 +265,7 @@ title: Beginner Resources
                       Peer-reviewed journal article.
                     </td>
                   </tr>
-              </table>
+               </table>
             </div> <!--- closing yellow box --->
           </div> <!--- closing white box --->
        
