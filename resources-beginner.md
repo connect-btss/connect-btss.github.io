@@ -165,6 +165,101 @@ title: Beginner Resources
               <br>
             </details> 
           </div> <!--- closing white box --->
+        </div>
+      <!--- What are the challenges --->
+        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+          <div class="box-white">
+            <div id="challengesBTSandOSaddresses" class="header-yellow">
+              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                What challenges do BTS and OS respond to?
+              </h2>
+            </div> <!--- closing yellow header --->
+            <br>
+            <div id="credibility" class="siderbar-subheading">
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                Credibility
+              </h3>
+            </div>
+            <p>
+              Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
+            </p>
+            <br>
+            <h4 style="margin-bottom:0;margin-top:0;color:#364362;">
+              Transparency
+            </h4>
+            <br>
+            <p>
+              Transparency makes research processes, decisions, and outputs more visible and accessible to others.
+            </p>
+            <div class="box-yellow">
+              <table>
+                  <tr>
+                    <th>Feature</th>
+                    <th>Preregistration</th>
+                    <th>Registered Reports</th>
+                  </tr>
+                  <tr>
+                    <td><strong>What is it?</strong></td>
+                    <td>
+                      A research plan written before data analysis
+                      (or data collection).
+                    </td>
+                    <td>
+                      A publication format where the study proposal
+                      undergoes peer review before results are known.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><strong>Main Goal</strong></td>
+                    <td>
+                      Increase transparency and reduce QRPs.
+                    </td>
+                    <td>
+                      Increase transparency and reduce publication bias
+                      by evaluating research by its hypotheses and methods
+                      over its outcomes.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><strong>Publication Guarantee</strong></td>
+                    <td>
+                      No publication guarantee.
+                    </td>
+                    <td>
+                      “In-principle acceptance” if authors follow approved protocol.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><strong>Where can it be submitted?</strong></td>
+                    <td>
+                      Public repositories
+                    </td>
+                    <td>
+                      Submitted directly to a journal that offers the
+                      Registered Report format.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><strong>Typical Review Process</strong></td>
+                    <td>
+                      No formal feedback.
+                    </td>
+                    <td>
+                      Two-stage peer review: before and after data collection.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><strong>Output</strong></td>
+                    <td>
+                      Public preregistration document.
+                    </td>
+                    <td>
+                      Peer-reviewed journal article.
+                    </td>
+                  </tr>
+              </table>
+            </div> <!--- closing yellow box --->
+          </div> <!--- closing white box --->
        
         <table style="width:100%; border:none; margin-bottom: 40px;">
           <tr>
