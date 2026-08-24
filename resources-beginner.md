@@ -163,6 +163,7 @@ title: Beginner Resources
                   </a>)
                 </i>
               </div> <!--- closing flex image item/right column --->
+            </div> <!--- closing flex item --->
           <br>
             <details>
               <summary><i>Resources</i></summary>
