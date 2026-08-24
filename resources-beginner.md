@@ -97,7 +97,7 @@ title: Beginner Resources
               <br>
               <div class="box-teal">
                 <div id="acrossfields" class="sidebar-subheading">
-                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+                  <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
                     How has BTS been implemented across different research fields?
                   </h3>
                 </div>
