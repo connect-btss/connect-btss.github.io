@@ -25,9 +25,6 @@ title: Beginner Resources
       <ul>
         <li>
           <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? </strong></a>
-          <li>
-          <a href="#acrossfields"> <strong> How has Big Team Science been implemented across different research fields? </strong></a>
-          </li>
         </li>
         <li>
           <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
