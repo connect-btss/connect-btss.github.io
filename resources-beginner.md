@@ -323,46 +323,6 @@ title: Beginner Resources
                 </p>
             </li>
           </div> <!--- closing white box --->
-       
-        <table style="width:100%; border:none; margin-bottom: 40px;">
-          <tr>
-            <!-- LEFT -->
-            <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-              <div class="box-blue">
-                <div id="increasingresearchtransparency" class="header-red">
-                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How can you increase the transparency of your research?</h2>
-                </div>
-                <br>
-                <div class="box-white">
-                  <h2>FAIR Data</h2>
-                  FAIR data is <b>F</b>indable, <b>A</b>ccessible, <b>I</b>nteroperable, and <b>R</b>eusable
-                  <details>
-                  <summary><i>Resources</i></summary>
-                    <ul>
-                      <li><a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR Principles (GO FAIR) </a></li>
-                      <li><a href="https://www.nature.com/articles/sdata201618" target="_blank"> The FAIR Guiding Principles for Scientific Data Management and Stewardship</a></li>
-                    </ul>
-                  </details>
-                  <h2>Authorship / Contribution Reporting</h2>
-                  <details>
-                  <summary><i>Resources</i></summary>
-                    <ul>
-                      <li><a href="https://credit.niso.org/" target="_blank">CRediT (Contributor Roles Taxonomy)</a></li>
-                      <li><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing: Documenting contributorship with CRediT</a></li>
-                    </ul>
-                  </details>
-                  <h2>Collaboration Agreements</h2>
-                  Collaboration agreements are documents that transparently outline the terms of a joint project
-                  <details>
-                  <summary><i>Resources</i></summary>  
-                    <ul>
-                      <li><a href="https://guides.lib.vt.edu/teamscience/TeamCollaborationAgreements" target="_blank">Science of Team Science Resources for Collaboration Agreements</a> (Virginia Tech University Libraries)</li>
-                      <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
-                    </ul>
-                  </details>
-                </div>
-              </div>
-            </td>  
             <!-- RIGHT -->
             <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
               <div class="box-teal">
@@ -390,22 +350,6 @@ title: Beginner Resources
             </td>
           </tr>
           <tr>
-            <!-- LEFT -->
-            <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
-              <div class="box-yellow" style="flex: 1; min-width: 300px;">
-              <div class="box-white">
-                </div>
-              </div>
-            </td>
-            <!--RIGHT -->
-            <td style="width:50%; vertical-align:top; padding-left:10px; border:none;">
-              <div style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
-                <a href="https://science.gc.ca/site/science/en/open-science" target="_blank"><img src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" width="500"></a><br>
-                <i>(source: <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">Government of Canada</a>)</i>
-             </div>
-            </td>
-          </tr>
-        </table>  
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-teal">
             <div id="replicationcrisis" class="header-red">
