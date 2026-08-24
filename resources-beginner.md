@@ -381,10 +381,7 @@ title: Beginner Resources
                       </ul>
                   </ul>
                 </details>
-            </div>
-          </div>  
-          </div>
-        </div>
+              </div>
             </li>
             <li>
               <div id="Generalizability" class="sidebar-subheading">
@@ -415,7 +412,6 @@ title: Beginner Resources
                       </li>
                     </ul>
                   </details>
-                </div>
               </div>
             </li>
           </div> <!--- closing white box --->
