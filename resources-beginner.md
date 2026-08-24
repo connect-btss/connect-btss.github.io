@@ -39,6 +39,9 @@ title: Beginner Resources
             <li>
               <a href="#OSandBTS"> <strong> How is OS related to BTS? </strong> </a>
             </li>
+          </ul>
+        <a href="#WhatdoesBTSandOSaddress?" class="sidebar-subheading">What do OS and BTS address?</a>
+          <ul>
             <li>
               <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
             </li>
@@ -52,12 +55,7 @@ title: Beginner Resources
         <a href="#gettinginvolved" class="sidebar-subheading">Getting Involved in BTS and OS</a>
           <ul>
           </ul>
-        <a href="#tools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
-          <ul>
-            <li> 
-              <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
-            </li>
-          </ul>
+        <a href="#intrototools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
     </aside>
 
   <!-- PAGE CONTENT -->
