@@ -70,6 +70,7 @@ title: Beginner Resources
                   Introduction to Big Team Science (BTS)
                 </h2>
               </div> <!--- closing header teal --->
+              <br>
               <div id="bigteamscience" class="sidebar-subheading">
                 <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
                   What is Big Team Science (BTS) and Why it is Important
@@ -81,7 +82,6 @@ title: Beginner Resources
               <p>
                 In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability.
               </p>
-              <br>
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
