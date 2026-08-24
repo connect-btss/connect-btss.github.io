@@ -22,29 +22,34 @@ title: Beginner Resources
   <!--- SIDEBAR -->
     <aside class="side-index" style="flex:0 0 250px;">
       <h2>Contents</h2>
-      <ul>
-        <li>
-          <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? </strong></a>
-        </li>
-        <li>
-          <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
-        </li>
-        <li>
-          <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
-        </li>
-        <li>
-          <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
-        </li>
-        <li>
-          <a href="#replicationcrisis"> <strong> What is the Replication Crisis? </strong> </a>
-        </li>
-        <li>
-          <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
-        </li>
-        <li> 
-          <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
-        </li>
-      </ul>
+        <div class="sidebar-subheading">Introduction to BTS</div> <!--- first main section --->
+          <ul>
+            <li>
+              <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? and Why it is Important? </strong></a>
+            </li>
+            <li>
+              <a href="#acrossfields"> <strong> How has BTS been implemended across different research fields? </strong></a>
+            </li>
+            <li>
+              <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
+            </li>
+            <li>
+              <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
+            </li>
+            <li>
+              <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
+            </li>
+            <li>
+              <a href="#replicationcrisis"> <strong> What is the Replication Crisis? </strong> </a>
+            </li>
+            <li>
+              <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
+            </li>
+            <li> 
+              <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
+            </li>
+          </ul>
+        </div>
     </aside>
 
   <!-- PAGE CONTENT -->

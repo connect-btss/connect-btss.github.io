@@ -1349,6 +1349,19 @@ html {
   scroll-behavior: smooth;
 }
 
+/* adding subheadings within sidebar */
+.side-index .sidebar-subheading {
+  color: #FEC51D;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 22px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(254, 197, 29, 0.4);
+}
+
 /* Bottom-right popup added by Rebeca */
 
 .resource-popup {
