@@ -22,7 +22,7 @@ title: Beginner Resources
   <!--- SIDEBAR -->
     <aside class="side-index" style="flex:0 0 250px;">
       <h2>Contents</h2>
-        <a href"#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> 
+        <a href="#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> 
           <ul>
             <li>
               <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? and Why it is Important? </strong></a>
@@ -31,7 +31,7 @@ title: Beginner Resources
               <a href="#acrossfields"> <strong> How has BTS been implemended across different research fields? </strong></a>
             </li>
           </ul>
-        <a href"#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
+        <a href="#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
           <ul>
             <li>
               <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
@@ -49,10 +49,10 @@ title: Beginner Resources
               <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
             </li>
           </ul>
-        <a href"#gettinginvolves" class="sidebar-subheading">Getting Involved in BTS and OS</a>
+        <a href="#gettinginvolves" class="sidebar-subheading">Getting Involved in BTS and OS</a>
           <ul>
           </ul>
-        <a href"#tools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
+        <a href="#tools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS</a>
           <ul>
             <li> 
               <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
