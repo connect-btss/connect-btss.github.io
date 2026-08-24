@@ -130,7 +130,7 @@ title: Beginner Resources
             <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
               <!--- left column --->
               <div style="flex:1; min-width:300px;">
-              <!--- text --->
+                <!--- text --->
                 <div class="flex-item sidebar-subheading" id="whatisOS">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
                     What is Open Science?
@@ -144,25 +144,26 @@ title: Beginner Resources
                   <p>
                     Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.
                   </p>
-                </div> <!--- closing flex item --->
-                <!--- image --->
-                <div class="flex-item" 
-                  style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                </div> <!--- closing text item --->
+              </div> <!--- closing left column --->
+              <!--- right  column --->
+              <div class="flex-item" 
+                style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
+                  <img 
+                    src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
+                    alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" 
+                    width="500"
+                    style="max-width:100%; height:auto;">
+                </a>
+                <br>
+                <i>(source: 
                   <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
-                    <img 
-                      src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
-                      alt="Open Science Life Cycle. Circular diagram depicting four, sequential and cyclical broad categories of open science. Example practices from each category appear in an outside ring. Source: https://science.gc.ca/site/science/en/open-science" 
-                      width="500"
-                      style="max-width:100%; height:auto;">
-                  </a>
-                  <br>
-                  <i>(source: 
-                    <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
-                      Government of Canada
-                    </a>)
-                  </i>
-                </div> <!--- closing flex image item --->
-            <br>
+                    Government of Canada
+                  </a>)
+                </i>
+              </div> <!--- closing flex image item/right column --->
+          <br>
             <details>
               <summary><i>Resources</i></summary>
               <br>
