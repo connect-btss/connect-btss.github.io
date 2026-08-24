@@ -398,6 +398,7 @@ title: Beginner Resources
                 </details>
               </div>
             </li>
+            <br>
             <li>
               <div id="Generalizability" class="sidebar-subheading">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
@@ -428,7 +429,6 @@ title: Beginner Resources
                     </ul>
                   </details>
               </div>
-            </li>
           </div> <!--- closing white box --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
