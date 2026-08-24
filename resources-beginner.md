@@ -30,6 +30,7 @@ title: Beginner Resources
             <li>
               <a href="#acrossfields"> <strong> How has BTS been implemended across different research fields? </strong></a>
             </li>
+        <div class="sidebar-subheading"> What is Open Science, and How does it relate to BTS?</div>
             <li>
               <a href="#increasingresearchtransparency"> <strong> Increasing Research Transparency </strong> </a>
             </li>
@@ -45,11 +46,12 @@ title: Beginner Resources
             <li>
               <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
             </li>
+          <div class="sidebar-subheading">Getting Involves in BTS and OS</div>
+          <div class="sidebar-subheading">Introduction to Infrasturcture and Tools for BTS and OS</div>
             <li> 
               <a href="#intrototools">  <strong> Introduction to Tools for BTS and OS </strong> </a>
             </li>
           </ul>
-        </div>
     </aside>
 
   <!-- PAGE CONTENT -->
