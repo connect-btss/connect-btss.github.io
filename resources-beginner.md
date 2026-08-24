@@ -190,7 +190,7 @@ title: Beginner Resources
             <p>
               Transparency makes research processes, decisions, and outputs more visible and accessible to others.
             </p>
-            <div class="box-blue">
+            <div class="box-yellow">
               <table>
                   <tr>
                     <th>Feature</th>
@@ -257,7 +257,7 @@ title: Beginner Resources
                     </td>
                   </tr>
               </table>
-            </div> <!--- closing blue box --->
+            </div> <!--- closing yellow box --->
           </div> <!--- closing white box --->
        
         <table style="width:100%; border:none; margin-bottom: 40px;">
