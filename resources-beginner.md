@@ -465,8 +465,6 @@ title: Beginner Resources
             </ul>
             </div>
           </div>
-        </div>  
-    </main> <!-- closing main content box -->
 </div> <!-- closing flex -->
 
 <div id="resource-popup" class="resource-popup">
