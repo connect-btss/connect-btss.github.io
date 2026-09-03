@@ -212,82 +212,78 @@ title: Beginner Resources
                   <p>
                     Transparency makes research processes, decisions, and outputs more visible and accessible to others.
                   </p>
-                  <div class="box-yellow">
-                    <div class="header-teal">
-                      <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                        How to make your research more transparent?
-                      </h3>
-                    </div> <!--- closing teal header --->
-                    <br>
-                    <ul>
-                      <li><strong>Pregrestistration vs Registered Report</strong></li>
-                          Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
-                        <table>
-                          <tr>
-                            <th>Feature</th>
-                            <th>Preregistration</th>
-                            <th>Registered Reports</th>
-                          </tr>
-                          <tr>
-                            <td><strong>What is it?</strong></td>
-                            <td>
-                              A research plan written before data analysis
-                              (or data collection).
-                            </td>
-                            <td>
-                              A publication format where the study proposal
-                              undergoes peer review before results are known.
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><strong>Main Goal</strong></td>
-                            <td>
-                              Increase transparency and reduce QRPs.
-                            </td>
-                            <td>
-                              Increase transparency and reduce publication bias
-                              by evaluating research by its hypotheses and methods
-                              over its outcomes.
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><strong>Publication Guarantee</strong></td>
-                            <td>
-                              No publication guarantee.
-                            </td>
-                            <td>
-                              “In-principle acceptance” if authors follow approved protocol.
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><strong>Where can it be submitted?</strong></td>
-                            <td>
-                              Public repositories
-                            </td>
-                            <td>
-                              Submitted directly to a journal that offers the
-                              Registered Report format.
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><strong>Typical Review Process</strong></td>
-                            <td>
-                              No formal feedback.
-                            </td>
-                            <td>
-                              Two-stage peer review: before and after data collection.
-                            </td>
-                          </tr>
-                          <tr>
-                            <td><strong>Output</strong></td>
-                            <td>
-                              Public preregistration document.
-                            </td>
-                            <td>
-                              Peer-reviewed journal article.
-                            </td>
-                          </tr>
-                       </table>
+                  <div class="header-blue">
+                    <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                      How to make your research more transparent?
+                    </h3>
+                  </div> <!--- closing blue header --->
+                  <br>
+                  <ul>
+                    <li><strong>Pregrestistration vs Registered Report</strong></li>
+                        Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
+                      <table>
+                        <tr>
+                          <th>Feature</th>
+                          <th>Preregistration</th>
+                          <th>Registered Reports</th>
+                        </tr>
+                        <tr>
+                        <td><strong>What is it?</strong></td>
+                        <td>
+                           A research plan written before data analysis (or data collection).
+                         </td>
+                        <td>
+                           A publication format where the study proposal undergoes peer review before results are known.
+                        </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <strong>Main Goal</strong>
+                          </td>
+                          <td>
+                            Increase transparency and reduce QRPs.
+                          </td>
+                          <td>
+                            Increase transparency and reduce publication bias by evaluating research by its hypotheses and methods over its outcomes.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><strong>Publication Guarantee</strong></td>
+                          <td>
+                             No publication guarantee.
+                          </td>
+                          <td>
+                            “In-principle acceptance” if authors follow approved protocol.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><strong>Where can it be submitted?</strong></td>
+                          <td>
+                            Public repositories
+                          </td>
+                          <td>
+                            Submitted directly to a journal that offers the Registered Report format.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><strong>Typical Review Process</strong></td>
+                          <td>
+                            No formal feedback.
+                          </td>
+                          <td>
+                            Two-stage peer review: before and after data collection.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td><strong>Output</strong></td>
+                          <td>
+                            Public preregistration document.
+                          </td>
+                          <td>
+                             Peer-reviewed journal article.
+                          </td>
+                        </tr>
+                      </table>
                         <details>
                           <summary><i>Resources</i></summary>
                           <br>
@@ -332,23 +328,19 @@ title: Beginner Resources
                           </ul>
                         </details>
                     </ul>
-                  </div> <!--- closing yellow box --->
                 </div> <!--- closing transparency --->
               <br>
-              </li>
-              <li>
                 <div id="replication" class="sidebar-subheading">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                      Replication and Reproducibility
-                    </h3>
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    Replication and Reproducibility
+                  </h3>
                 </div>
-                  <p>
-                    Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
-                  </p>
-                <div class="box-teal">
-              <div class="header-red">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
-              </div>
+                <p>
+                  Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
+                </p>
+                <div class="header-red">
+                  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
+                </div>
                 <p>
                   Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
                 </p>
@@ -374,7 +366,7 @@ title: Beginner Resources
                       <td>Computational Validity</td>
                     </tr>
                   </table>
-              <br>  
+                <br>  
                 <details>
                   <summary><i>Resources</i></summary>
                     <ul>
@@ -399,9 +391,8 @@ title: Beginner Resources
                     </ul>
                   </details>
                 </div>
-              </li>
+              </ul>
               <br>
-              <li>
                 <div id="generalizability" class="sidebar-subheading">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
                       Generalizability and Representativeness
