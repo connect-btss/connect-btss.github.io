@@ -209,7 +209,7 @@ title: Beginner Resources
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
                   <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
                   <div class="header-blue">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
+                    <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h4>
                   </div> <!--- closing blue header --->
                   <br>
                   <ul>
@@ -302,9 +302,9 @@ title: Beginner Resources
                   <p>
                     Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
                   </p>
-                  <div class="header-red">
-                    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
-                  </div>
+                  <div class="header-blue">
+                    <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h4>
+                  </div> <!--- closing header blue -->
                   <p>
                     Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
                   </p>
@@ -366,7 +366,7 @@ title: Beginner Resources
                 Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
               </p>
                   <div id="WEIRDresearch" class="header-blue">
-                    <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h2>
+                    <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
                   </div>
                   <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
                   <details>
