@@ -296,6 +296,7 @@ title: Beginner Resources
                     </ul>
                 </div> <!--- closing transparency --->
               <li>
+              <br>
               <div id="replication" class="sidebar-subheading">
                 <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Replication and Reproducibility</h3>
                   <p>
@@ -385,9 +386,10 @@ title: Beginner Resources
             </div> <!-- closing generalizability --->
           </div> <!--- closing box white -->
         </div> <!--- closing box yellow --->
-        <br>
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-yellow">
+      </div> <!--- closing flex -->
+      <br>
+      <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div class="box-yellow">
             <div id="intrototools" class="header-blue">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
             </div>
