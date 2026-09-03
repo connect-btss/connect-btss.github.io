@@ -65,7 +65,7 @@ title: Beginner Resources
     </aside>
 
   <!-- PAGE CONTENT -->
-    <main class="content" style="flex:1;">
+    <main class="content" style="flex:1; min-width:0;">
       <!-- BIG TEAM SCIENCE -->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
             <div class="box-white">
