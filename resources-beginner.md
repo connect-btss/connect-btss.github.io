@@ -435,7 +435,6 @@ title: Beginner Resources
                   </details>
                 </div>
           </div> <!--- closing white box --->
-        </div>
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
             <div id="intrototools" class="header-blue">
