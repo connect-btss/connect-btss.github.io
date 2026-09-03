@@ -40,7 +40,7 @@ title: Beginner Resources
               <a href="#OSandBTS"> <strong> How is OS related to BTS? </strong> </a>
             </li>
           </ul>
-        <a href="#WhatdoesBTSandOSaddress?" class="sidebar-subheading">What challenges do BTS and OS address?</a>
+        <a href="#WhatdoesBTSandOSaddress" class="sidebar-subheading">What challenges do BTS and OS address?</a>
           <ul>
             <li>
               <a href="#credibility"> <strong> Credibility </strong> </a>
