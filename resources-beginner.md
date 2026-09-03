@@ -139,7 +139,6 @@ title: Beginner Resources
                   <p>
                     Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
                   </p>
-                </div <!--- closing text item --->
                 <div class="flex-item sidebar-subheading" id="OSandBTS">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
                     How is OS related to BTS?
