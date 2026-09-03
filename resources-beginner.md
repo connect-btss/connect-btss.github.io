@@ -260,6 +260,7 @@ title: Beginner Resources
                         </details>
                       </ul>
                   </div> <!--- closing transparency --->
+                </li>
                 <br>
                 <li>
                   <div id="replication" class="sidebar-subheading">
@@ -378,8 +379,8 @@ title: Beginner Resources
                 <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
               </li>
               </ul>
-            </div>
-        </div>
+            </div> <!--- closing white box --->
+        </div> <!--- closing yellow box --->
 </div> <!-- closing flex -->
 
 <div id="resource-popup" class="resource-popup">
