@@ -364,25 +364,27 @@ title: Beginner Resources
               <p>
                 Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
               </p>
-                  <div id="WEIRDresearch" class="header-blue">
-                    <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
-                  </div>
-                  <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
-                  <details>
-                    <summary><i>Resources</i></summary>
-                      <ul>
-                        <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
-                        The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
-                        </li>  
-                        <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
-                        Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
-                        </li>
-                        <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
-                        Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
-                        </li>
-                      </ul>
-                  </details>
-            </div>
+                <div id="WEIRDresearch" class="header-blue">
+                  <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
+                </div>
+                <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
+                <details>
+                  <summary><i>Resources</i></summary>
+                    <ul>
+                      <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
+                      The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
+                      </li>  
+                      <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
+                      Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
+                      </li>
+                      <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
+                      Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
+                      </li>
+                    </ul>
+                </details>
+            </div> <!-- closing generalizability --->
+          </div> <!--- closing box white -->
+        </div> <!--- closing box yellow --->
         <br>
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
