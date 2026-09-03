@@ -353,7 +353,7 @@ title: Beginner Resources
                 </p>
               <div class="box-teal">
             <div id="replicationcrisis" class="header-red">
-              <h2 style="margin-bottom:0;margin-top:0;color:#364362;"> What is the Replication Crisis?</h2>
+              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h2>
             </div>
               <p>
                 Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
