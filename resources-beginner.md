@@ -356,74 +356,74 @@ title: Beginner Resources
                 </div> <!-- closing replication --->
               </li>
               </ul>
-            <br>
-            <div id="generalizability" class="sidebar-subheading">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                Generalizability and Representativeness
-              </h3>
-              <p>
-                Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
-              </p>
-                <div id="WEIRDresearch" class="header-blue">
-                  <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
-                </div>
-                <p style="font-size: 16px;> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
-                <details>
-                  <summary><i>Resources</i></summary>
-                    <ul>
-                      <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
-                      The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
-                      </li>  
-                      <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
-                      Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
-                      </li>
-                      <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
-                      Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
-                      </li>
-                    </ul>
-                </details>
-            </div> <!-- closing generalizability --->
-          </div> <!--- closing box white -->
-        </div> <!--- closing box yellow --->
-      </div> <!--- closing flex -->
-      <br>
-      <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-        <div class="box-yellow">
-            <div id="intrototools" class="header-blue">
-              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
+              <br>
+              <div id="generalizability" class="sidebar-subheading">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                  Generalizability and Representativeness
+                </h3>
+                <p>
+                  Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
+                </p>
+                  <div id="WEIRDresearch" class="header-blue">
+                    <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
+                  </div>
+                  <p style="font-size: 16px;> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
+                  <details>
+                    <summary><i>Resources</i></summary>
+                      <ul>
+                        <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
+                        The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
+                        </li>  
+                        <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
+                        Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
+                        </li>
+                        <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
+                        Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
+                        </li>
+                      </ul>
+                  </details>
+              </div> <!-- closing generalizability --->
+            </div> <!--- closing box white -->
+          </div> <!--- closing box yellow --->
+        </div> <!--- closing flex -->
+        <br>
+        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+          <div class="box-yellow">
+              <div id="intrototools" class="header-blue">
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
+              </div>
+              <br>
+                <div class="box-white">
+                <ul>
+                  <li>
+                    <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
+                  </li>
+                  <li>
+                    <strong>Data Sharing:</strong> A collection of practices, data, and technologies that make research outputs accessible and reusable by other researchers (Elsherif et al., 2026).
+                  </li>
+                  <li>
+                    <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
+                  </li>
+                  <li>
+                    <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
+                    (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
+                  </li>
+                  <li>
+                    <strong>R / RStudio:</strong> R is a programming language for statistical computing, and RStudio is an integrated development environment used for data management, cleaning, and analysis.
+                    <br>
+                    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">Beginner’s Guide to RStudio</a> |
+                    <a href="https://posit.co/resources/cheatsheets/" target="_blank" rel="noopener noreferrer">Posit Cheatsheets</a>
+                  </li>
+                  <li>
+                    <strong>GitHub:</strong> A cloud-based platform that allows developers and researchers to collaborate, store, and share code—especially useful for large-scale projects such as BTS.
+                    <br>
+                    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
+                    <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
+                    <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
+                  </li>
+              </ul>
+              </div>
             </div>
-            <br>
-              <div class="box-white">
-              <ul>
-                <li>
-                  <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
-                </li>
-                <li>
-                  <strong>Data Sharing:</strong> A collection of practices, data, and technologies that make research outputs accessible and reusable by other researchers (Elsherif et al., 2026).
-                </li>
-                <li>
-                  <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
-                </li>
-                <li>
-                  <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
-                  (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
-                </li>
-                <li>
-                  <strong>R / RStudio:</strong> R is a programming language for statistical computing, and RStudio is an integrated development environment used for data management, cleaning, and analysis.
-                  <br>
-                  <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">Beginner’s Guide to RStudio</a> |
-                  <a href="https://posit.co/resources/cheatsheets/" target="_blank" rel="noopener noreferrer">Posit Cheatsheets</a>
-                </li>
-                <li>
-                  <strong>GitHub:</strong> A cloud-based platform that allows developers and researchers to collaborate, store, and share code—especially useful for large-scale projects such as BTS.
-                  <br>
-                  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
-                  <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
-                  <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
-                </li>
-            </ul>
-            </div>
-          </div>
 </div> <!-- closing flex -->
 
 <div id="resource-popup" class="resource-popup">
