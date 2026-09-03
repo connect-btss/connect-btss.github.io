@@ -297,13 +297,13 @@ title: Beginner Resources
                             </li> 
                             <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? <i>(UBC)</i></a><br>
                               Differentiates replicability and reproducibility, by comparing how they utilize data sets.
-                            </li>
                               <ul>
                                 <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i>(FORRT)</i></a>
                                 </li>
                                 <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility <i>(CMU ML Blog)</i></a>
                                 </li>
                               </ul>
+                            </li>
                           </ul>
                       </details>
                   </div> <!-- closing replication --->
@@ -361,7 +361,7 @@ title: Beginner Resources
               <li>
                 <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
               </li>
-                <li>
+              <li>
                 <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
                   (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
               </li>
