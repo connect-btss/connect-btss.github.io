@@ -342,44 +342,44 @@ title: Beginner Resources
           </div> <!--- closing box yellow --->
         </div> <!--- closing flex -->
       <!--- tools time --->
-        <br>
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-yellow">
-              <div id="intrototools" class="header-blue">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
-              </div>
-              <br>
-                <div class="box-white">
-                <ul>
-                  <li>
-                    <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
-                  </li>
-                  <li>
-                    <strong>Data Sharing:</strong> A collection of practices, data, and technologies that make research outputs accessible and reusable by other researchers (Elsherif et al., 2026).
-                  </li>
-                  <li>
-                    <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
-                  </li>
-                  <li>
-                    <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
-                    (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
-                  </li>
-                  <li>
-                    <strong>R / RStudio:</strong> R is a programming language for statistical computing, and RStudio is an integrated development environment used for data management, cleaning, and analysis.
-                    <br>
-                    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">Beginner’s Guide to RStudio</a> |
-                    <a href="https://posit.co/resources/cheatsheets/" target="_blank" rel="noopener noreferrer">Posit Cheatsheets</a>
-                  </li>
-                  <li>
-                    <strong>GitHub:</strong> A cloud-based platform that allows developers and researchers to collaborate, store, and share code—especially useful for large-scale projects such as BTS.
-                    <br>
-                    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
-                    <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
-                    <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
-                  </li>
-              </ul>
-              </div>
+      <br>
+      <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div class="box-yellow">
+            <div id="intrototools" class="header-blue">
+              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
             </div>
+            <br>
+            <div class="box-white">
+              <ul>
+              <li>
+                <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
+              </li>
+              <li>
+                <strong>Data Sharing:</strong> A collection of practices, data, and technologies that make research outputs accessible and reusable by other researchers (Elsherif et al., 2026).
+              </li>
+              <li>
+                <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
+              </li>
+                <li>
+                <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
+                  (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
+              </li>
+              <li>
+                <strong>R / RStudio:</strong> R is a programming language for statistical computing, and RStudio is an integrated development environment used for data management, cleaning, and analysis.
+                <br>
+                <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">Beginner’s Guide to RStudio</a> |
+                <a href="https://posit.co/resources/cheatsheets/" target="_blank" rel="noopener noreferrer">Posit Cheatsheets</a>
+              </li>
+              <li>
+                <strong>GitHub:</strong> A cloud-based platform that allows developers and researchers to collaborate, store, and share code—especially useful for large-scale projects such as BTS.
+                <br>
+                <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
+                <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
+                <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
+              </li>
+              </ul>
+            </div>
+        </div>
 </div> <!-- closing flex -->
 
 <div id="resource-popup" class="resource-popup">
