@@ -434,6 +434,7 @@ title: Beginner Resources
                   </details>
                 </div>
           </div> <!--- closing white box --->
+        <br>
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
             <div id="intrototools" class="header-blue">
@@ -491,4 +492,4 @@ title: Beginner Resources
 <script src="{{ site.baseurl }}/assets/js/popup.js"></script>
 
     
-> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
+ All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
