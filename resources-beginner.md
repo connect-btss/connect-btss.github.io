@@ -296,7 +296,6 @@ title: Beginner Resources
                     </ul>
                 </div> <!--- closing transparency --->
               <li>
-              <br>
               <div id="replication" class="sidebar-subheading">
                 <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Replication and Reproducibility</h3>
                   <p>
@@ -305,7 +304,7 @@ title: Beginner Resources
                   <div class="header-blue">
                     <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h4>
                   </div> <!--- closing header blue -->
-                  <p>
+                  <p style="font-size: 16px;>
                     Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
                   </p>
                     <table>
@@ -368,7 +367,7 @@ title: Beginner Resources
                 <div id="WEIRDresearch" class="header-blue">
                   <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">Why has research historically focused on WEIRD populations?</h4>
                 </div>
-                <p> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
+                <p style="font-size: 16px;> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
                 <details>
                   <summary><i>Resources</i></summary>
                     <ul>
