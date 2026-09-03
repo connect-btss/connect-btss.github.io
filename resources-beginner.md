@@ -40,22 +40,16 @@ title: Beginner Resources
               <a href="#OSandBTS"> <strong> How is OS related to BTS? </strong> </a>
             </li>
           </ul>
-        <a href="#challengesBTSandOSaddresses" class="sidebar-subheading">What Challenges do OS and BTS address?</a>
+        <a href="#WhatdoesBTSandOSaddress?" class="sidebar-subheading">What do OS and BTS address?is Open Science and How does it relate to BTS?</a>
           <ul>
             <li>
-              <a href="#credibility"> <strong> Credibility </strong> </a>
+              <a href="#WEIRDresearch"> <strong> WEIRD Research </strong> </a>
             </li>
             <li>
-              <a href="#transparency"> <strong> Transparency </strong> </a>
+              <a href="#replicationcrisis"> <strong> What is the Replication Crisis? </strong> </a>
             </li>
             <li>
-              <a href="#replicability"> <strong> Replication </strong> </a>
-            </li>
-            <li>
-              <a href="#replicationcrisis"> <strong> Replication Crsis </strong> <a>
-            </li>
-            <li>
-              <a href="#Generalizability"> <strong> Generalizability </strong> <a>
+              <a href="#increasingcredibility"> <strong> How can you increase the credibility of your research results? </strong> </a>
             </li>
           </ul>
         <a href="#gettinginvolved" class="sidebar-subheading">Getting Involved in BTS and OS</a>
@@ -140,8 +134,6 @@ title: Beginner Resources
                   <p>
                     Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
                   </p>
-                </div>
-                <div class="flex-item sidebar-subheading" id="OSandBTS">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
                     How is OS related to BTS?
                   </h3>
@@ -209,16 +201,14 @@ title: Beginner Resources
               </li>
             <br>
             <li>
-              <div id="transparency" class="sidebar-subheading">
-                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                  Transparency
-                </h3>
-                <p>
-                  Transparency makes research processes, decisions, and outputs more visible and accessible to others.
-                </p>
-              </div>
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                Transparency
+              </h3>
+              <p>
+                Transparency makes research processes, decisions, and outputs more visible and accessible to others.
+              </p>
               <div class="box-yellow">
-                <div class="header-teal">
+                <div id="transparency" class="header-teal">
                   <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                     How to make your research more transparent?
                   </h3>
@@ -474,8 +464,6 @@ title: Beginner Resources
             </ul>
             </div>
           </div>
-        </div>  
-    </main> <!-- closing main content box -->
 </div> <!-- closing flex -->
 
 <div id="resource-popup" class="resource-popup">
