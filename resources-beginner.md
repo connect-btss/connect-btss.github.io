@@ -296,7 +296,6 @@ title: Beginner Resources
                     </ul>
                 </div> <!--- closing transparency --->
               <li>
-              <br>
               <div id="replication" class="sidebar-subheading">
                 <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Replication and Reproducibility</h3>
                   <p>
