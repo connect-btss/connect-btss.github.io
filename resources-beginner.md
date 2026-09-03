@@ -362,7 +362,7 @@ title: Beginner Resources
               <br>
               <div class="header-yellow">
                 <div id="generalizability" class="sidebar-subheading">
-                  <h3 style="margin-bottom:0;margin-top:0;color:#364362; text-a;ign: center;">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362; text-align: center;">
                     Generalizability and Representativeness
                   </h3>
                 </div> <!-- closing generalizability --->
@@ -391,6 +391,7 @@ title: Beginner Resources
             </div> <!--- closing box white -->
           </div> <!--- closing box yellow --->
         </div> <!--- closing flex -->
+      <!--- tools time --->
         <br>
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
