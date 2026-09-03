@@ -195,11 +195,13 @@ title: Beginner Resources
                 </h2>
               </div> <!--- closing teal header --->
               <br>
-              <div id="credibility" class="sidebar-subheading">
-                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                  Credibility
-                </h3>
-              </div> <!--- closing credibility --->
+              <div class="header-yellow">
+                <div id="credibility" class="sidebar-subheading">
+                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    Credibility
+                  </h3>
+                </div> <!--- closing credibility --->
+              </div> <!--- closing yellow header --->
                 <p>
                  Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
                 </p>
