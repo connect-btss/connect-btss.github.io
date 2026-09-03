@@ -76,12 +76,8 @@ title: Beginner Resources
                   What is Big Team Science (BTS) and Why it is Important
                 </h3>
               </div>
-              <p>
-                Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal, enabling studies that may be difficult for a single research team to conduct alone.
-              </p> 
-              <p>
-                In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability.
-              </p>
+              <p>Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal, enabling studies that may be difficult for a single research team to conduct alone.</p> 
+              <p>In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability.</p>
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
@@ -96,9 +92,7 @@ title: Beginner Resources
               </details>
               <br>
               <div id="acrossfields" class="sidebar-subheading">
-                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                  How has BTS been implemented across different research fields?
-                </h3>
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">How has BTS been implemented across different research fields?</h3>
               </div>
               <br>
                 <details>
@@ -111,7 +105,8 @@ title: Beginner Resources
                       </li>
                       <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
                       </li>
-                      <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                </li>
+                      <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                
+                      </li>
                      </ul>
                 </details>
             </div> <!--- close box white -->
@@ -122,9 +117,7 @@ title: Beginner Resources
           <div class="box-teal">
             <div class="box-white">
               <div id="WhatisOSrelatestoBTS?" class="header-red">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  What is Open Science and How does it relate to BTS?
-                </h2>
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science and How does it relate to BTS?</h2>
               </div> <!--- closing header red --->
               <br>
               <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
@@ -132,19 +125,11 @@ title: Beginner Resources
                 <div style="flex:1; min-width:300px;">
                   <!--- text --->
                   <div class="flex-item sidebar-subheading" id="whatisOS">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                      What is Open Science?
-                    </h3>
-                    <p>
-                      Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.
-                    </p>
+                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">What is Open Science?</h3>
+                    <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>
                   <div class="flex-item sidebar-subheading" id="OSandBTS">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                      How is OS related to BTS?
-                    </h3>
-                    <p>
-                      Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.
-                    </p>
+                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">How is OS related to BTS?</h3>
+                    <p>Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.</p>
                   </div> <!--- closing text item --->
                 </div> <!--- closing left column --->
                 <!--- right  column --->
