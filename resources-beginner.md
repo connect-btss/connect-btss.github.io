@@ -63,6 +63,7 @@ title: Beginner Resources
     <main class="content" style="flex:1; min-width:0;">
       <!-- BIG TEAM SCIENCE -->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+          <div class="box-yellow">
             <div class="box-white">
               <div id="introductiontoBTS" class="header-teal">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
@@ -113,7 +114,8 @@ title: Beginner Resources
                       <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                </li>
                      </ul>
                 </details>
-            </div> <!--- close box white -->      
+            </div> <!--- close box white -->
+          </div> <!--- close box yellow -->
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
