@@ -436,6 +436,7 @@ title: Beginner Resources
                       </li>
                     </ul>
                   </details>
+                </div>
               </div>
           </div> <!--- closing white box --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
