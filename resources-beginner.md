@@ -129,7 +129,6 @@ title: Beginner Resources
                     <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>
                     <details>
                       <summary><i>Resources</i></summary>
-                      <br>
                       <ul>
                         <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
                           Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
@@ -143,6 +142,7 @@ title: Beginner Resources
                       </ul>
                       <br>
                     </details> 
+                    <br>
                   <div class="flex-item sidebar-subheading" id="OSandBTS">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">How is OS related to BTS?</h3>
                     <p>Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.</p>
