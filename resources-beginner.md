@@ -383,6 +383,7 @@ title: Beginner Resources
         </div> <!--- closing yellow box --->
 </div> <!-- closing flex -->
 
+<!--
 <div id="resource-popup" class="resource-popup">
   <button id="close-popup" class="popup-close">&times;</button>
 
@@ -397,6 +398,7 @@ title: Beginner Resources
     View Advanced Resources
   </a>
 </div>
+-->
 
 <script src="{{ site.baseurl }}/assets/js/popup.js"></script>
 
