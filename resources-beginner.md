@@ -81,14 +81,14 @@ title: Beginner Resources
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
-                    <ul>
+                  <ul>
                     <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>              Provides an overview of BTS, as well as recommendations for expanding collaborative research.
                     </li>
                     <br>
                     <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
                     "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
                     </li>
-                    </ul>
+                  </ul>
               </details>
               <br>
               <div id="acrossfields" class="sidebar-subheading">
@@ -129,6 +129,7 @@ title: Beginner Resources
                     <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>
                     <details>
                       <summary><i>Resources</i></summary>
+                      <br>
                       <ul>
                         <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
                           Defines open science, while offering an overview of its lifecycle and influence on Canadian legislation.
@@ -375,7 +376,7 @@ title: Beginner Resources
                 <br>
                 <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
                 <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
-                <a href="https://www.datacamp.com/tutorial/github-and-git" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
+                <a href="https://www.datacamp.com/courses/introduction-to-github-concepts" target="_blank" rel="noopener noreferrer">DataCamp Introduction to GitHub</a>
               </li>
               </ul>
             </div> <!--- closing white box --->
