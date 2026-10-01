@@ -383,7 +383,8 @@ title: Beginner Resources
         </div> <!--- closing yellow box --->
 </div> <!-- closing flex -->
 
-<!--
+
+<!-- deactivating popup box with link to advanced resources for now
 <div id="resource-popup" class="resource-popup">
   <button id="close-popup" class="popup-close">&times;</button>
 
