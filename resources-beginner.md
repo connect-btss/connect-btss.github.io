@@ -201,8 +201,11 @@ title: Beginner Resources
                       <br>
                       <div class="box-white">
                         <ul>
-                          <li><strong>Pregrestistration vs Registered Report</strong></li>
-                              Preregistration and Registered Reports offer several benefits to researchers and the scientific community by promoting transparency, methodological rigor, and research credibility. Both approaches help researchers clearly define their hypotheses, methods, and analyses in advance. Registered Reports provide researchers with early peer-review feedback and may offer in-principle acceptance, reducing publication uncertainty and making null findings more publishable. Below, an overview of distinctions between preregistration and registered reports is presented in a table:
+                          <li>
+                            <strong>Pregrestistration vs Registered Report</strong>
+                            <p>
+                              Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings [13,15]. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
+                            </p>
                             <table>
                               <tr><th>Feature</th><th>Preregistration</th><th>Registered Reports</th>
                               </tr>
@@ -260,6 +263,7 @@ title: Beginner Resources
                                   <li><a href="https://docs.google.com/document/d/10OBQvOG5A0h64Sr_JuSLCiF89LhCUP8xmKeUzrpyLHA/edit?tab=t.0" target="_blank">ManyBabies template</a></li>
                                 </ul>
                             </details>
+                          </li>
                         </ul>
                       </div <!--- close box white --->
                     </div> <!--- closing lightblue box --->
