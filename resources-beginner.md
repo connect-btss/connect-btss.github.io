@@ -262,7 +262,7 @@ title: Beginner Resources
                               </details>
                             </li>
                           </ul>
-                        </div <!--- close box white --->
+                        </div> <!--- close box white --->
                       </div> <!--- closing lightblue box --->
                     </div> <!--- closing transparency --->
                   </li>
