@@ -74,7 +74,7 @@ title: Beginner Resources
               <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
               <a href="https://journals.sagepub.com/doi/10.1177/2515245918797607">[4]</a>.
               In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability
-              <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>–<a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
+              <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>, <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
               <a href="https://journals.sagepub.com/doi/10.1177/2515245918797607">[4]</a>
               </p> 
               <details>
@@ -118,7 +118,6 @@ title: Beginner Resources
               <div id="WhatisOSrelatestoBTS?" class="header-red">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">What is Open Science and How does it relate to BTS?</h2>
               </div> <!--- closing header red --->
-              <br>
               <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
                 <!--- left column --->
                 <div style="flex:1; min-width:300px;">
