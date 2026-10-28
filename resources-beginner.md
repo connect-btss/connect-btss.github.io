@@ -165,7 +165,7 @@ title: Beginner Resources
           </div> <!--- closing teal box --->
         </div> <!--- closing flex box --->
       <!--- What are the challenges --->
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 60px;">
           <div class="box-purple">
             <div id="WhatdoesBTSandOSaddress" class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
