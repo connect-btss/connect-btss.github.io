@@ -1327,7 +1327,8 @@ table {
   color: #364362;
   padding: 25px;
   border: none;
-  border-radius: 10px;
+  border-radius: 15px;
+  margin: 20px 0;
   box-shadow: none;
   font-family: 'Open Sans', sans-serif;
   box-sizing: border-box;
