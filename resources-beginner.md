@@ -439,7 +439,7 @@ title: Beginner Resources
                 For students and trainees considering joining
               </h3>
               <br>
-              <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px;">
+              <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
               <!--- Card 1: Existing skills --->
               <div class="box-lightblue">
                 <div class="header-blue">
