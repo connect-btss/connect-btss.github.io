@@ -520,14 +520,6 @@ title: Beginner Resources
                 </div>
                 <h2>Potential costs and challenges</h2>
                 <div class="bts-comparison">
-                  <div class="bts-card bts-cost">
-                    <h3>Balancing competing demands</h3>
-                    <p>
-                      Participation competes with coursework, degree requirements,
-                      and independent research. Learning new methods can take time,
-                      and workloads may exceed initial expectations.
-                    </p>
-                  </div>
                   <div class="bts-comparison">
                   <div class="bts-card bts-cost">
                     <h3>Time and workload</h3>
@@ -559,6 +551,7 @@ title: Beginner Resources
                       policies may also determine when you can access data, 
                       present findings, or pursue follow-up research.
                     </p>
+                  </div>
                   </div>
                 </div>
               </div>
