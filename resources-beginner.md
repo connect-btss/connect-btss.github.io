@@ -413,12 +413,12 @@ title: Beginner Resources
                    Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
                 </p>
               </div> <!--- close card blue --->
-              <div class="card card-lightblue">
+              <div class="card card-yellow">
                 <p>
                   <strong>Are there any additional expectations that apply to collaborators?</strong>
                    Look for documents such as network mission and values statements, codes of conduct, collaboration agreements, and governance or membership guidelines to understand how the team operates and what is expected of its members. Identify the project’s or network’s underlying values, as these may shape how decisions are made throughout the research process.
                 </p>
-              </div> <!--- close card lightblue --->
+              </div> <!--- close card yellow --->
               <div class="card card-teal">
                 <p>
                   <strong>How can I stay informed about future opportunities?</strong>
