@@ -132,6 +132,7 @@ title: Beginner Resources
                   </div> <!--- closing text item --->
                 </div> <!--- closing left column --->
                 <!--- right  column --->
+                <br>
                 <div class="flex-item" 
                   style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
                   <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
