@@ -473,8 +473,14 @@ title: Beginner Resources
                   Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
                 </p>
               </div>
-              
-              <p> Consider the Benefits and Costs </p>
+            </div>
+            <br>
+            <div class="box-white">
+              <div class="header-teal">
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+                  Consider the Benefits and Costs
+                </h2>
+              </div> <!-- close header teal --->
               <h2>Potential benefits</h2>
                 <div class="bts-comparison">
                   <div class="bts-card bts-benefit">
