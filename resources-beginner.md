@@ -172,20 +172,20 @@ title: Beginner Resources
         </div> <!--- closing flex box --->
       <!--- What are the challenges --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-yellow">
-            <div id="WhatdoesBTSandOSaddress" class="header-teal">
+          <div class="box-purple">
+            <div id="WhatdoesBTSandOSaddress" class="header-yellow">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 What challenges do BTS and OS respond to?
               </h2>
-            </div> <!--- closing teal header --->
+            </div> <!--- closing yellow header --->
             <br>
             <div class="box-white">
               <div id="credibility" class="sidebar-subheading">
-                <div class="header-blue">
+                <div class="header-purple">
                   <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;text-align: center;">
                     Credibility
                   </h3>
-                </div> <!--- closing blue header --->
+                </div> <!--- closing purple header --->
                 <p>
                  Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
                 </p>
@@ -195,9 +195,9 @@ title: Beginner Resources
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
                     <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
                     <div class="box-lightblue">
-                      <div class="header-purple">
+                      <div class="header-blue">
                         <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
-                      </div> <!--- closing purple header --->
+                      </div> <!--- closing blue header --->
                       <br>
                       <div class="box-white">
                         <ul>
@@ -262,7 +262,9 @@ title: Beginner Resources
                             </details>
                           </ul>
                         <div <!--- close box white --->
-                      </div> <!--- closing box purple --->
+                    </div> <!--- closing lightblue box --->
+                  </div> <!--- closing transparency --->
+                </li>
                 <br>
                 <li>
                   <div id="replication" class="sidebar-subheading">
