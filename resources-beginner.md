@@ -272,13 +272,13 @@ title: Beginner Resources
                       </h3>
                       <p>Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.</p>
                         <div class="box-lightblue">
-                          <div class="header-blue">
-                            <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                              What is the Replication Crisis?
-                            </h3>
-                          </div> <!--- closing header blue -->
-                          <br>
                           <div class="box-white">
+                            <div class="header-blue">
+                              <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+                                What is the Replication Crisis?
+                              </h3>
+                            </div> <!--- closing header blue -->
+                            <br>
                             <p style="font-size: 16px;">
                               Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
                             </p>
