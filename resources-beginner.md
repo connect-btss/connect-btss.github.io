@@ -339,7 +339,7 @@ title: Beginner Resources
                   <div class="box-white">
                     <div id="WEIRDresearch" class="header-blue">
                       <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                        Why has research historically focused on WEIRD populations?
+                        Why has Research Historically Focused on WEIRD Populations?
                       </h4>
                     </div>
                     <p style="font-size: 16px;"> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
