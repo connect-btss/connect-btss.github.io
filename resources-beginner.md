@@ -315,8 +315,9 @@ title: Beginner Resources
                         <div <!-- closing box white --->
                       <div <!--- closing box lightblue --->
                   </div> <!-- closing replication --->
-                </li>
-                </ul>
+                  </li>
+                  </ul>
+                <div <!--- closing box purple --->
               </div> <!--- closing credibility --->
               <br>
               <div id="generalizability" class="sidebar-subheading">
