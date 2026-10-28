@@ -358,8 +358,8 @@ title: Beginner Resources
                           </li>
                         </ul>
                     </details>
-                  <div> <!--- close box white --->
-                <div> <!--- close box lightblue --->
+                  </div> <!--- close box white --->
+                </div> <!--- close box lightblue --->
               </div> <!-- closing generalizability --->
             </div> <!--- closing box white -->
           </div> <!--- closing box purple --->
