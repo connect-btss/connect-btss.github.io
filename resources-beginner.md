@@ -173,11 +173,11 @@ title: Beginner Resources
       <!--- What are the challenges --->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-purple">
-            <div id="WhatdoesBTSandOSaddress" class="header-yellow">
+            <div id="WhatdoesBTSandOSaddress" class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                 What challenges do BTS and OS respond to?
               </h2>
-            </div> <!--- closing yellow header --->
+            </div> <!--- closing teal header --->
             <br>
             <div class="box-white">
               <div id="credibility" class="sidebar-subheading">
@@ -270,48 +270,50 @@ title: Beginner Resources
                   <div id="replication" class="sidebar-subheading">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Replication and Reproducibility</h3>
                       <p>Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.</p>
-                      <div class="box-white">
+                      <div class="box-lightblue">
                         <div class="header-blue">
                           <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> What is the Replication Crisis?</h3>
                         </div> <!--- closing header blue -->
-                        <p style="font-size: 16px;">
-                          Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
-                        </p>
-                          <table>
-                            <tr><th>Feature</th><th>Replication</th><th>Reproducibility</th>
-                            </tr>
-                            <tr><td>Workflow</td><td>Same workflow</td><td>Same workflow</td>
-                            </tr>
-                            <tr><td>Data used</td><td>New data</td><td>Original data</td>
-                            </tr>
-                            <tr><td>Goal</td><td>Generalizability</td><td>Computational Validity</td>
-                            </tr>
-                          </table>
-                        <br>  
-                        <details>
-                          <summary><i>Resources</i></summary>
-                            <ul>
-                              <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (American Journal Experts)</a><br>
-                                Describes the process of replication, and its importance in the scientific process.
-                              </li>  
-                              <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
-                                Explains the origins of the replication crisis.
-                              </li>
-                              <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis <i>(Anvari & Lakens, 2018)</i></a><br>
-                                Explores the impact of the replication crisis on the public's trust in psychological science.
-                              </li> 
-                              <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? <i>(UBC)</i></a><br>
-                                Differentiates replicability and reproducibility, by comparing how they utilize data sets.
-                                <ul>
-                                  <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i>(FORRT)</i></a>
-                                  </li>
-                                  <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility <i>(CMU ML Blog)</i></a>
-                                  </li>
-                                </ul>
-                              </li>
-                            </ul>
-                        </details>
-                      <div <!--- closing box white --->
+                        <div class="box-white">
+                          <p style="font-size: 16px;">
+                            Replication of previous research designs allow researchers to verify findings, and confirm the reliability of previous studies. The replication crisis refers to an issue in the scientific community, where researchers are unable to replicate previous studies’ results. This has led the scientific community to question the reliability and validity of previous research findings 
+                          </p>
+                            <table>
+                              <tr><th>Feature</th><th>Replication</th><th>Reproducibility</th>
+                              </tr>
+                              <tr><td>Workflow</td><td>Same workflow</td><td>Same workflow</td>
+                              </tr>
+                              <tr><td>Data used</td><td>New data</td><td>Original data</td>
+                              </tr>
+                              <tr><td>Goal</td><td>Generalizability</td><td>Computational Validity</td>
+                              </tr>
+                            </table>
+                          <br>  
+                          <details>
+                            <summary><i>Resources</i></summary>
+                              <ul>
+                                <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (American Journal Experts)</a><br>
+                                  Describes the process of replication, and its importance in the scientific process.
+                                </li>  
+                                <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
+                                  Explains the origins of the replication crisis.
+                                </li>
+                                <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis <i>(Anvari & Lakens, 2018)</i></a><br>
+                                  Explores the impact of the replication crisis on the public's trust in psychological science.
+                                </li> 
+                                <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? <i>(UBC)</i></a><br>
+                                  Differentiates replicability and reproducibility, by comparing how they utilize data sets.
+                                  <ul>
+                                    <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i>(FORRT)</i></a>
+                                    </li>
+                                    <li><a href="https://blog.ml.cmu.edu/2020/08/31/5-reproducibility/" target="_blank">More on reproducibility <i>(CMU ML Blog)</i></a>
+                                    </li>
+                                  </ul>
+                                </li>
+                              </ul>
+                          </details>
+                        <div <!-- closing box white --->
+                      <div <!--- closing box lightblue --->
                   </div> <!-- closing replication --->
                 </li>
                 </ul>
