@@ -1321,6 +1321,62 @@ table {
   overflow: hidden;
 }
 
+/* Basic card — no border added by Rebeca*/
+.card {
+  background-color: #FFFFFF;
+  color: #364362;
+  padding: 25px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: none;
+  font-family: 'Open Sans', sans-serif;
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Optional hover effect */
+.card:hover {
+  transform: translateY(-3px);
+  transition: transform 0.2s ease;
+}
+
+.card-blue {
+  background-color: #364362;
+  color: #FFFFFF;
+}
+
+.card-yellow {
+  background-color: #FEC51D;
+  color: #364362;
+}
+
+.card-teal {
+  background-color: #0CA6D6;
+  color: #FFFFFF;
+}
+
+.card-red {
+  background-color: #EC4801;
+  color: #FFFFFF;
+}
+
+.card-purple {
+  background-color: #391F7B;
+  color: #FFFFFF;
+}
+
+.card-lightblue {
+  background-color: #8EBEFF;
+  color: #364362;
+}
+
+.card-white {
+  background-color: #FFFFFF;
+  color: #364362;
+}
+
+
 /* custom added by Rebeca for sidebar */
 .side-index {
   position: sticky;
