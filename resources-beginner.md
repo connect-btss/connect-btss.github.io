@@ -439,7 +439,7 @@ title: Beginner Resources
               <br>
               <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
               <!--- Card 1: Existing skills --->
-              <div class="card card-lightblue">
+              <div class="card card-yellow">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     1. What relevant skills do I have?
@@ -451,7 +451,7 @@ title: Beginner Resources
               </div>
               
               <!-- Card 2: Skills to develop -->
-              <div class="card card-lightblue">
+              <div class="card card-yellow">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     2. What skills do I want to develop?
@@ -463,7 +463,7 @@ title: Beginner Resources
               </div>
             
               <!-- Card 3: Discuss with supervisor -->
-              <div class="card card-lightblue">
+              <div class="card card-yellow">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     3. Have I discussed it with my supervisor?
