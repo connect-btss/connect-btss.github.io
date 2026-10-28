@@ -399,7 +399,7 @@ title: Beginner Resources
                 </p>
               </div> <!--- close header teal --->
               <br>
-              div class="header-lightblue">
+              <div class="header-lightblue">
                 <p>
                   <strong>How will my participation be recognized/remunerated?</strong>
                    Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
