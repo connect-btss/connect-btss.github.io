@@ -389,42 +389,42 @@ title: Beginner Resources
               <p>
                 If you find a specific project or network that interests you, the checklist below can help you decide whether, and how you or your lab might participate: 
               </p>
-              <div class="card-yellow">
+              <div class="card card-yellow">
                 <p>
                   <strong>Is the project open to new collaborators?</strong>
                    Look at the project webpage, manual, or online community (e.g., Slack, Zulip) to learn more about its current status <a href="#">[18]</a>.
                 </p>
               </div> <!--- close card yellow --->
               <br>
-              <div class="card-teal">
+              <div class="card card-teal">
                 <p>
                   <strong>What kinds of contributions are needed?</strong>
                    Look for opportunities to contribute, such as study design, materials development, translation, data collection, analysis, writing, or project coordination. Check the project’s participation guidelines, lab manual, or Collaboration Agreement to understand responsibilities, timelines, ethics requirements, and other expectations.
                 </p>
               </div> <!--- close card teal --->
               <br>
-              <div class="card-lightblue">
+              <div class="card card-lightblue">
                 <p>
                   <strong>How will my participation be recognized/remunerated?</strong>
                    Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
                 </p>
               </div> <!--- close card lightblue --->
               <br>
-              <div class="card-yellow">
+              <div class="card card-yellow">
                 <p>
                   <strong>Are there any restrictions on using or presenting the work?</strong>
                    Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
                 </p>
               </div> <!--- close card yellow --->
               <br>
-              <div class="card-lightblue">
+              <div class="card card-lightblue">
                 <p>
                   <strong>Are there any additional expectations that apply to collaborators?</strong>
                    Look for documents such as network mission and values statements, codes of conduct, collaboration agreements, and governance or membership guidelines to understand how the team operates and what is expected of its members. Identify the project’s or network’s underlying values, as these may shape how decisions are made throughout the research process.
                 </p>
               </div> <!--- close card lightblue --->
               <br>
-              <div class="card-teal">
+              <div class="card card-teal">
                 <p>
                   <strong>How can I stay informed about future opportunities?</strong>
                    Consider signing up for the network's mailing list, listserv, or other communication channels (e.g., Slack, Zulip) to receive announcements about new projects and opportunities to contribute.
@@ -445,7 +445,7 @@ title: Beginner Resources
               <br>
               <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
               <!--- Card 1: Existing skills --->
-              <div class="card-lightblue">
+              <div class="card card-lightblue">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     1. What relevant skills do I have?
@@ -459,7 +459,7 @@ title: Beginner Resources
               </div>
               
               <!-- Card 2: Skills to develop -->
-              <div class="card-lightblue">
+              <div class="card card-lightblue">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     2. What skills do I want to develop?
@@ -473,7 +473,7 @@ title: Beginner Resources
               </div>
             
               <!-- Card 3: Discuss with supervisor -->
-              <div class="card-lightblue">
+              <div class="card card-lightblue">
                 <div class="header-blue">
                   <h3 style="margin: 0; color: #FFFFFF;">
                     3. Have I discussed it with my supervisor?
