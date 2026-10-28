@@ -1442,3 +1442,14 @@ html {
     flex-direction: column;
   }
 }
+
+/* Make all coloured content boxes the same width */
+.box-blue,
+.box-yellow,
+.box-teal,
+.box-red,
+.box-purple,
+.box-lightblue {
+  width: 100%;
+  box-sizing: border-box;
+}
