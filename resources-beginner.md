@@ -261,7 +261,7 @@ title: Beginner Resources
                                 </ul>
                             </details>
                         </ul>
-                      <div <!--- close box white --->
+                      </div <!--- close box white --->
                     </div> <!--- closing lightblue box --->
                   </div> <!--- closing transparency --->
                 </li>
@@ -317,13 +317,13 @@ title: Beginner Resources
                                 </li>
                               </ul>
                           </details>
-                        <div <!-- closing box white --->
-                      <div <!--- closing box lightblue --->
+                        </div <!-- closing box white --->
+                      </div <!--- closing box lightblue --->
                   </div> <!-- closing replication --->
                 </li>
                 </ul>
               </div> <!--- closing credibility --->
-            <div> <!--- closing box white --->
+            </div> <!--- closing box white --->
             <br>
             <div class="box-white">
               <div id="generalizability" class="sidebar-subheading">
