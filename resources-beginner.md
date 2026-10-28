@@ -499,19 +499,67 @@ title: Beginner Resources
                       that may lead to future collaborations.
                     </p>
                   </div>
-                <!-- Add the remaining benefit cards here -->
+                  <div class="bts-card bts-benefit">
+                    <h3>Gain recognition</h3>
+                    <p>
+                      Build a record of your research contributions and, 
+                      depending on your contributions and the project's policies, 
+                      potentially earn authorship or develop a thesis, 
+                      dissertation, or related research project.
+                    </p>
+                  </div>
+                  <div class="bts-card bts-benefit">
+                    <h3>Grow as a researcher</h3>
+                    <p>
+                      Gain experience working in a large research team, 
+                      build confidence and a sense of belonging in the research
+                      community, and prepare to take on greater responsibility 
+                      or lead a BTS project or subproject in the future.
+                    </p>
+                  </div>
                 </div>
                 <h2>Potential costs and challenges</h2>
                 <div class="bts-comparison">
                   <div class="bts-card bts-cost">
-                    <h3>Time and workload</h3>
+                    <h3>Balancing competing demands</h3>
                     <p>
                       Participation competes with coursework, degree requirements,
                       and independent research. Learning new methods can take time,
                       and workloads may exceed initial expectations.
                     </p>
                   </div>
-                  <!-- Add the remaining cost cards here -->
+                  <div class="bts-comparison">
+                  <div class="bts-card bts-cost">
+                    <h3>Time and workload</h3>
+                    <p>
+                      BTS participation requires time alongside coursework, 
+                      degree requirements, and independent research. Learning 
+                      unfamiliar methods and workflows can add to your 
+                      workload, which may be greater than you initially expect.
+                    </p>
+                  </div>
+                  <div class="bts-comparison">
+                  <div class="bts-card bts-cost">
+                    <h3>Plan for longer timelines</h3>
+                    <p>
+                      Publications and other CV-worthy outputs may take several 
+                      years to emerge. Joining early can offer more opportunities 
+                      to learn and gain research experience, but may also involve
+                      a longer and less predictable commitment. Consider how the 
+                      project's timeline aligns with your degree plans, 
+                      graduation requirements, and application deadlines.
+                    </p>
+                  </div>                
+                  <div class="bts-comparison">
+                  <div class="bts-card bts-cost">
+                    <h3>Understanding the limits of independence/h3>
+                    <p>
+                      Research questions and methods may already be established, 
+                      leaving less room to influence project decisions. Project 
+                      policies may also determine when you can access data, 
+                      present findings, or pursue follow-up research.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div> <!--- close white box --->
