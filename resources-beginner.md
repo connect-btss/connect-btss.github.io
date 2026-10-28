@@ -132,9 +132,9 @@ title: Beginner Resources
                   </div> <!--- closing text item --->
                 </div> <!--- closing left column --->
                 <!--- right  column --->
-                <br>
                 <div class="flex-item" 
                   style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                  <br>
                   <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
                     <img 
                       src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
@@ -178,8 +178,8 @@ title: Beginner Resources
                 What challenges do BTS and OS respond to?
               </h2>
             </div> <!--- closing teal header --->
+            <br>
             <div class="box-white">
-              <br>
               <div id="credibility" class="sidebar-subheading">
                 <div class="header-yellow">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;text-align: center;">
@@ -194,8 +194,8 @@ title: Beginner Resources
                   <div id="transparency" class="sidebar-subheading">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
                     <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
-                    <div class="box-teal">
-                      <div class="header-blue">
+                    <div class="box-blue">
+                      <div class="header-teal">
                         <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
                       </div> <!--- closing blue header --->
                       <br>
