@@ -365,13 +365,13 @@ title: Beginner Resources
       <!--- getting involved in BTS --->
         <div id="gettinginvolved" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
           <div class="box-red">
-            <div class="header-teal">
-              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                Getting Involved in BTS and OS
-              </h2>
-            </div> <!-- close header teal --->
-            <br>
             <div class="box-white">
+              <div class="header-teal">
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+                  Getting Involved in BTS and OS
+                </h2>
+              </div> <!-- close header teal --->
+              <br>
               <p>You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
                 <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
                 <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
