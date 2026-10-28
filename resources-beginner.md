@@ -185,7 +185,7 @@ title: Beginner Resources
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;text-align: center;">
                     Credibility
                   </h3>
-                </div> <!--- closing yellow header --->
+                </div> <!--- closing blue header --->
                 <p>
                  Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
                 </p>
@@ -197,7 +197,7 @@ title: Beginner Resources
                     <div class="box-yellow">
                       <div class="header-teal">
                         <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
-                      </div> <!--- closing blue header --->
+                      </div> <!--- closing teal header --->
                       <br>
                       <ul>
                         <li><strong>Pregrestistration vs Registered Report</strong></li>
