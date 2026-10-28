@@ -410,12 +410,12 @@ title: Beginner Resources
                 </p>
               </div> <!--- close card lightblue --->
               <br>
-              <div class="card card-yellow">
+              <div class="card card-blue">
                 <p>
                   <strong>Are there any restrictions on using or presenting the work?</strong>
                    Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
                 </p>
-              </div> <!--- close card yellow --->
+              </div> <!--- close card blue --->
               <br>
               <div class="card card-lightblue">
                 <p>
