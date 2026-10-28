@@ -358,7 +358,7 @@ title: Beginner Resources
             </div> <!--- closing box white -->
           </div> <!--- closing box purple --->
       <!--- getting involved in BTS --->
-        <div id="gettinginvolved" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div id="gettinginvolved" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
           <div class="box-red">
             <div class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
@@ -426,6 +426,12 @@ title: Beginner Resources
                    Consider signing up for the network's mailing list, listserv, or other communication channels (e.g., Slack, Zulip) to receive announcements about new projects and opportunities to contribute.
                 </p>
               </div> <!--- close header teal --->
+              <br>
+              <p>
+                Once you understand what the opportunity involves, it will be helpful to weigh the potential benefits and costs of different roles and levels of involvement before deciding whether and how you and/or your group might participate 
+                <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
+                <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
+              </p>
             </div> <!--- closing white box --->
           </div> <!--- closing box red --->
         </div> <!--- closing flex --->
