@@ -32,11 +32,6 @@ title: Beginner Resources
             </li>
           </ul>
         <a href="#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
-          <ul>
-            <li>
-              <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
-            </li>
-          </ul>
         <a href="#WhatdoesBTSandOSaddress" class="sidebar-subheading">What challenges do BTS and OS address?</a>
           <ul>
             <li>
