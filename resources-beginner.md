@@ -18,9 +18,9 @@ title: Beginner Resources
 > [View advanced resources]({{site.baseurl}}/resources-advanced)
 -->
 
-<div style="display: flex; gap:30px; align-items:flex-start; width:100%"> <!-- setting the page for sidebar and content -->
+<div style="display: flex; gap:20px; align-items:flex-start; width:100%"> <!-- setting the page for sidebar and content -->
   <!--- SIDEBAR -->
-    <aside class="side-index" style="flex:0 0 250px;">
+    <aside class="side-index" style="flex:0 0 190px; min-width: 0;">
       <h2>Contents</h2>
         <a href="#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> 
           <ul>
@@ -46,7 +46,7 @@ title: Beginner Resources
     </aside>
 
   <!-- PAGE CONTENT -->
-    <main class="content" style="flex:1; min-width:0;">
+    <main class="content" style="flex:1 1 0; min-width:0; width:0;">
       <!-- BIG TEAM SCIENCE -->
         <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
