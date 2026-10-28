@@ -186,14 +186,18 @@ title: Beginner Resources
                 <ul>
                   <li>
                     <div id="transparency" class="sidebar-subheading">
-                      <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
-                      <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
+                      <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                        Transparency
+                      </h3>
+                      <p>
+                        Transparency makes research processes, decisions, and outputs more visible and accessible to others.
+                      </p>
                       <div class="box-lightblue">
-                        <div class="header-blue">
-                          <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
-                        </div> <!--- closing blue header --->
-                        <br>
                         <div class="box-white">
+                          <div class="header-blue">
+                            <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
+                          </div> <!--- closing blue header --->
+                          <br>
                           <ul>
                             <li>
                               <strong>Pregrestistration vs Registered Report</strong>
