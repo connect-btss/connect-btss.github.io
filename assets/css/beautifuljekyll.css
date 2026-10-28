@@ -1223,6 +1223,17 @@ details > summary {
   border-radius: 10px; /* rounded corners */
 }
 
+/* Make all coloured content boxes the same width */
+.box-blue,
+.box-yellow,
+.box-teal,
+.box-red,
+.box-purple,
+.box-lightblue {
+  width: 100%;
+  box-sizing: border-box;
+}
+
 .header-yellow {
   border-radius: 15px;
   background: #FEC51D;
@@ -1319,7 +1330,7 @@ table {
   background-color: #364362;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 5px 5px #FEC51D;
+  box-shadow: -5px -5px #FEC51D;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -1441,15 +1452,4 @@ html {
   body > div {
     flex-direction: column;
   }
-}
-
-/* Make all coloured content boxes the same width */
-.box-blue,
-.box-yellow,
-.box-teal,
-.box-red,
-.box-purple,
-.box-lightblue {
-  width: 100%;
-  box-sizing: border-box;
 }
