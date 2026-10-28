@@ -474,7 +474,40 @@ title: Beginner Resources
                 </p>
               </div>
               
-            </div>
+              <p> Consider the Benefits and Costs </p>
+              <h2>Potential benefits</h2>
+                <div class="bts-comparison">
+                  <div class="bts-card bts-benefit">
+                    <h3>Build research skills</h3>
+                    <p>
+                      Contribute to a large collaborative study, tackle questions
+                      beyond the scope of one lab, and develop new research skills
+                      and open-science practices.
+                    </p>
+                  </div>
+                  <div class="bts-card bts-benefit">
+                    <h3>Expand your network</h3>
+                    <p>
+                      Learn from researchers across disciplines and cultures,
+                      connect with peers and mentors, and build relationships
+                      that may lead to future collaborations.
+                    </p>
+                  </div>
+                <!-- Add the remaining benefit cards here -->
+                </div>
+                <h2>Potential costs and challenges</h2>
+                <div class="bts-comparison">
+                  <div class="bts-card bts-cost">
+                    <h3>Time and workload</h3>
+                    <p>
+                      Participation competes with coursework, degree requirements,
+                      and independent research. Learning new methods can take time,
+                      and workloads may exceed initial expectations.
+                    </p>
+                  </div>
+                  <!-- Add the remaining cost cards here -->
+                </div>
+              </div>
             </div> <!--- close white box --->
           </div> <!--- closing box red --->
         </div> <!--- closing flex --->
