@@ -433,6 +433,57 @@ title: Beginner Resources
                 <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
               </p>
             </div> <!--- closing white box --->
+            <br>
+            <div class="box-white">
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                For students and trainees considering joining
+              </h3>
+              <br>
+              <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px;">
+              <!--- Card 1: Existing skills --->
+              <div class="box-lightblue">
+                <div class="header-blue">
+                  <h3 style="margin: 0; color: #FFFFFF;">
+                    1. What relevant skills do I have?
+                  </h3>
+                </div>
+                <div class="box-white">
+                  <p>
+                    Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
+                  </p>
+                </div>
+              </div>
+              
+              <!-- Card 2: Skills to develop -->
+              <div class="box-lightblue">
+                <div class="header-blue">
+                  <h3 style="margin: 0; color: #FFFFFF;">
+                    2. What skills do I want to develop?
+                  </h3>
+                </div>
+                <div class="box-white">
+                  <p>
+                    If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
+                  </p>
+                </div>
+              </div>
+            
+              <!-- Card 3: Discuss with supervisor -->
+              <div class="box-lightblue">
+                <div class="header-blue">
+                  <h3 style="margin: 0; color: #FFFFFF;">
+                    3. Have I discussed it with my supervisor?
+                  </h3>
+                </div>
+                <div class="box-white">
+                  <p>
+                    Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
+                  </p>
+                </div>
+              </div>
+              
+            </div>
+            </div> <!--- close white box --->
           </div> <!--- closing box red --->
         </div> <!--- closing flex --->
       <!--- tools --->
