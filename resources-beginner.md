@@ -361,6 +361,7 @@ title: Beginner Resources
               </div> <!-- closing generalizability --->
             </div> <!--- closing box white -->
           </div> <!--- closing box purple --->
+        <br>
       <!--- getting involved in BTS --->
         <div id="gettinginvolved" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
           <div class="box-red">
@@ -375,7 +376,6 @@ title: Beginner Resources
                 <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
                 <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
               </p>
-              <br>
               <p> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
                 <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
                 <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
