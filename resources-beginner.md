@@ -36,9 +36,6 @@ title: Beginner Resources
             <li>
               <a href="#whatisOS">  <strong> What is Open Science? </strong> </a>
             </li>
-            <li>
-              <a href="#OSandBTS"> <strong> How is OS related to BTS? </strong> </a>
-            </li>
           </ul>
         <a href="#WhatdoesBTSandOSaddress" class="sidebar-subheading">What challenges do BTS and OS address?</a>
           <ul>
@@ -67,7 +64,7 @@ title: Beginner Resources
             <div class="box-white">
               <div id="introductiontoBTS" class="header-teal">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  Introduction to Big Team Science (BTS)
+                  Introduction to Big Team Science (BTS) and Why it is Important?
                 </h2>
               </div> <!--- closing header teal --->
               <br>
@@ -76,17 +73,24 @@ title: Beginner Resources
                   What is Big Team Science (BTS) and Why it is Important
                 </h3>
               </div>
-              <p>Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal, enabling studies that may be difficult for a single research team to conduct alone.</p> 
-              <p>In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability.</p>
+              <p>Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+              <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>. By pooling expertise and resources, these collaborations can undertake studies that may be difficult for a single research team to conduct alone 
+              <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+              <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
+              <a href="https://journals.sagepub.com/doi/10.1177/2515245918797607">[4]</a>.
+              In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability
+              <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>–<a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
+              <a href="https://journals.sagepub.com/doi/10.1177/2515245918797607">[4]</a>
+              </p> 
               <details>
                 <summary><i>Resources</i></summary>
                   <br>
                     <ul>
-                    <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>              Provides an overview of BTS, as well as recommendations for expanding collaborative research.
+                    <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>Provides an overview of BTS, as well as recommendations for expanding collaborative research.
                     </li>
                     <br>
                     <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
-                    "We define [BTS] as a method involving a relatively large number of collaborators who may be dispersed across labs, institutions, disciplines, cultures, and continents."
+                    This work highlights the importance of BTS and how it can propel research to tackle issues of reproducibility and transparency while also discussing its drawbacks.
                     </li>
                     </ul>
               </details>
@@ -125,11 +129,12 @@ title: Beginner Resources
                 <div style="flex:1; min-width:300px;">
                   <!--- text --->
                   <div class="flex-item sidebar-subheading" id="whatisOS">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">What is Open Science?</h3>
-                    <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public.</p>
-                  <div class="flex-item sidebar-subheading" id="OSandBTS">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">How is OS related to BTS?</h3>
-                    <p>Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams.</p>
+                    <p>Open Science (OS) refers to a method of conducting research in which practices, processes, and results are transparent and accessible to the public 
+                    <a href="https://science.gc.ca/site/science/en/open-science">[10]</a>,
+                    Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams
+                    <a href="https://www.google.com/url?q=https://doi.org/10.1098/rsos.230235&sa=D&source=docs&ust=1793152546976917&usg=AOvVaw3BlziuQYZD5IKJyF2iz5Dx">[1]</a>, 
+                    <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>
+                    </p>
                   </div> <!--- closing text item --->
                 </div> <!--- closing left column --->
                 <!--- right  column --->
