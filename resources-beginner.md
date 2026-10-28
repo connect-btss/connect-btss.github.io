@@ -194,10 +194,10 @@ title: Beginner Resources
                   <div id="transparency" class="sidebar-subheading">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
                     <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
-                    <div class="box-yellow">
-                      <div class="header-teal">
+                    <div class="box-lightblue">
+                      <div class="header-purple">
                         <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
-                      </div> <!--- closing teal header --->
+                      </div> <!--- closing purple header --->
                       <br>
                       <div class="box-white">
                         <ul>
@@ -262,9 +262,7 @@ title: Beginner Resources
                             </details>
                           </ul>
                         <div <!--- close box white --->
-                      </div> <!--- closing box teal --->
-                  </div> <!--- closing transparency --->
-                </li>
+                      </div> <!--- closing box purple --->
                 <br>
                 <li>
                   <div id="replication" class="sidebar-subheading">
