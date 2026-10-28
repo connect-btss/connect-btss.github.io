@@ -48,7 +48,7 @@ title: Beginner Resources
   <!-- PAGE CONTENT -->
     <main class="content" style="flex:1 1 0; min-width:0; width:0;">
       <!-- BIG TEAM SCIENCE -->
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div style="display: flex; width: 100%; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
             <div class="box-white">
               <div id="introductiontoBTS" class="header-teal">
@@ -106,7 +106,7 @@ title: Beginner Resources
           </div> <!--- close box yellow -->
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-teal">
             <div class="box-white">
               <div id="WhatisOSrelatestoBTS?" class="header-red">
@@ -165,7 +165,7 @@ title: Beginner Resources
           </div> <!--- closing teal box --->
         </div> <!--- closing flex box --->
       <!--- What are the challenges --->
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 60px;">
+        <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 60px;">
           <div class="box-purple">
             <div id="WhatdoesBTSandOSaddress" class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
@@ -358,7 +358,7 @@ title: Beginner Resources
             </div> <!--- closing box white -->
           </div> <!--- closing box purple --->
       <!--- getting involved in BTS --->
-        <div id="gettinginvolved" style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
+        <div id="gettinginvolved" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
           <div class="box-red">
             <div class="header-teal">
               <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
@@ -488,7 +488,7 @@ title: Beginner Resources
         </div> <!--- closing flex --->
       <!--- tools --->
         <br>
-        <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-yellow">
               <div id="intrototools" class="header-blue">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
