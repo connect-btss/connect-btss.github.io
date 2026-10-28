@@ -38,12 +38,6 @@ title: Beginner Resources
               <a href="#credibility"> <strong> Credibility </strong> </a>
             </li>
             <li>
-              <a href="#transparency"> <strong> Transparency </strong> </a>
-            </li>
-            <li>
-              <a href="#replication"> <strong> Replication and Reproducibility </strong> </a>
-            </li>
-            <li>
               <a href="#generalizability"> <strong> Generalizability and Representativeness </strong> </a>
             </li>
           </ul>
