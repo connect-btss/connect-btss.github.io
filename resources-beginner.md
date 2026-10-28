@@ -181,7 +181,7 @@ title: Beginner Resources
             <br>
             <div class="box-white">
               <div id="credibility" class="sidebar-subheading">
-                <div class="header-yellow">
+                <div class="header-blue">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;text-align: center;">
                     Credibility
                   </h3>
@@ -194,7 +194,7 @@ title: Beginner Resources
                   <div id="transparency" class="sidebar-subheading">
                     <h3 style="margin-bottom:0;margin-top:0;color:#364362;">Transparency</h3>
                     <p>Transparency makes research processes, decisions, and outputs more visible and accessible to others.</p>
-                    <div class="box-blue">
+                    <div class="box-yellow">
                       <div class="header-teal">
                         <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
                       </div> <!--- closing blue header --->
