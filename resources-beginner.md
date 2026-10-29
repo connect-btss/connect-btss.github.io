@@ -393,9 +393,6 @@ title: Beginner Resources
                   </li>
                 </ul>
               </div> <!--- closing credibility --->
-            </div> <!--- closing box white --->
-            <br>
-            <div class="box-white">
               <div id="generalizability" class="sidebar-subheading">
                 <h2 style="margin-bottom:0;margin-top:0;color:#364362;margin-left: 30px;">
                   Generalizability and Representativeness
@@ -433,7 +430,6 @@ title: Beginner Resources
                     </div> <!--- close card lighterblue --->
                 </details>
               </div> <!-- closing generalizability --->
-            </div> <!--- closing box white -->
         <br>
       <!--- getting involved in BTS --->
         <div id="gettinginvolved" style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 20px;">
