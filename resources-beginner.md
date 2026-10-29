@@ -439,207 +439,198 @@ title: Beginner Resources
               </div> <!-- closing generalizability --->
             <br>
         <!---- closing challenges section --->
-      <!--- getting involved in BTS --->
+        <!--- getting involved in BTS --->
         <div id="gettinginvolved" style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 20px;">
-          <div class="box-red">
-            <div class="box-white">
-              <div class="header-teal">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
-                  Getting Involved in BTS and OS
-                </h2>
-              </div> <!-- close header teal --->
-              <p>You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
-                <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
-                <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
-              </p>
-              <p> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
-                <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
-                <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
-              </p>
-            </div> <!--- closing white box --->
-            <br>
-            <div class="box-white">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                Things to Check and Consider Before Joining/Committing
-              </h3>
+          <div class="header-teal">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+              Getting Involved in BTS and OS
+            </h2>
+          </div> <!-- close header teal --->
+            <p style="margin-left: 30px;">You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
+              <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+              <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
+            </p>
+            <p style="margin-left: 30px;"> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
+              <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+              <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
+            </p>
+          <br>
+          <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
+            Things to Check and Consider Before Joining/Committing
+          </h3>
+          <p style="margin-left: 30px;">
+            If you find a specific project or network that interests you, the checklist below can help you decide whether, and how you or your lab might participate: 
+          </p>
+          <details>
+            <summary style="margin-left: 30px;">
+              Click to expand
+            </summary>
+              <div class="card card-lighteryellow">
+                <p>
+                  <strong>Is the project open to new collaborators?</strong>
+                    Look at the project webpage, manual, or online community (e.g., Slack, Zulip) to learn more about its current status <a href="#">[18]</a>.
+                </p>
+              </div> <!--- close card yellow --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong>What kinds of contributions are needed?</strong>
+                    Look for opportunities to contribute, such as study design, materials development, translation, data collection, analysis, writing, or project coordination. Check the project’s participation guidelines, lab manual, or Collaboration Agreement to understand responsibilities, timelines, ethics requirements, and other expectations.
+                </p>
+              </div> <!--- close card teal --->
+              <div class="card card-lighterpurple">
+                <p>
+                  <strong>How will my participation be recognized/remunerated?</strong>
+                    Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
+                </p>
+              </div> <!--- close card lightpurple --->
+              <div class="card card-lighterred">
+                <p>
+                  <strong>Are there any restrictions on using or presenting the work?</strong>
+                   Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
+                </p>
+              </div> <!--- close card lighterred --->
+              <div class="card card-lighteryellow">
+                <p>
+                  <strong>Are there any additional expectations that apply to collaborators?</strong>
+                   Look for documents such as network mission and values statements, codes of conduct, collaboration agreements, and governance or membership guidelines to understand how the team operates and what is expected of its members. Identify the project’s or network’s underlying values, as these may shape how decisions are made throughout the research process.
+                </p>
+              </div> <!--- close card yellow --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong>How can I stay informed about future opportunities?</strong>
+                   Consider signing up for the network's mailing list, listserv, or other communication channels (e.g., Slack, Zulip) to receive announcements about new projects and opportunities to contribute.
+                </p>
+              </div> <!--- close card teal --->
+          </details>
+          <p style="margin-left: 30px;">
+            Once you understand what the opportunity involves, it will be helpful to weigh the potential benefits and costs of different roles and levels of involvement before deciding whether and how you and/or your group might participate 
+            <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
+            <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
+          </p>
+          <br>
+          <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
+            For students and trainees considering joining
+          </h3>
+          <details>
+            <summary style="margin-left: 30px;">
+              Click to expand
+            </summary>
+            <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
+            <!--- Card 1: Existing skills --->
+            <div class="card card-lighterteal">
+              <div class="header-blue">
+                <h3 style="margin: 0; color: #FFFFFF;">
+                  1. What relevant skills do I have?
+                </h3>
+              </div>
               <p>
-                If you find a specific project or network that interests you, the checklist below can help you decide whether, and how you or your lab might participate: 
+                Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
               </p>
-              <details>
-                <summary>
-                  Click to expand
-                </summary>
-                  <div class="card card-lighteryellow">
-                    <p>
-                      <strong>Is the project open to new collaborators?</strong>
-                       Look at the project webpage, manual, or online community (e.g., Slack, Zulip) to learn more about its current status <a href="#">[18]</a>.
-                    </p>
-                  </div> <!--- close card yellow --->
-                  <div class="card card-lighterteal">
-                    <p>
-                      <strong>What kinds of contributions are needed?</strong>
-                       Look for opportunities to contribute, such as study design, materials development, translation, data collection, analysis, writing, or project coordination. Check the project’s participation guidelines, lab manual, or Collaboration Agreement to understand responsibilities, timelines, ethics requirements, and other expectations.
-                    </p>
-                  </div> <!--- close card teal --->
-                  <div class="card card-lighterpurple">
-                    <p>
-                      <strong>How will my participation be recognized/remunerated?</strong>
-                       Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
-                    </p>
-                  </div> <!--- close card lightpurple --->
-                  <div class="card card-lighterred">
-                    <p>
-                      <strong>Are there any restrictions on using or presenting the work?</strong>
-                       Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
-                    </p>
-                  </div> <!--- close card lighterred --->
-                  <div class="card card-lighteryellow">
-                    <p>
-                      <strong>Are there any additional expectations that apply to collaborators?</strong>
-                       Look for documents such as network mission and values statements, codes of conduct, collaboration agreements, and governance or membership guidelines to understand how the team operates and what is expected of its members. Identify the project’s or network’s underlying values, as these may shape how decisions are made throughout the research process.
-                    </p>
-                  </div> <!--- close card yellow --->
-                  <div class="card card-lighterteal">
-                    <p>
-                      <strong>How can I stay informed about future opportunities?</strong>
-                       Consider signing up for the network's mailing list, listserv, or other communication channels (e.g., Slack, Zulip) to receive announcements about new projects and opportunities to contribute.
-                    </p>
-                  </div> <!--- close card teal --->
-              </details>
+            </div>
+            <!-- Card 2: Skills to develop -->
+            <div class="card card-lighterteal">
+              <div class="header-blue">
+                <h3 style="margin: 0; color: #FFFFFF;">
+                  2. What skills do I want to develop?
+                </h3>
+              </div>
               <p>
-                Once you understand what the opportunity involves, it will be helpful to weigh the potential benefits and costs of different roles and levels of involvement before deciding whether and how you and/or your group might participate 
-                <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
-                <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
+                If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
               </p>
-            </div> <!--- closing white box --->
-            <br>
-            <div class="box-white">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                For students and trainees considering joining
-              </h3>
-              <details>
-                <summary>
-                  Click to expand
-                </summary>
-                <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
-                <!--- Card 1: Existing skills --->
-                <div class="card card-lighterteal">
-                  <div class="header-blue">
-                    <h3 style="margin: 0; color: #FFFFFF;">
-                      1. What relevant skills do I have?
-                    </h3>
-                  </div>
-                  <p>
-                    Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
-                  </p>
-                </div>
-                
-                <!-- Card 2: Skills to develop -->
-                <div class="card card-lighterteal">
-                  <div class="header-blue">
-                    <h3 style="margin: 0; color: #FFFFFF;">
-                      2. What skills do I want to develop?
-                    </h3>
-                  </div>
-                  <p>
-                    If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
-                  </p>
-                </div>
-                
-                <!-- Card 3: Discuss with supervisor -->
-                <div class="card card-lighterteal">
-                  <div class="header-blue">
-                    <h3 style="margin: 0; color: #FFFFFF;">
-                      3. Have I discussed it with my supervisor?
-                    </h3>
-                  </div>
-                  <p>
-                    Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
-                  </p>
-                </div>
               </div>
-            </details>
+            <!-- Card 3: Discuss with supervisor -->
+            <div class="card card-lighterteal">
+              <div class="header-blue">
+                <h3 style="margin: 0; color: #FFFFFF;">
+                  3. Have I discussed it with my supervisor?
+                </h3>
+              </div>
+              <p>
+                Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
+              </p>
             </div>
-            <br>
-             <div class="box-white">
-              <div class="header-teal">
-                <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-                  Consider the Benefits and Costs
-                </h2>
-              </div>
-              <h2>Potential benefits</h2>
-              <div class="bts-comparison">
-                <div class="bts-card bts-benefit">
-                  <h3>Build research skills</h3>
-                  <p>
-                    Contribute to a large collaborative study, tackle questions
-                    beyond the scope of one lab, and develop new research skills
-                    and open-science practices.
-                  </p>
-                </div>
-                <div class="bts-card bts-benefit">
-                  <h3>Expand your network</h3>
-                  <p>
-                    Learn from researchers across disciplines and cultures,
-                    connect with peers and mentors, and build relationships
-                    that may lead to future collaborations.
-                  </p>
-                </div>
-                <div class="bts-card bts-benefit">
-                  <h3>Gain recognition</h3>
-                  <p>
-                    Build a record of your research contributions and,
-                    depending on your contributions and the project's policies,
-                    potentially earn authorship or develop a thesis, dissertation,
-                    or related research project.
-                  </p>
-                </div>
-                <div class="bts-card bts-benefit">
-                  <h3>Grow as a researcher</h3>
-                  <p>
-                    Gain experience working in a large research team, build
-                    confidence and a sense of belonging in the research community,
-                    and prepare to take on greater responsibility or lead a BTS
-                    project or subproject in the future.
-                  </p>
-                </div>
-              </div>
-              <h2>Potential costs and challenges</h2>
-              <div class="bts-comparison bts-costs">
-                <div class="bts-card bts-cost">
-                  <h3>Time and workload</h3>
-                  <p>
-                    BTS participation requires time alongside coursework,
-                    degree requirements, and independent research. Learning
-                    unfamiliar methods and workflows can add to your workload,
-                    which may be greater than you initially expect.
-                  </p>
-                </div>
-                <div class="bts-card bts-cost">
-                  <h3>Plan for longer timelines</h3>
-                  <p>
-                    Publications and other CV-worthy outputs may take several
-                    years to emerge. Joining early can offer more opportunities
-                    to learn and gain research experience, but may also involve
-                    a longer and less predictable commitment. Consider how the
-                    project's timeline aligns with your degree plans, graduation
-                    requirements, and application deadlines.
-                  </p>
-                </div>
-                <div class="bts-card bts-cost">
-                  <h3>Understand the limits of independence</h3>
-                  <p>
-                    Research questions and methods may already be established,
-                    leaving less room to influence project decisions. Project
-                    policies may also determine when you can access data,
-                    present findings, or pursue follow-up research.
-                  </p>
-                </div>
-              </div>
+          </div>
+        </details>
+        </div>
+        <br>
+        <div class="header-teal">
+          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+            Consider the Benefits and Costs
+          </h2>
+        </div> <!--- close header teal --->
+          <h2>
+            Potential benefits
+          </h2>
+          <div class="bts-comparison">
+            <div class="bts-card bts-benefit">
+              <h3>Build research skills</h3>
+              <p>
+                Contribute to a large collaborative study, tackle questions
+                beyond the scope of one lab, and develop new research skills
+                and open-science practices.
+              </p>
             </div>
-            <!-- Close the benefits and costs white box -->
-          </div> <!--- closing box red --->
-        </div> <!--- closing flex --->
+            <div class="bts-card bts-benefit">
+              <h3>Expand your network</h3>
+              <p>
+                Learn from researchers across disciplines and cultures,
+                connect with peers and mentors, and build relationships
+                that may lead to future collaborations.
+              </p>
+            </div>
+            <div class="bts-card bts-benefit">
+              <h3>Gain recognition</h3>
+              <p>
+                Build a record of your research contributions and,
+                depending on your contributions and the project's policies,
+                potentially earn authorship or develop a thesis, dissertation,
+                or related research project.
+              </p>
+            </div>
+            <div class="bts-card bts-benefit">
+              <h3>Grow as a researcher</h3>
+              <p>
+                Gain experience working in a large research team, build
+                confidence and a sense of belonging in the research community,
+                and prepare to take on greater responsibility or lead a BTS
+                project or subproject in the future.
+              </p>
+            </div>
+          </div>
+          <h2>Potential costs and challenges</h2>
+          <div class="bts-comparison bts-costs">
+            <div class="bts-card bts-cost">
+              <h3>Time and workload</h3>
+              <p>
+                BTS participation requires time alongside coursework,
+                degree requirements, and independent research. Learning
+                unfamiliar methods and workflows can add to your workload,
+                which may be greater than you initially expect.
+              </p>
+            </div>
+            <div class="bts-card bts-cost">
+              <h3>Plan for longer timelines</h3>
+              <p>
+                Publications and other CV-worthy outputs may take several
+                years to emerge. Joining early can offer more opportunities
+                to learn and gain research experience, but may also involve
+                a longer and less predictable commitment. Consider how the
+                project's timeline aligns with your degree plans, graduation
+                requirements, and application deadlines.
+              </p>
+            </div>
+            <div class="bts-card bts-cost">
+              <h3>Understand the limits of independence</h3>
+              <p>
+                Research questions and methods may already be established,
+                leaving less room to influence project decisions. Project
+                policies may also determine when you can access data,
+                present findings, or pursue follow-up research.
+              </p>
+            </div>
+          </div>
+        </div>
+    </div> <!--- closing flex --->
       <!--- tools --->
         <br>
         <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
