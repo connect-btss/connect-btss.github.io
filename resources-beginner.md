@@ -185,6 +185,7 @@ title: Beginner Resources
                       style="max-width:100%; height:auto;">
                   </a>
                 <br>
+                <br>
                   <i>(source:<a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
                       Government of Canada </a>)
                   </i>
