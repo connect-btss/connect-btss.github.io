@@ -397,7 +397,7 @@ title: Beginner Resources
             <br>
             <div class="box-white">
               <div id="generalizability" class="sidebar-subheading">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;margin-left: 30px;">
+                <h2 style="margin-bottom:0;margin-top:0;color:#364362;margin-left: 30px;">
                   Generalizability and Representativeness
                 </h2>
                 <p style="margin-left: 30px;">
@@ -410,9 +410,9 @@ title: Beginner Resources
                     <div class="card card-lighterblue">
                       <div class="box-white">
                         <div id="WEIRDresearch" class="header-blue">
-                          <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                          <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
                             Why has Research Historically Focused on WEIRD Populations?
-                          </h4>
+                          </h3>
                         </div>
                         <p style="font-size: 16px;"> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
                         <details>
