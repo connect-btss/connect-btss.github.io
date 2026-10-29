@@ -410,7 +410,7 @@ title: Beginner Resources
                     <div class="card card-lighterblue">
                       <div class="box-white">
                         <div id="WEIRDresearch" class="header-blue">
-                          <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                          <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                             Why has Research Historically Focused on WEIRD Populations?
                           </h3>
                         </div>
