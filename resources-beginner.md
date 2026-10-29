@@ -446,15 +446,14 @@ title: Beginner Resources
               Getting Involved in BTS and OS
             </h2>
           </div> <!-- close header teal --->
-            <p style="margin-left: 30px;">You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
-              <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
-              <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
-            </p>
-            <p style="margin-left: 30px;"> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
-              <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
-              <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
-            </p>
-          <br>
+          <p style="margin-left: 30px;">You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
+            <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+            <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
+          </p>
+          <p style="margin-left: 30px;"> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
+            <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+            <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
+          </p>
           <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             Things to Check and Consider Before Joining/Committing
           </h3>
@@ -507,9 +506,8 @@ title: Beginner Resources
             <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
             <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
           </p>
-          <br>
           <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
-            For students and trainees considering joining
+            For Students and Trainees Considering Joining
           </h3>
           <details>
             <summary style="margin-left: 30px;">
@@ -554,13 +552,13 @@ title: Beginner Resources
         </div>
         <br>
         <div class="header-teal">
-          <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+          <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
             Consider the Benefits and Costs
-          </h2>
+          </h3>
         </div> <!--- close header teal --->
-          <h2>
+          <h3 style="margin-left: 30px;">
             Potential benefits
-          </h2>
+          </h3>
           <div class="bts-comparison">
             <div class="bts-card bts-benefit">
               <h3>Build research skills</h3>
@@ -597,7 +595,9 @@ title: Beginner Resources
               </p>
             </div>
           </div>
-          <h2>Potential costs and challenges</h2>
+          <h3 style="margin-left: 30px;">
+            Potential costs and challenges
+          </h3>
           <div class="bts-comparison bts-costs">
             <div class="bts-card bts-cost">
               <h3>Time and workload</h3>
