@@ -449,8 +449,8 @@ title: Beginner Resources
           <p style="margin-left: 30px;">You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
-          </p>
-          <p style="margin-left: 30px;"> Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
+            <br>
+            Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
           </p>
