@@ -44,7 +44,6 @@ title: Advanced Resources
   <!-- PAGE CONTENT -->
     <main class="content" style="flex:1;">
       <!-- MANAGING GLOBAL TEAMS -->
-        <div class="box-teal" style="margin-bottom: 40px;">
           <div id="managingglobalteams" class="header-red">
             <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
               Managing Global Teams
@@ -53,7 +52,6 @@ title: Advanced Resources
           <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
             <!-- LEFT -->
             <div style="flex:1; min-width:300px;">
-              <div class="box-white">
                 <div class="header-red">
                   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
                     Time Zones
@@ -62,9 +60,7 @@ title: Advanced Resources
                 <p>
                   Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
                 </p>
-              </div> <!-- closing box white -->
               <br>
-              <div class="box-white">
                 <details>
                   <summary><i>Resources</i></summary>
                     <br>
@@ -84,11 +80,9 @@ title: Advanced Resources
                       </li>
                     </ul>
                 </details>
-              </div> <!-- closing box white -->
             </div>  <!-- closing left -->
             <!-- RIGHT -->
             <div style="flex:1; min-width:300px;">
-              <div class="box-white">
                 <div class="header-red">
                   <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                     Collaborative Writing
@@ -97,9 +91,7 @@ title: Advanced Resources
               <p>
                 Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
               </p>
-              </div> <!-- closing box white -->
               <br>
-              <div class="box-white">
                 <details>
                   <summary><i>Resources</i></summary>
                   <br>
@@ -117,7 +109,6 @@ title: Advanced Resources
                     </li>
                   </ul>
                 </details>
-              </div> <!-- closing box white -->
             </div> <!-- closing right -->
           </div> <!-- closing flex -->
         </div> <!-- closing box teal -->
