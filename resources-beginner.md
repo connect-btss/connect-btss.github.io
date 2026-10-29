@@ -363,7 +363,7 @@ title: Beginner Resources
           </div> <!--- closing box purple --->
         <br>
       <!--- getting involved in BTS --->
-        <div id="gettinginvolved" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
+        <div id="gettinginvolved" style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 20px;">
           <div class="box-red">
             <div class="box-white">
               <div class="header-teal">
@@ -475,92 +475,89 @@ title: Beginner Resources
               </div>
             </div>
             <br>
-            <div class="box-white">
+             <div class="box-white">
               <div class="header-teal">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
+                <h2 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
                   Consider the Benefits and Costs
                 </h2>
-              </div> <!-- close header teal --->
+              </div>
               <h2>Potential benefits</h2>
-                <div class="bts-comparison">
-                  <div class="bts-card bts-benefit">
-                    <h3>Build research skills</h3>
-                    <p>
-                      Contribute to a large collaborative study, tackle questions
-                      beyond the scope of one lab, and develop new research skills
-                      and open-science practices.
-                    </p>
-                  </div>
-                  <div class="bts-card bts-benefit">
-                    <h3>Expand your network</h3>
-                    <p>
-                      Learn from researchers across disciplines and cultures,
-                      connect with peers and mentors, and build relationships
-                      that may lead to future collaborations.
-                    </p>
-                  </div>
-                  <div class="bts-card bts-benefit">
-                    <h3>Gain recognition</h3>
-                    <p>
-                      Build a record of your research contributions and, 
-                      depending on your contributions and the project's policies, 
-                      potentially earn authorship or develop a thesis, 
-                      dissertation, or related research project.
-                    </p>
-                  </div>
-                  <div class="bts-card bts-benefit">
-                    <h3>Grow as a researcher</h3>
-                    <p>
-                      Gain experience working in a large research team, 
-                      build confidence and a sense of belonging in the research
-                      community, and prepare to take on greater responsibility 
-                      or lead a BTS project or subproject in the future.
-                    </p>
-                  </div>
+              <div class="bts-comparison">
+                <div class="bts-card bts-benefit">
+                  <h3>Build research skills</h3>
+                  <p>
+                    Contribute to a large collaborative study, tackle questions
+                    beyond the scope of one lab, and develop new research skills
+                    and open-science practices.
+                  </p>
                 </div>
-                <h2>Potential costs and challenges</h2>
-                <div class="bts-comparison">
-                  <div class="bts-comparison">
-                  <div class="bts-card bts-cost">
-                    <h3>Time and workload</h3>
-                    <p>
-                      BTS participation requires time alongside coursework, 
-                      degree requirements, and independent research. Learning 
-                      unfamiliar methods and workflows can add to your 
-                      workload, which may be greater than you initially expect.
-                    </p>
-                  </div>
-                  <div class="bts-comparison">
-                  <div class="bts-card bts-cost">
-                    <h3>Plan for longer timelines</h3>
-                    <p>
-                      Publications and other CV-worthy outputs may take several 
-                      years to emerge. Joining early can offer more opportunities 
-                      to learn and gain research experience, but may also involve
-                      a longer and less predictable commitment. Consider how the 
-                      project's timeline aligns with your degree plans, 
-                      graduation requirements, and application deadlines.
-                    </p>
-                  </div>                
-                  <div class="bts-comparison">
-                  <div class="bts-card bts-cost">
-                    <h3>Understanding the limits of independence/h3>
-                    <p>
-                      Research questions and methods may already be established, 
-                      leaving less room to influence project decisions. Project 
-                      policies may also determine when you can access data, 
-                      present findings, or pursue follow-up research.
-                    </p>
-                  </div>
-                  </div>
+                <div class="bts-card bts-benefit">
+                  <h3>Expand your network</h3>
+                  <p>
+                    Learn from researchers across disciplines and cultures,
+                    connect with peers and mentors, and build relationships
+                    that may lead to future collaborations.
+                  </p>
+                </div>
+                <div class="bts-card bts-benefit">
+                  <h3>Gain recognition</h3>
+                  <p>
+                    Build a record of your research contributions and,
+                    depending on your contributions and the project's policies,
+                    potentially earn authorship or develop a thesis, dissertation,
+                    or related research project.
+                  </p>
+                </div>
+            
+                <div class="bts-card bts-benefit">
+                  <h3>Grow as a researcher</h3>
+                  <p>
+                    Gain experience working in a large research team, build
+                    confidence and a sense of belonging in the research community,
+                    and prepare to take on greater responsibility or lead a BTS
+                    project or subproject in the future.
+                  </p>
                 </div>
               </div>
-            </div> <!--- close white box --->
+              <h2>Potential costs and challenges</h2>
+              <div class="bts-comparison bts-costs">
+                <div class="bts-card bts-cost">
+                  <h3>Time and workload</h3>
+                  <p>
+                    BTS participation requires time alongside coursework,
+                    degree requirements, and independent research. Learning
+                    unfamiliar methods and workflows can add to your workload,
+                    which may be greater than you initially expect.
+                  </p>
+                </div>
+                <div class="bts-card bts-cost">
+                  <h3>Plan for longer timelines</h3>
+                  <p>
+                    Publications and other CV-worthy outputs may take several
+                    years to emerge. Joining early can offer more opportunities
+                    to learn and gain research experience, but may also involve
+                    a longer and less predictable commitment. Consider how the
+                    project's timeline aligns with your degree plans, graduation
+                    requirements, and application deadlines.
+                  </p>
+                </div>
+                <div class="bts-card bts-cost">
+                  <h3>Understand the limits of independence</h3>
+                  <p>
+                    Research questions and methods may already be established,
+                    leaving less room to influence project decisions. Project
+                    policies may also determine when you can access data,
+                    present findings, or pursue follow-up research.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- Close the benefits and costs white box -->
           </div> <!--- closing box red --->
         </div> <!--- closing flex --->
       <!--- tools --->
         <br>
-        <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
           <div class="box-yellow">
               <div id="intrototools" class="header-blue">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> Introduction to Tools for BTS and OS</h2>
