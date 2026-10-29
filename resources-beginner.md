@@ -401,7 +401,7 @@ title: Beginner Resources
                    Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
                 </p>
                 <details>
-                  <summary>
+                  <summary style="margin-left: 30px;">
                     Click to expand
                   </summary>
                     <div class="card card-lighterblue">
