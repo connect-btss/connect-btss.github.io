@@ -151,32 +151,29 @@ title: Beginner Resources
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
         <div id="WhatisOSrelatestoBTS?" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-teal">
-            <div class="box-white">
-              <div class="header-red">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  What is Open Science and How does it relate to BTS?
-                </h2>
-              </div> <!--- closing header red --->
+          <div class="header-red">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+              What is Open Science and How does it relate to BTS?
+            </h2>
+            </div> <!--- closing header red --->
               <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
-                <!--- left column --->
-                <div style="flex:1; min-width:300px;">
-                  <!--- text --->
-                  <div class="flex-item sidebar-subheading" id="whatisOS">
-                    <p>Open Science (OS) refers to a method of conducting research 
+              <!--- left column --->
+              <div style="flex:1; min-width:300px;">
+                <!--- text --->
+                <div class="flex-item sidebar-subheading" id="whatisOS">
+                  <p>Open Science (OS) refers to a method of conducting research 
                     in which practices, processes, and results are transparent 
                     and accessible to the public 
                     <a href="https://science.gc.ca/site/science/en/open-science">[10]</a>,
                     Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams
                     <a href="https://www.google.com/url?q=https://doi.org/10.1098/rsos.230235&sa=D&source=docs&ust=1793152546976917&usg=AOvVaw3BlziuQYZD5IKJyF2iz5Dx">[1]</a>, 
                     <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>
-                    </p>
-                  </div> <!--- closing text item --->
-                </div> <!--- closing left column --->
-                <!--- right  column --->
-                <div class="flex-item" 
-                  style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
-                  <br>
+                  </p>
+                </div> <!--- closing text item --->
+              </div> <!--- closing left column --->
+              <!--- right  column --->
+              <div class="flex-item" style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+                <br>
                   <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
                     <img 
                       src="https://science.gc.ca/site/science/sites/default/files/img/2022/OpenScienceLifeCycle-500x506.png" 
@@ -187,35 +184,31 @@ title: Beginner Resources
                       width="500"
                       style="max-width:100%; height:auto;">
                   </a>
-                  <br>
-                  <i>(source: 
-                    <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
-                      Government of Canada
-                    </a>)
+                <br>
+                  <i>(source:<a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
+                      Government of Canada </a>)
                   </i>
-                </div> <!--- closing flex image item/right column --->
+              </div> <!--- closing flex image item/right column --->
               </div> <!--- closing flex item --->
-            <br>
-              <details>
-                <summary><i>Resources</i></summary>
-                <br>
-                <ul>
-                  <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
-                    Defines open science, while offering an overview of its 
-                    lifecycle and influence on Canadian legislation.
-                  </li>
-                  <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science <i>(Springer Nature)</i></a><br>
-                    Provides a concise list of the advantages of open science.
-                  </li>
-                  <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? <i>(Bertram et al., 2023)</i></a><br>
-                    Offers examples for how open science can be implemented 
-                    throughout the research lifecycle.
-                  </li>
-                </ul>
-                <br>
-              </details> 
-            </div> <!--- closing white box --->
-          </div> <!--- closing teal box --->
+              <br>
+                <details>
+                  <summary><i>Resources</i></summary>
+                  <br>
+                  <ul>
+                    <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
+                      Defines open science, while offering an overview of its 
+                      lifecycle and influence on Canadian legislation.
+                    </li>
+                    <li><a href="https://www.springernature.com/gp/open-science/about/benefits" target="_blank">Benefits of Open Science <i>(Springer Nature)</i></a><br>
+                      Provides a concise list of the advantages of open science.
+                    </li>
+                    <li><a href="https://www.sciencedirect.com/science/article/pii/S0960982223006681" target="_blank">What are the Core Principles of OS? <i>(Bertram et al., 2023)</i></a><br>
+                      Offers examples for how open science can be implemented 
+                      throughout the research lifecycle.
+                    </li>
+                  </ul>
+                  <br>
+                </details>
         </div> <!--- closing flex box --->
       <!--- What are the challenges --->
         <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 60px;">
