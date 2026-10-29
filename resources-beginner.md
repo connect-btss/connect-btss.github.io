@@ -119,7 +119,7 @@ title: Beginner Resources
                 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
                 <!--- Card 1: Neuroscience --->
                 <div class="card card-lighteryellow">
-                  <p class="centered-text">
+                  <p class="text-align: center;">
                     <strong> Neuroscience </strong>
                     <br>
                     <a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6">(Koch & Jones, 2016)</a>
@@ -127,7 +127,7 @@ title: Beginner Resources
                 </div> <!--- closing card 1 --->
                 <!--- Card 2: Conservation --->
                 <div class="card card-lighteryellow">
-                  <p class="centered-text">
+                  <p class="text-align: center;">
                     <strong> Conservation </strong>
                     <br>
                     <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full">(Diffendorfer et al., 2023)</a>
@@ -135,7 +135,7 @@ title: Beginner Resources
                 </div> <!-- closing card 2 --->
                 <!--- Card 3: Cognitive science --->
                 <div class="card card-lighteryellow">
-                  <p class="centered-text">
+                  <p class="text-align: center;">
                     <strong> Cognitive Science </strong>
                     <br>
                     <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned">(Vaidis et al., 2026)</a>
@@ -143,7 +143,7 @@ title: Beginner Resources
                 </div> <!--- closing card 3 --->
                 <!--- Card 4: Canine --->
                 <div class="card card-lighteryellow">
-                  <p class="centered-text">
+                  <p class="text-align: center;">
                     <strong> Canine Behaviour & Cognition </strong>
                     <br>
                     <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers">(Alberghina et al., 2023)</a>
