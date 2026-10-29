@@ -530,43 +530,42 @@ title: Beginner Resources
             <summary style="margin-left: 30px;">
               Click to expand
             </summary>
-            <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
+          <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
             <!--- Card 1: Existing skills --->
             <div class="card card-lighterteal">
               <div class="header-blue">
                 <h3 style="margin: 0; color: #FFFFFF;">
                   1. What relevant skills do I have?
                 </h3>
-              </div>
+              </div> <!--- closing header --->
               <p>
                 Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <!-- Card 2: Skills to develop -->
             <div class="card card-lighterteal">
               <div class="header-blue">
                 <h3 style="margin: 0; color: #FFFFFF;">
                   2. What skills do I want to develop?
                 </h3>
-              </div>
+              </div> <!--- closing header --->
               <p>
                 If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
               </p>
-              </div>
+            </div> <!--- closing card --->
             <!-- Card 3: Discuss with supervisor -->
             <div class="card card-lighterteal">
               <div class="header-blue">
                 <h3 style="margin: 0; color: #FFFFFF;">
                   3. Have I discussed it with my supervisor?
                 </h3>
-              </div>
+              </div> <!--- closing header --->
               <p>
                 Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
               </p>
-            </div>
-          </div>
+            </div> <!--- closing card --->
+          </div> <!--- closing grid --->
         </details>
-        </div>
         <br>
         <div class="header-teal">
           <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
