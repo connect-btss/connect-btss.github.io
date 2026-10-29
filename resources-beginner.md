@@ -107,7 +107,7 @@ title: Beginner Resources
                       transparency while also discussing its drawbacks.
                     </li>
                   </ul>
-                <div> <!--- closing collapsible --->
+                </div> <!--- closing collapsible --->
             </details>
             <br>
             <div id="acrossfields" class="sidebar-subheading">
