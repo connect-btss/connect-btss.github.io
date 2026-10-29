@@ -401,18 +401,18 @@ title: Beginner Resources
                    Look for opportunities to contribute, such as study design, materials development, translation, data collection, analysis, writing, or project coordination. Check the project’s participation guidelines, lab manual, or Collaboration Agreement to understand responsibilities, timelines, ethics requirements, and other expectations.
                 </p>
               </div> <!--- close card teal --->
-              <div class="card card-lighterblue">
+              <div class="card card-lighterpurple">
                 <p>
                   <strong>How will my participation be recognized/remunerated?</strong>
                    Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
                 </p>
-              </div> <!--- close card lightblue --->
-              <div class="card card-lighterblue">
+              </div> <!--- close card lightpurple --->
+              <div class="card card-lighterred">
                 <p>
                   <strong>Are there any restrictions on using or presenting the work?</strong>
                    Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
                 </p>
-              </div> <!--- close card blue --->
+              </div> <!--- close card lighterred --->
               <div class="card card-lighteryellow">
                 <p>
                   <strong>Are there any additional expectations that apply to collaborators?</strong>
