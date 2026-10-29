@@ -59,7 +59,6 @@ title: Beginner Resources
               Introduction to Big Team Science (BTS)
             </h2>
           </div> <!--- closing header teal --->
-          <br>
             <p style="margin-left: 30px;">
               Big Team Science (BTS) brings together large groups of researchers 
               to pool their expertise and resources around a shared research goal 
@@ -151,10 +150,10 @@ title: Beginner Resources
             </div> <!--- closing the id tab --->
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
-        <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div id="WhatisOSrelatestoBTS?" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div class="box-teal">
             <div class="box-white">
-              <div id="WhatisOSrelatestoBTS?" class="header-red">
+              <div class="header-red">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
                   What is Open Science and How does it relate to BTS?
                 </h2>
