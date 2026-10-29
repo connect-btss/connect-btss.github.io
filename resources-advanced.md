@@ -52,11 +52,9 @@ title: Advanced Resources
           <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
             <!-- LEFT -->
             <div style="flex:1; min-width:300px;">
-                <div class="header-red">
-                  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
-                    Time Zones
-                  </h2>
-                </div> <!-- closing header red -->
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
+                  Time Zones
+                </h2>
                 <p>
                   Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
                 </p>
@@ -83,11 +81,9 @@ title: Advanced Resources
             </div>  <!-- closing left -->
             <!-- RIGHT -->
             <div style="flex:1; min-width:300px;">
-                <div class="header-red">
-                  <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                    Collaborative Writing
-                  </h2>
-                </div> <!-- close header red -->
+              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                  Collaborative Writing
+              </h2>
               <p>
                 Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
               </p>
