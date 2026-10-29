@@ -236,7 +236,7 @@ title: Beginner Resources
                     Transparency makes research processes, decisions, and outputs more visible and accessible to others.
                   </p>
                   <details>
-                    <summary>
+                    <summary style="margin-left: 30px;">
                       Click to expand
                     </summary>
                       <div class="card card-lighterblue">
@@ -332,7 +332,7 @@ title: Beginner Resources
                       can be regenerated from the original data and analytic workflow.
                     </p>
                     <details>
-                      <summary>
+                      <summary style="margin-left: 30px;">
                         Click to expand
                       </summary>
                         <div class="card card-lighterblue">
