@@ -45,14 +45,14 @@ title: Advanced Resources
     <main class="content" style="flex:1;">
       <!-- MANAGING GLOBAL TEAMS -->
           <div id="managingglobalteams" class="header-red">
-            <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#FFFFFF;">
+            <h2 style="text-align:center;margin-bottom:0;margin-top:0;color:#364362;">
               Managing Global Teams
             </h2>
           </div> <!-- closing header red -->
           <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap; margin-top:20px;">
             <!-- LEFT -->
             <div style="flex:1; min-width:300px;">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF">
+                <h2 style="margin-bottom:0;margin-top:0;color:#364362">
                   Time Zones
                 </h2>
                 <p>
@@ -81,7 +81,7 @@ title: Advanced Resources
             </div>  <!-- closing left -->
             <!-- RIGHT -->
             <div style="flex:1; min-width:300px;">
-              <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+              <h2 style="margin-bottom:0;margin-top:0;color:#364362;">
                   Collaborative Writing
               </h2>
               <p>
