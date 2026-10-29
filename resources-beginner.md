@@ -25,9 +25,6 @@ title: Beginner Resources
         <a href="#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> 
           <ul>
             <li>
-              <a href="#bigteamscience"> <strong> What is Big Team Science (BTS)? and Why it is Important? </strong></a>
-            </li>
-            <li>
               <a href="#acrossfields"> <strong> How has BTS been implemented across different research fields? </strong></a>
             </li>
           </ul>
@@ -56,21 +53,17 @@ title: Beginner Resources
   <!-- PAGE CONTENT -->
     <main class="content" style="flex:1 1 0; min-width:0; width:0;">
       <!-- BIG TEAM SCIENCE -->
-        <div style="display: flex; width: 100%; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="box-yellow">
-            <div class="box-white">
-              <div id="introductiontoBTS" class="header-teal">
-                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  Introduction to Big Team Science (BTS)
-                </h2>
-              </div> <!--- closing header teal --->
-              <br>
-              <div id="bigteamscience" class="sidebar-subheading">
-                <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
-                  What is Big Team Science (BTS) and Why it is Important
-                </h3>
-              </div>
-              <p>Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
+        <div id="introductiontoBTS" style="display: flex; width: 100%; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+          <div  class="header-teal">
+            <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+              Introduction to Big Team Science (BTS)
+            </h2>
+          </div> <!--- closing header teal --->
+          <br>
+            <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+              What is Big Team Science (BTS) and Why it is Important
+            </h3>
+            <p>Big Team Science (BTS) brings together large groups of researchers to pool their expertise and resources around a shared research goal <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
               <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>. By pooling expertise and resources, these collaborations can undertake studies that may be difficult for a single research team to conduct alone 
               <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
               <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
@@ -78,40 +71,56 @@ title: Beginner Resources
               In psychology and related fields, BTS has grown alongside Open Science as a complementary approach to addressing challenges related to research credibility and generalizability
               <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>, <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>,
               <a href="https://journals.sagepub.com/doi/10.1177/2515245918797607">[4]</a>
-              </p> 
-              <details>
-                <summary><i>Resources</i></summary>
-                  <br>
-                    <ul>
+            </p> 
+            <details>
+              <summary><i>Resources</i></summary>
+                <br>
+                  <ul>
                     <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">Building up Big Team Science <i>(Coles et al., 2022)</i></a><br>Provides an overview of BTS, as well as recommendations for expanding collaborative research.
                     </li>
                     <br>
                     <li><a href="https://doi.org/10.1177/17456916221082970" target="_blank">Benefits, Barriers, and Risks of Big Team Science <i>(Forscher et al., 2023)</i></a> <i>(<a href="https://doi.org/10.31234/osf.io/2mdxh" target="_blank">Preprint</a>)</i><br>
                     This work highlights the importance of BTS and how it can propel research to tackle issues of reproducibility and transparency while also discussing its drawbacks.
                     </li>
-                    </ul>
-              </details>
+                  </ul>
+            </details>
+            <br>
+            <div id="acrossfields" class="sidebar-subheading">
+              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                How has BTS been implemented across different research fields?
+              </h3>
               <br>
-              <div id="acrossfields" class="sidebar-subheading">
-                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">How has BTS been implemented across different research fields?</h3>
-              </div>
-              <br>
-                <details>
-                  <summary><i>Resources</i></summary>
-                    <br>
-                     <ul>
-                      <li><a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6" target="_blank">Neuroscience <i>(Koch & Jones, 2016)</i></a>
-                      </li>
-                      <li><a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="_blank">Cognitive Science <i>(Vaidis et al., 2026)</i></a>
-                      </li>
-                      <li><a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full" target="_blank">Conservation <i>(Diffendorfer et al., 2023)</i></a>
-                      </li>
-                      <li><a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers" target="_blank">Canine Behaviour and Cognition <i>(Alberghina et al., 2023)</i></a>                
-                      </li>
-                     </ul>
-                </details>
-            </div> <!--- close box white -->
-          </div> <!--- close box yellow -->
+              <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
+              <!--- Card 1: Neuroscience --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong> Neuroscience </strong>
+                  <a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6"> (Koch & Jones, 2016)</a>
+                </p>
+              </div> <!--- closing card 1 --->
+              <!--- Card 2: Conservation --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong> Conservation </strong>
+                  <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full"> (Diffendorfer et al., 2023)</a>
+                </p>
+              </div> <!-- closing card 2 --->
+              <!--- Card 3: Cognitive science --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong> Cognitive Science </strong>
+                  <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned"> (Vaidis et al., 2026)</a>
+                </p>
+              </div> <!--- closing card 3 --->
+              <!--- Card 4: Canine --->
+              <div class="card card-lighterteal">
+                <p>
+                  <strong> Canine Behaviour & Cognition </strong>
+                  <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers"> (Alberghina et al., 2023)</a>
+                </p>
+              </div> <!-- closing card 4 --->
+              </div> <!---- closing grid --->
+            </div> <!--- closing the id tab --->
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
         <div style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
