@@ -83,6 +83,7 @@ title: Beginner Resources
             </p> 
             <details>
               <summary><i>Resources</i></summary>
+                <div style="margin-left: 30px;">
                 <br>
                   <ul>
                     <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">
@@ -106,6 +107,7 @@ title: Beginner Resources
                       transparency while also discussing its drawbacks.
                     </li>
                   </ul>
+                <div> <!--- closing collapsible --->
             </details>
             <br>
             <div id="acrossfields" class="sidebar-subheading">
