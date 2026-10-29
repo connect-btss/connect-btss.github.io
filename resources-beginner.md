@@ -220,7 +220,7 @@ title: Beginner Resources
           </div> <!--- closing teal header --->
           <br>
           <div id="credibility" class="sidebar-subheading">
-            <h3 style="margin-bottom:0;margin-top:0;margin-left:30px;color:#364362;text-align: center;">
+            <h3 style="margin-bottom:0;margin-top:0;margin-left:30px;color:#364362;">
               Credibility
             </h3>
             <p style="margin-left: 30px;">
