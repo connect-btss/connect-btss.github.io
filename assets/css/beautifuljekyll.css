@@ -1377,6 +1377,31 @@ table {
   color: #364362;
 }
 
+.card-lighteryellow {
+  background-color: #FFF7D8;
+  color: #364362;
+}
+
+.card-lighterteal {
+  background-color: #E8F7FC;
+  color: #364362;
+}
+
+.card-lighterred {
+  background-color: #FFF7F4;
+  color: #364362;
+}
+
+.card-lighterpurple {
+  background-color: #F3EFFD;
+  color: #364362;
+}
+
+.card-lighterblue {
+  background-color: #E8F7FC;
+  color: #364362;
+}
+
 /* Benefits and costs cards */
 .bts-comparison {
   display: grid;
