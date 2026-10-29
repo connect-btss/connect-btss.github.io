@@ -192,7 +192,7 @@ title: Beginner Resources
                       <p>
                         Transparency makes research processes, decisions, and outputs more visible and accessible to others.
                       </p>
-                      <div class="box-lightblue">
+                      <div class="card card-lighterblue">
                         <div class="box-white">
                           <div class="header-blue">
                             <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">How to make your research more transparent?</h3>
@@ -261,7 +261,7 @@ title: Beginner Resources
                             </li>
                           </ul>
                         </div> <!--- close box white --->
-                      </div> <!--- closing lightblue box --->
+                      </div> <!--- closing card lighterblue --->
                     </div> <!--- closing transparency --->
                   </li>
                   <br>
@@ -271,7 +271,7 @@ title: Beginner Resources
                         Replication and Reproducibility
                       </h3>
                       <p>Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.</p>
-                        <div class="box-lightblue">
+                        <div class="card card-lighterblue">
                           <div class="box-white">
                             <div class="header-blue">
                               <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF;"> 
@@ -317,7 +317,7 @@ title: Beginner Resources
                                 </ul>
                             </details>
                           </div> <!-- closing box white --->
-                        </div> <!--- closing box lightblue --->
+                        </div> <!--- closing card lighterblue --->
                     </div> <!-- closing replication --->
                   </li>
                 </ul>
@@ -334,7 +334,7 @@ title: Beginner Resources
                 <p>
                    Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
                 </p>
-                <div class="box-lightblue">
+                <div class="card card-lighterblue">
                   <div class="box-white">
                     <div id="WEIRDresearch" class="header-blue">
                       <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
@@ -357,7 +357,7 @@ title: Beginner Resources
                         </ul>
                     </details>
                   </div> <!--- close box white --->
-                </div> <!--- close box lightblue --->
+                </div> <!--- close card lighterblue --->
               </div> <!-- closing generalizability --->
             </div> <!--- closing box white -->
           </div> <!--- closing box purple --->
