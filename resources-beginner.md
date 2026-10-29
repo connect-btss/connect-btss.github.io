@@ -63,7 +63,8 @@ title: Beginner Resources
             <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
               What is Big Team Science (BTS) and Why it is Important
             </h3>
-            <p>Big Team Science (BTS) brings together large groups of researchers 
+            <p style="margin-left: 30px;">
+              Big Team Science (BTS) brings together large groups of researchers 
               to pool their expertise and resources around a shared research goal 
               <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
               <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcap0000216">[2]</a>. 
