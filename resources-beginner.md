@@ -60,7 +60,7 @@ title: Beginner Resources
             </h2>
           </div> <!--- closing header teal --->
           <br>
-            <h3 style="margin-bottom:0;margin-top:0;color:#364362;"> 
+            <h3 style="margin-left: 30px;margin-bottom:0;margin-top:0;color:#364362;"> 
               What is Big Team Science (BTS) and Why it is Important
             </h3>
             <p style="margin-left: 30px;">
