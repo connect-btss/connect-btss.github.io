@@ -436,7 +436,6 @@ title: Beginner Resources
               <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
                 For students and trainees considering joining
               </h3>
-              <br>
               <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
               <!--- Card 1: Existing skills --->
               <div class="card card-lighterteal">
