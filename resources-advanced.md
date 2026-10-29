@@ -60,7 +60,7 @@ title: Advanced Resources
                 </p>
               <br>
                 <details>
-                  <summary><i>Resources</i></summary>
+                  <summary style="margin-left: 30px;"><i>Resources</i></summary>
                     <br>
                     <ul>
                       <li>
