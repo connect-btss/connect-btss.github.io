@@ -151,11 +151,11 @@ title: Beginner Resources
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
         <div id="WhatisOSrelatestoBTS?" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
-          <div class="header-red">
+          <div class="header-teal">
             <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
               What is Open Science and How does it relate to BTS?
             </h2>
-            </div> <!--- closing header red --->
+            </div> <!--- closing header teal --->
               <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
               <!--- left column --->
               <div style="flex:1; min-width:300px;">
