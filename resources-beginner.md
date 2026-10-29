@@ -120,7 +120,7 @@ title: Beginner Resources
                 <!--- Card 1: Neuroscience --->
                 <div class="card card-lighteryellow">
                   <p class="centered-text">
-                    <strong> Neuroscience </strong>
+                    <strong class="centered-text"> Neuroscience </strong>
                     <br>
                     <a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6">(Koch & Jones, 2016)</a>
                   </p>
@@ -128,7 +128,7 @@ title: Beginner Resources
                 <!--- Card 2: Conservation --->
                 <div class="card card-lighteryellow">
                   <p class="centered-text">
-                    <strong> Conservation </strong>
+                    <strong class="centered-text"> Conservation </strong>
                     <br>
                     <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full">(Diffendorfer et al., 2023)</a>
                   </p>
@@ -136,7 +136,7 @@ title: Beginner Resources
                 <!--- Card 3: Cognitive science --->
                 <div class="card card-lighteryellow">
                   <p class="centered-text">
-                    <strong> Cognitive Science </strong>
+                    <strong class="centered-text"> Cognitive Science </strong>
                     <br>
                     <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned">(Vaidis et al., 2026)</a>
                   </p>
@@ -144,7 +144,7 @@ title: Beginner Resources
                 <!--- Card 4: Canine --->
                 <div class="card card-lighteryellow">
                   <p class="centered-text">
-                    <strong> Canine Behaviour & Cognition </strong>
+                    <strong class="centered-text"> Canine Behaviour & Cognition </strong>
                     <br>
                     <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers">(Alberghina et al., 2023)</a>
                   </p>
