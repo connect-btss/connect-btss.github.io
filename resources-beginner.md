@@ -110,7 +110,7 @@ title: Beginner Resources
               </details>
             </div> <!--- close left column --->
             <!--- right  column --->
-            <div class="flex-item" style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+            <div class="flex-item" style="display: inline-block; flex: 1; min-width: 250px;">
               <div id="acrossfields" class="sidebar-subheading">
                 <div class="box-yellow" style="margin-left: 30px;">
                   <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
