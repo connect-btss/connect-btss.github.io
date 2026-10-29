@@ -583,7 +583,7 @@ title: Beginner Resources
                 beyond the scope of one lab, and develop new research skills
                 and open-science practices.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <div class="bts-card bts-benefit">
               <h3>Expand your network</h3>
               <p>
@@ -591,7 +591,7 @@ title: Beginner Resources
                 connect with peers and mentors, and build relationships
                 that may lead to future collaborations.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <div class="bts-card bts-benefit">
               <h3>Gain recognition</h3>
               <p>
@@ -600,7 +600,7 @@ title: Beginner Resources
                 potentially earn authorship or develop a thesis, dissertation,
                 or related research project.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <div class="bts-card bts-benefit">
               <h3>Grow as a researcher</h3>
               <p>
@@ -609,8 +609,8 @@ title: Beginner Resources
                 and prepare to take on greater responsibility or lead a BTS
                 project or subproject in the future.
               </p>
-            </div>
-          </div>
+            </div> <!--- closing card --->
+          </div> <!--- closing card set --->
           <h3 style="margin-left: 30px;">
             Potential costs and challenges
           </h3>
@@ -623,7 +623,7 @@ title: Beginner Resources
                 unfamiliar methods and workflows can add to your workload,
                 which may be greater than you initially expect.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <div class="bts-card bts-cost">
               <h3>Plan for longer timelines</h3>
               <p>
@@ -634,7 +634,7 @@ title: Beginner Resources
                 project's timeline aligns with your degree plans, graduation
                 requirements, and application deadlines.
               </p>
-            </div>
+            </div> <!--- closing card --->
             <div class="bts-card bts-cost">
               <h3>Understand the limits of independence</h3>
               <p>
@@ -643,11 +643,10 @@ title: Beginner Resources
                 policies may also determine when you can access data,
                 present findings, or pursue follow-up research.
               </p>
-            </div>
-          </div>
-        </div>
-      </div> <!--- closing flex --->
-      <!--- tools --->
+            </div> <!--- closing card --->
+          </div> <!--- closing card set --->
+        </div> <!--- closing getting involved --->
+        <!--- tools --->
         <br>
         <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
           <div class="box-yellow">
