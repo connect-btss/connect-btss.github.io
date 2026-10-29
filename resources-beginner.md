@@ -566,7 +566,6 @@ title: Beginner Resources
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
         </details>
-        <br>
         <div class="header-teal">
           <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
             Consider the Benefits and Costs
@@ -647,7 +646,6 @@ title: Beginner Resources
           </div> <!--- closing card set --->
         </div> <!--- closing getting involved --->
         <!--- tools --->
-        <br>
         <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
           <div class="box-yellow">
               <div id="intrototools" class="header-blue">
