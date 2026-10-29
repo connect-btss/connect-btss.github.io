@@ -86,40 +86,42 @@ title: Beginner Resources
             </details>
             <br>
             <div id="acrossfields" class="sidebar-subheading">
-              <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
-                How has BTS been implemented across different research fields?
-              </h3>
-              <br>
-              <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
-              <!--- Card 1: Neuroscience --->
-              <div class="card card-lighterteal">
-                <p>
-                  <strong> Neuroscience </strong>
-                  <a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6"> (Koch & Jones, 2016)</a>
-                </p>
-              </div> <!--- closing card 1 --->
-              <!--- Card 2: Conservation --->
-              <div class="card card-lighterteal">
-                <p>
-                  <strong> Conservation </strong>
-                  <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full"> (Diffendorfer et al., 2023)</a>
-                </p>
-              </div> <!-- closing card 2 --->
-              <!--- Card 3: Cognitive science --->
-              <div class="card card-lighterteal">
-                <p>
-                  <strong> Cognitive Science </strong>
-                  <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned"> (Vaidis et al., 2026)</a>
-                </p>
-              </div> <!--- closing card 3 --->
-              <!--- Card 4: Canine --->
-              <div class="card card-lighterteal">
-                <p>
-                  <strong> Canine Behaviour & Cognition </strong>
-                  <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers"> (Alberghina et al., 2023)</a>
-                </p>
-              </div> <!-- closing card 4 --->
-              </div> <!---- closing grid --->
+              <div class="box-yellow">
+                <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                  How has BTS been implemented across different research fields?
+                </h3>
+                <br>
+                <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
+                <!--- Card 1: Neuroscience --->
+                <div class="card card-lighterteal">
+                  <p>
+                    <strong> Neuroscience </strong>
+                    <a href="https://www.cell.com/neuron/fulltext/S0896-6273(16)30720-6"> (Koch & Jones, 2016)</a>
+                  </p>
+                </div> <!--- closing card 1 --->
+                <!--- Card 2: Conservation --->
+                <div class="card card-lighterteal">
+                  <p>
+                    <strong> Conservation </strong>
+                    <a href="https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1079025/full"> (Diffendorfer et al., 2023)</a>
+                  </p>
+                </div> <!-- closing card 2 --->
+                <!--- Card 3: Cognitive science --->
+                <div class="card card-lighterteal">
+                  <p>
+                    <strong> Cognitive Science </strong>
+                    <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned"> (Vaidis et al., 2026)</a>
+                  </p>
+                </div> <!--- closing card 3 --->
+                <!--- Card 4: Canine --->
+                <div class="card card-lighterteal">
+                  <p>
+                    <strong> Canine Behaviour & Cognition </strong>
+                    <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1101&context=cbbbpapers"> (Alberghina et al., 2023)</a>
+                  </p>
+                </div> <!-- closing card 4 --->
+                </div> <!---- closing grid --->
+              </div> <!--- closing yellow box --->
             </div> <!--- closing the id tab --->
         </div> <!--- close block -->
       <!--- WHAT IS OS & BTS --->
