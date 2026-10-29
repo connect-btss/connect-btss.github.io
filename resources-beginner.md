@@ -61,7 +61,7 @@ title: Beginner Resources
             <div class="box-white">
               <div id="introductiontoBTS" class="header-teal">
                 <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                  Introduction to Big Team Science (BTS) and Why it is Important?
+                  Introduction to Big Team Science (BTS)
                 </h2>
               </div> <!--- closing header teal --->
               <br>
