@@ -342,7 +342,6 @@ title: Beginner Resources
                                 What is the Replication Crisis?
                               </h3>
                             </div> <!--- closing header blue -->
-                            <br>
                             <p style="font-size: 16px;">
                               Replication of previous research designs allow 
                               researchers to verify findings, and confirm the 
@@ -398,38 +397,41 @@ title: Beginner Resources
             <br>
             <div class="box-white">
               <div id="generalizability" class="sidebar-subheading">
-                <div class="header-purple">
-                  <h3 style="margin-bottom:0;margin-top:0;color:#FFFFFF; text-align: center;">
-                    Generalizability and Representativeness
-                  </h3>
-                </div> <!--- closing header purple -->
-                <p>
+                <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;margin-left: 30px;">
+                  Generalizability and Representativeness
+                </h2>
+                <p style="margin-left: 30px;">
                    Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
                 </p>
-                <div class="card card-lighterblue">
-                  <div class="box-white">
-                    <div id="WEIRDresearch" class="header-blue">
-                      <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
-                        Why has Research Historically Focused on WEIRD Populations?
-                      </h4>
-                    </div>
-                    <p style="font-size: 16px;"> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
-                    <details>
-                      <summary><i>Resources</i></summary>
-                        <ul>
-                          <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
-                            The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
-                          </li>  
-                          <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
-                            Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
-                          </li>
-                          <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
-                            Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
-                          </li>
-                        </ul>
-                    </details>
-                  </div> <!--- close box white --->
-                </div> <!--- close card lighterblue --->
+                <details>
+                  <summary>
+                    Click to expand
+                  </summary>
+                    <div class="card card-lighterblue">
+                      <div class="box-white">
+                        <div id="WEIRDresearch" class="header-blue">
+                          <h4 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
+                            Why has Research Historically Focused on WEIRD Populations?
+                          </h4>
+                        </div>
+                        <p style="font-size: 16px;"> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
+                        <details>
+                          <summary><i>Resources</i></summary>
+                            <ul>
+                              <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
+                                The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
+                              </li>  
+                              <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
+                                Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
+                              </li>
+                              <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
+                                Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
+                              </li>
+                            </ul>
+                        </details>
+                      </div> <!--- close box white --->
+                    </div> <!--- close card lighterblue --->
+                </details>
               </div> <!-- closing generalizability --->
             </div> <!--- closing box white -->
         <br>
