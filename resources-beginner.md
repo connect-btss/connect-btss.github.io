@@ -42,7 +42,15 @@ title: Beginner Resources
             </li>
           </ul>
         <a href="#gettinginvolved" class="sidebar-subheading">Getting Involved in BTS and OS</a>
-        <a href="#intrototools" class="sidebar-subheading">Introduction to Infrastructure and Tools for BTS and OS </a>
+          <ul>
+            <li> 
+              <a href="#thingstocheck" class="siderbar-subheading">Things to Check and Consider Before Joining</a>
+            </li>
+            <li>
+              <a href="#forstudents" class="siderbar-subheading">For Students and Trainees Considering Joining</a>
+            </li>
+          </ul>
+        <a href="#intrototools" class="sidebar-subheading">Introduction to Tools for BTS and OS </a>
     </aside>
 
   <!-- PAGE CONTENT -->
