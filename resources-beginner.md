@@ -449,7 +449,6 @@ title: Beginner Resources
                   Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
                 </p>
               </div>
-              
               <!-- Card 2: Skills to develop -->
               <div class="card card-teal">
                 <div class="header-blue">
@@ -461,7 +460,7 @@ title: Beginner Resources
                   If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
                 </p>
               </div>
-            
+              
               <!-- Card 3: Discuss with supervisor -->
               <div class="card card-teal">
                 <div class="header-blue">
@@ -473,6 +472,7 @@ title: Beginner Resources
                   Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
                 </p>
               </div>
+            </div>
             </div>
             <br>
              <div class="box-white">
@@ -508,7 +508,6 @@ title: Beginner Resources
                     or related research project.
                   </p>
                 </div>
-            
                 <div class="bts-card bts-benefit">
                   <h3>Grow as a researcher</h3>
                   <p>
