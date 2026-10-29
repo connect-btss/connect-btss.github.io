@@ -430,7 +430,8 @@ title: Beginner Resources
                     </div> <!--- close card lighterblue --->
                 </details>
               </div> <!-- closing generalizability --->
-        <br>
+            <br>
+        <!---- closing challenges section --->
       <!--- getting involved in BTS --->
         <div id="gettinginvolved" style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 20px;">
           <div class="box-red">
