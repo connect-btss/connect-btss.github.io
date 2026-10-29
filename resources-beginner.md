@@ -25,41 +25,57 @@ title: Beginner Resources
         <a href="#introductiontoBTS" class="sidebar-subheading">Introduction to BTS</a> 
           <ul>
             <li>
-              <a href="#acrossfields"> <strong> How has BTS been implemented across different research fields? </strong></a>
+              <a href="#acrossfields"> <strong> How has BTS been implemented across 
+              different research fields? </strong></a>
             </li>
           </ul>
-        <a href="#WhatisOSrelatestoBTS?" class="sidebar-subheading">What is Open Science and How does it relate to BTS?</a>
-        <a href="#WhatdoesBTSandOSaddress" class="sidebar-subheading">What challenges do BTS and OS address?</a>
+        <a href="#WhatisOSrelatestoBTS?" class="sidebar-subheading">
+          What is Open Science and How does it relate to BTS?
+        </a>
+        <a href="#WhatdoesBTSandOSaddress" class="sidebar-subheading">
+          What challenges do BTS and OS address?
+        </a>
           <ul>
             <li>
               <a href="#credibility"> <strong> Credibility </strong> </a>
             </li>
             <li>
-              <a href="#generalizability"> <strong> Generalizability and Representativeness </strong> </a>
+              <a href="#generalizability"> <strong> Generalizability and 
+              Representativeness </strong> </a>
             </li>
           </ul>
-        <a href="#gettinginvolved" class="sidebar-subheading">Getting Involved in BTS and OS</a>
+        <a href="#gettinginvolved" class="sidebar-subheading">
+          Getting Involved in BTS and OS
+        </a>
           <ul>
             <li> 
-              <a href="#thingstocheck" class="siderbar-subheading">Things to Check and Consider Before Joining</a>
+              <a href="#thingstocheck" class="siderbar-subheading">
+                Things to Check and Consider Before Joining
+              </a>
             </li>
             <li>
-              <a href="#forstudents" class="siderbar-subheading">For Students and Trainees Considering Joining</a>
+              <a href="#forstudents" class="siderbar-subheading">
+                For Students and Trainees Considering Joining
+              </a>
             </li>
           </ul>
-        <a href="#intrototools" class="sidebar-subheading">Introduction to Tools for BTS and OS </a>
+        <a href="#intrototools" class="sidebar-subheading">
+          Introduction to Tools for BTS and OS 
+        </a>
     </aside>
 
   <!-- PAGE CONTENT -->
     <main class="content" style="flex:1 1 0; min-width:0; width:0;">
       <!-- BIG TEAM SCIENCE -->
-        <div id="introductiontoBTS" style="display: flex; width: 100%; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
+        <div id="introductiontoBTS" style="display: flex; width: 100%; gap: 
+        20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
           <div  class="header-teal">
             <h2 style="margin-bottom:0;margin-top:0;color:#FFFFFF;">
               Introduction to Big Team Science (BTS)
             </h2>
           </div> <!--- closing header teal --->
-          <div class="flex-container" style="display:flex; gap:30px; flex-wrap:wrap; align-items:flex-start;">
+          <div class="flex-container" style="display:flex; gap:30px; 
+          flex-wrap:wrap; align-items:flex-start;">
             <!--- left column --->
             <div style="flex:1; min-width:300px;">
               <p style="margin-left: 30px;">
@@ -85,7 +101,8 @@ title: Beginner Resources
                   <div style="margin-left: 30px;">
                   <br>
                     <ul>
-                      <li><a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">
+                      <li>
+                        <a href="https://www.nature.com/articles/d41586-022-00150-2" target="_blank">
                         Building up Big Team Science 
                         <i>(Coles et al., 2022)</i>
                         </a>
@@ -198,7 +215,7 @@ title: Beginner Resources
                 </div> <!--- closing text item --->
               </div> <!--- closing left column --->
               <!--- right  column --->
-              <div class="flex-item" style="border: 15px solid #364362; padding: 12px; border-radius: 10px; background: white; display: inline-block; flex: 1; min-width: 250px;">
+              <div class="flex-item" style="display: inline-block; flex: 1; min-width: 250px;">
                 <br>
                   <a href="https://science.gc.ca/site/science/en/open-science" target="_blank">
                     <img 
