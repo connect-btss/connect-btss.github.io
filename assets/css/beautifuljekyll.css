@@ -1436,11 +1436,14 @@ table {
 }
 
 /* custom added by Rebeca for sidebar */
+
 .side-index {
   position: sticky;
   top: 20px;
   flex: 0 0 250px;
   width: 250px;
+  box-sizing: border-box;
+  margin-left: -30px; /* Moves sidebar left; adjust as needed */
   background-color: #364362;
   padding: 20px;
   border-radius: 10px;
@@ -1462,24 +1465,23 @@ table {
   margin-bottom: 12px;
 }
 
+/* Regular sidebar links */
 .side-index a {
   color: #FFFFFF;
   text-decoration: none;
+  font-size: 14px; /* Smaller regular text */
+  line-height: 1.4;
 }
 
 .side-index a:hover {
   color: #FEC51D;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
-/* adding subheadings within sidebar */
+/* Yellow subheadings */
 .side-index .sidebar-subheading {
   display: block;
   color: #FEC51D;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -1491,6 +1493,11 @@ html {
 .side-index .sidebar-subheading:hover {
   color: #FFFFFF;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 
 /* Bottom-right popup added by Rebeca */
 
