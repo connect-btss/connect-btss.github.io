@@ -10,7 +10,8 @@ title: Advanced Resources
 </style>
 
 
-> If you would like to suggest a resource for this list, please fill out our [CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
+> If you would like to suggest a resource for this list, please fill out our 
+[CONNECT Big Team Science Resource form](https://airtable.com/appMCLqgWxKrCa1Ga/pagaHZD8u1pHS6FHm/form)
 
 > [View resources for beginners]({{site.baseurl}}/resources-beginner)
 
@@ -56,7 +57,11 @@ title: Advanced Resources
                   Time Zones
                 </h2>
                 <p>
-                  Big Team Science (BTS) encourages large-scale collaboration amongst individuals from various countries and regions. This requires the management of many different time zones. Within BTS, establishing an equitable approach to managing these times zones has proven to be logistically challenging.
+                  Big Team Science (BTS) encourages large-scale collaboration 
+                  amongst individuals from various countries and regions. This 
+                  requires the management of many different time zones. Within 
+                  BTS, establishing an equitable approach to managing these 
+                  times zones has proven to be logistically challenging.
                 </p>
               <br>
                 <details>
@@ -68,7 +73,8 @@ title: Advanced Resources
                           Time Zone Cheat Sheet
                         </a>
                         <br>
-                        This guide provides a range of suggestions and resources meant to minimize the impact of time zones on BTS projects.
+                        This guide provides a range of suggestions and resources 
+                        meant to minimize the impact of time zones on BTS projects.
                       </li>  
                       <li>
                         <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned" target="blank" rel="noopener noreferrer"> 
@@ -85,7 +91,10 @@ title: Advanced Resources
                   Collaborative Writing
               </h2>
               <p>
-                Writing in Big Team Science is a collaborative process that brings together researchers with different expertise. Clear communication, defined roles, and shared writing workflows help teams coordinate contributions, manage feedback, and develop high-quality manuscripts.
+                Writing in Big Team Science is a collaborative process that brings 
+                together researchers with different expertise. Clear communication, 
+                defined roles, and shared writing workflows help teams coordinate 
+                contributions, manage feedback, and develop high-quality manuscripts.
               </p>
               <br>
                 <details>
@@ -94,12 +103,14 @@ title: Advanced Resources
                   <ul>
                     <li>
                       <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013283" target="_blank" rel="noopener noreferrer">
-                        Collaborative Writing: Ten Simple Rules for Leading a Many-Author Non-Empirical Paper
+                        Collaborative Writing: Ten Simple Rules for Leading a 
+                        Many-Author Non-Empirical Paper
                       </a>
                     </li>
                     <li>
                       <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1" target="_blank" rel="noopener noreferrer">
-                        Planning and Agreement for Collaborative Teams (PACT): Introducing a Tool to Facilitate Research Collaboration
+                        Planning and Agreement for Collaborative Teams (PACT): 
+                        Introducing a Tool to Facilitate Research Collaboration
                       </a>
                       <i>(Preprint)</i>
                     </li>
