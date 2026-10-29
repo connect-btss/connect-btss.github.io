@@ -229,7 +229,7 @@ title: Beginner Resources
             <ul>
               <li>
                 <div id="transparency" class="sidebar-subheading">
-                  <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                  <h3 style="style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
                    Transparency
                   </h3>
                   <p style="margin-left: 30px;">
@@ -321,7 +321,7 @@ title: Beginner Resources
                 <br>
                 <li>
                   <div id="replication" class="sidebar-subheading">
-                    <h3 style="margin-bottom:0;margin-top:0;color:#364362;">
+                    <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
                       Replication and Reproducibility
                     </h3>
                     <p style="margin-left: 30px;"> 
