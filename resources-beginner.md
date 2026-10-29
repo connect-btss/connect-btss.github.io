@@ -161,7 +161,7 @@ title: Beginner Resources
               <div style="flex:1; min-width:300px;">
                 <!--- text --->
                 <div class="flex-item sidebar-subheading" id="whatisOS">
-                  <p class="text-align: center;"> Open Science (OS) refers to a 
+                  <p style="margin-left: 30px;"> Open Science (OS) refers to a 
                     method of conducting research in which practices, processes, 
                     and results are transparent and accessible to the public 
                     <a href="https://science.gc.ca/site/science/en/open-science">[10]</a>,
@@ -193,7 +193,7 @@ title: Beginner Resources
               </div> <!--- closing flex item --->
               <br>
                 <details>
-                  <summary class="text-align: center;"><i>Resources</i></summary>
+                  <summary style="margin-left: 30px;"><i>Resources</i></summary>
                   <br>
                   <ul>
                     <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
