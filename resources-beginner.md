@@ -310,7 +310,8 @@ title: Beginner Resources
                                 </details>
                               </li>
                             </ul>
-                        </div> <!--- closing card lighterblue --->
+                        </div> <!--- closing white box --->
+                      </div> <!--- closing card lighterblue --->
                   </details>
                 </div> <!--- closing transparency --->
                 </li>
