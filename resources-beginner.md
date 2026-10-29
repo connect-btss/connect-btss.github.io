@@ -161,9 +161,9 @@ title: Beginner Resources
               <div style="flex:1; min-width:300px;">
                 <!--- text --->
                 <div class="flex-item sidebar-subheading" id="whatisOS">
-                  <p>Open Science (OS) refers to a method of conducting research 
-                    in which practices, processes, and results are transparent 
-                    and accessible to the public 
+                  <p class="text-align: center;">Open Science (OS) refers to a 
+                    method of conducting research in which practices, processes, 
+                    and results are transparent and accessible to the public 
                     <a href="https://science.gc.ca/site/science/en/open-science">[10]</a>,
                     Open Science practices are commonly incorporated into BTS to support transparency, reproducibility, and collaboration across large, distributed research teams
                     <a href="https://www.google.com/url?q=https://doi.org/10.1098/rsos.230235&sa=D&source=docs&ust=1793152546976917&usg=AOvVaw3BlziuQYZD5IKJyF2iz5Dx">[1]</a>, 
@@ -192,7 +192,7 @@ title: Beginner Resources
               </div> <!--- closing flex item --->
               <br>
                 <details>
-                  <summary><i>Resources</i></summary>
+                  <summary class="text-align: center;"><i>Resources</i></summary>
                   <br>
                   <ul>
                     <li><a href="https://science.gc.ca/site/science/en/open-science" target="_blank">What is Open Science? <i>(Government of Canada)</i></a><br>
