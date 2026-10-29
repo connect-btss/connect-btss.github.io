@@ -630,7 +630,7 @@ title: Beginner Resources
             </div>
           </div>
         </div>
-    </div> <!--- closing flex --->
+      </div> <!--- closing flex --->
       <!--- tools --->
         <br>
         <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
