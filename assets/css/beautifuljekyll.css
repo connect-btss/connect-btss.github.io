@@ -1325,15 +1325,15 @@ table {
 .card {
   background-color: #FFFFFF;
   color: #364362;
-  padding: 10px;
+  padding: 5px;
   border: none;
-  border-radius: 10px;
-  margin: 10px 0;
+  border-radius: 5px;
+  margin: 5px 0;
   box-shadow: none;
   font-family: 'Open Sans', sans-serif;
   box-sizing: border-box;
   width: 100%;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 /* hover effect */
