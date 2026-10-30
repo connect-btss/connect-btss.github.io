@@ -701,5 +701,6 @@ title: Beginner Resources
 
 <script src="{{ site.baseurl }}/assets/js/popup.js"></script>
 
+***
     
- All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
+> All information has been collected from a variety of sources. We take responsibility for any errors in our dissemination of this information.
