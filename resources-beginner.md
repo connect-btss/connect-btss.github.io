@@ -682,7 +682,7 @@ title: Beginner Resources
           </ul>
         </div> <!--- closing flex -->
     </div> <!--- closing main content flex --->  
-
+</div> <!--- closing flex of main & sidebar --->
 
 <div id="resource-popup" class="resource-popup">
   <button id="close-popup" class="popup-close">&times;</button>
