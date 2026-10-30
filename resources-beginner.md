@@ -422,7 +422,10 @@ title: Beginner Resources
                   Generalizability and Representativeness
                 </h2>
                 <p style="margin-left: 30px;">
-                   Generalizability refers to the extent to which findings derived from a sample apply beyond that sample. Representativeness concerns the extent to which a sample reflects characteristics of the population relevant to the research question.
+                   Generalizability refers to the extent to which findings derived 
+                   from a sample apply beyond that sample. Representativeness 
+                   concerns the extent to which a sample reflects characteristics 
+                   of the population relevant to the research question.
                 </p>
                 <details>
                   <summary style="margin-left: 30px;">
@@ -435,18 +438,29 @@ title: Beginner Resources
                             Why has Research Historically Focused on WEIRD Populations?
                           </h3>
                         </div>
-                        <p style="font-size: 16px;"> Historically, research has oversampled North American University students. Within the research community, this population is often referred to using the ‘“WERID” acronym (Western, Educated, Industrialized, Rich, Democratic). BTS challenges this, by involving a network of individuals from across diverse locations.</p>
+                        <p style="font-size: 16px;"> Historically, research has 
+                        oversampled North American University students. Within 
+                        the research community, this population is often referred 
+                        to using the ‘“WERID” acronym (Western, Educated, Industrialized, 
+                        Rich, Democratic). BTS challenges this, by involving a network of 
+                        individuals from across diverse locations.</p>
                         <details>
                           <summary><i>Resources</i></summary>
                             <ul>
                               <li><a href="https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf" target="_blank">The Use of WEIRD Populations in Research <i>(Henrich et al., 2010)</i></a><br>
-                                The original article exploring the overrepresentation of WEIRD subjects in social and behavioural science studies.
+                                The original article exploring the overrepresentation 
+                                of WEIRD subjects in social and behavioural science studies.
                               </li>  
                               <li><a href="https://static1.squarespace.com/static/548f2ae8e4b068057bfcc7de/t/5f8ef176a5d2aa0c5c57d783/1603203450448/Go+WILD%2C+Not+WEIRD+2020.pdf" target="_blank">Go WILD not WEIRD <i>(Newson et al., 2017)</i></a><br>
-                                Offers a sampling approach known as WILD- Worldwide, In situ, local, diverse. This approach encourages a more representative and diverse sampling method, shifting reliance away from WEIRD populations.
+                                Offers a sampling approach known as WILD- Worldwide, 
+                                In situ, local, diverse. This approach encourages 
+                                a more representative and diverse sampling method, 
+                                shifting reliance away from WEIRD populations.
                               </li>
                               <li><a href="https://www.psichi.org/blogpost/987366/480469/Has-Psychology-Gotten-Any-Less-WEIRD" target="_blank">Has Psychology Gotten Less WEIRD? <i>(Brass & Charlton, 2022)</i></a><br>
-                                Explores the prevalence of WEIRD sampling in recent research, as well as an overview of literature exploring this sampling bias.
+                                Explores the prevalence of WEIRD sampling in 
+                                recent research, as well as an overview of 
+                                literature exploring this sampling bias.
                               </li>
                             </ul>
                         </details>
@@ -463,7 +477,12 @@ title: Beginner Resources
               Getting Involved in BTS and OS
             </h2>
           </div> <!-- close header teal --->
-          <p style="margin-left: 30px;">You do not need to start a new Big Team Science project to get involved. Start by exploring existing collaborations in your research area. Joining one can help you contribute to ongoing research, gain experience with large-scale collaboration, strengthen your Open Science skills, and connect with researchers who share your interests 
+          <p style="margin-left: 30px;">You do not need to start a new Big Team 
+          Science project to get involved. Start by exploring existing collaborations 
+          in your research area. Joining one can help you contribute to ongoing 
+          research, gain experience with large-scale collaboration, strengthen 
+          your Open Science skills, and connect with researchers who share your 
+          interests 
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
             <br>
@@ -475,7 +494,9 @@ title: Beginner Resources
             Things to Check and Consider Before Joining/Committing
           </h3>
           <p style="margin-left: 30px;">
-            If you find a specific project or network that interests you, the checklist below can help you decide whether, and how you or your lab might participate: 
+            If you find a specific project or network that interests you, the 
+            checklist below can help you decide whether, and how you or your 
+            lab might participate: 
           </p>
           <details>
             <summary style="margin-left: 30px;">
@@ -484,13 +505,20 @@ title: Beginner Resources
               <div class="card card-lighteryellow">
                 <p>
                   <strong>Is the project open to new collaborators?</strong>
-                    Look at the project webpage, manual, or online community (e.g., Slack, Zulip) to learn more about its current status <a href="#">[18]</a>.
+                    Look at the project webpage, manual, or online community 
+                    (e.g., Slack, Zulip) to learn more about its current status 
+                    <a href="#">[18]</a>.
                 </p>
               </div> <!--- close card yellow --->
               <div class="card card-lighterteal">
                 <p>
                   <strong>What kinds of contributions are needed?</strong>
-                    Look for opportunities to contribute, such as study design, materials development, translation, data collection, analysis, writing, or project coordination. Check the project’s participation guidelines, lab manual, or Collaboration Agreement to understand responsibilities, timelines, ethics requirements, and other expectations.
+                    Look for opportunities to contribute, such as study design, 
+                    materials development, translation, data collection, analysis, 
+                    writing, or project coordination. Check the project’s participation 
+                    guidelines, lab manual, or Collaboration Agreement to understand 
+                    responsibilities, timelines, ethics requirements, and other 
+                    expectations.
                 </p>
               </div> <!--- close card teal --->
               <div class="card card-lighterpurple">
@@ -502,24 +530,38 @@ title: Beginner Resources
               <div class="card card-lighterred">
                 <p>
                   <strong>Are there any restrictions on using or presenting the work?</strong>
-                   Check policies on when and where you can present project results, including for undergraduate projects, MA theses or dissertations, or conduct secondary analyses and spin-off projects. Look for any required permissions or conditions, including restrictions while data collection is ongoing.
+                   Check policies on when and where you can present project 
+                   results, including for undergraduate projects, MA theses or 
+                   dissertations, or conduct secondary analyses and spin-off projects. 
+                   Look for any required permissions or conditions, including 
+                   restrictions while data collection is ongoing.
                 </p>
               </div> <!--- close card lighterred --->
               <div class="card card-lighteryellow">
                 <p>
                   <strong>Are there any additional expectations that apply to collaborators?</strong>
-                   Look for documents such as network mission and values statements, codes of conduct, collaboration agreements, and governance or membership guidelines to understand how the team operates and what is expected of its members. Identify the project’s or network’s underlying values, as these may shape how decisions are made throughout the research process.
+                   Look for documents such as network mission and values statements, 
+                   codes of conduct, collaboration agreements, and governance or 
+                   membership guidelines to understand how the team operates and 
+                   what is expected of its members. Identify the project’s or 
+                   network’s underlying values, as these may shape how decisions 
+                   are made throughout the research process.
                 </p>
               </div> <!--- close card yellow --->
               <div class="card card-lighterteal">
                 <p>
                   <strong>How can I stay informed about future opportunities?</strong>
-                   Consider signing up for the network's mailing list, listserv, or other communication channels (e.g., Slack, Zulip) to receive announcements about new projects and opportunities to contribute.
+                   Consider signing up for the network's mailing list, listserv, 
+                   or other communication channels (e.g., Slack, Zulip) to receive 
+                   announcements about new projects and opportunities to contribute.
                 </p>
               </div> <!--- close card teal --->
           </details>
           <p style="margin-left: 30px;">
-            Once you understand what the opportunity involves, it will be helpful to weigh the potential benefits and costs of different roles and levels of involvement before deciding whether and how you and/or your group might participate 
+            Once you understand what the opportunity involves, it will be helpful 
+            to weigh the potential benefits and costs of different roles and levels 
+            of involvement before deciding whether and how you and/or your group 
+            might participate 
             <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
             <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
           </p>
@@ -539,7 +581,9 @@ title: Beginner Resources
                 </h3>
               </div> <!--- closing header --->
               <p>
-                Consider whether you have skills or experience in areas that would be useful to the project, such as writing documentation, coding in R, community building, or science communication.
+                Consider whether you have skills or experience in areas that 
+                would be useful to the project, such as writing documentation, 
+                coding in R, community building, or science communication.
               </p>
             </div> <!--- closing card --->
             <!-- Card 2: Skills to develop -->
@@ -550,7 +594,9 @@ title: Beginner Resources
                 </h3>
               </div> <!--- closing header --->
               <p>
-                If you are developing a skill and want more practice, ask whether there are opportunities to contribute with guidance or mentorship from more experienced collaborators.
+                If you are developing a skill and want more practice, ask 
+                whether there are opportunities to contribute with guidance 
+                or mentorship from more experienced collaborators.
               </p>
             </div> <!--- closing card --->
             <!-- Card 3: Discuss with supervisor -->
@@ -561,7 +607,11 @@ title: Beginner Resources
                 </h3>
               </div> <!--- closing header --->
               <p>
-                Discuss potential benefits, expected workload, and fit with your other research commitments. Clarify who would provide supervision or mentorship and whether you would need lab resources or approval to participate. If you hope to use the work toward your degree, check both the project’s policies and your program’s requirements.
+                Discuss potential benefits, expected workload, and fit with your 
+                other research commitments. Clarify who would provide supervision 
+                or mentorship and whether you would need lab resources or approval 
+                to participate. If you hope to use the work toward your degree, 
+                check both the project’s policies and your program’s requirements.
               </p>
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
@@ -682,7 +732,6 @@ title: Beginner Resources
           </ul>
         </div> <!--- closing flex -->
     </div> <!--- closing main content flex --->  
-</div> <!--- closing flex of main & sidebar --->
 
 <div id="resource-popup" class="resource-popup">
   <button id="close-popup" class="popup-close">&times;</button>
