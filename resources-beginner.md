@@ -652,7 +652,6 @@ title: Beginner Resources
               Introduction to Tools for BTS and OS
             </h2>
           </div>
-          <br>
           <ul>
             <li>
               <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
