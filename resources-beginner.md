@@ -248,7 +248,9 @@ title: Beginner Resources
               Credibility
             </h2>
             <p style="margin-left: 30px;">
-               Credible research refers to research that is trusted, reliable, and accurate. Transparency, replication, and reproducibility can help researchers evaluate and strengthen that credibility.
+               Credible research refers to research that is trusted, reliable, 
+               and accurate. Transparency, replication, and reproducibility can 
+               help researchers evaluate and strengthen that credibility.
             </p>
             <ul>
               <li>
@@ -257,7 +259,8 @@ title: Beginner Resources
                    Transparency
                   </h3>
                   <p style="margin-left: 30px;">
-                    Transparency makes research processes, decisions, and outputs more visible and accessible to others.
+                    Transparency makes research processes, decisions, and outputs 
+                    more visible and accessible to others.
                   </p>
                   <details>
                     <summary style="margin-left: 30px;">
@@ -275,7 +278,12 @@ title: Beginner Resources
                               <li>
                                 <strong>Pregrestistration vs Registered Report</strong>
                                 <p>
-                                  Replication and reproducibility provide ways to evaluate the trustworthiness of scientific findings [13,15]. Replication examines whether a finding can be observed again using new data, while reproducibility examines whether reported results can be regenerated from the original data and analytic workflow.
+                                  Replication and reproducibility provide ways to 
+                                  evaluate the trustworthiness of scientific findings 
+                                  [13,15]. Replication examines whether a finding can 
+                                  be observed again using new data, while reproducibility 
+                                  examines whether reported results can be regenerated 
+                                  from the original data and analytic workflow.
                                 </p>
                                 <table>
                                   <tr><th>Feature</th><th>Preregistration</th><th>Registered Reports</th>
@@ -391,16 +399,19 @@ title: Beginner Resources
                               <summary style="margin-left: 30px;"><i>Resources</i></summary>
                                 <ul>
                                   <li><a href="https://www.aje.com/arc/why-is-replication-in-research-important" target="_blank">Why is Replication in Research Important? (American Journal Experts)</a><br>
-                                    Describes the process of replication, and its importance in the scientific process.
+                                    Describes the process of replication, and its 
+                                    importance in the scientific process.
                                   </li>  
                                   <li><a href="https://www.ebsco.com/research-starters/science/replication-crisis" target="_blank">The History of the Replication Crisis (Caffrey, 2024)</a><br>
                                     Explains the origins of the replication crisis.
                                   </li>
                                   <li><a href="https://www.tandfonline.com/doi/epdf/10.1080/23743603.2019.1684822?needAccess=true" target="_blank">Implications of the Replication Crisis <i>(Anvari & Lakens, 2018)</i></a><br>
-                                    Explores the impact of the replication crisis on the public's trust in psychological science.
+                                    Explores the impact of the replication crisis 
+                                    on the public's trust in psychological science.
                                   </li> 
                                   <li><a href="https://pose.open.ubc.ca/open-research/open-workflows/reproducibility-and-replicability/" target="_blank">What is the Difference Between Replicability and Reproducibility? <i>(UBC)</i></a><br>
-                                    Differentiates replicability and reproducibility, by comparing how they utilize data sets.
+                                    Differentiates replicability and reproducibility, 
+                                    by comparing how they utilize data sets.
                                     <ul>
                                       <li><a href="https://forrt.org/glossary/english/computational_reproducibility/" target="_blank">Computational Reproducibility <i>(FORRT)</i></a>
                                       </li>
@@ -486,7 +497,11 @@ title: Beginner Resources
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://journals.sagepub.com/doi/10.1177/17456916221082970">[3]</a>.
             <br>
-            Big Team Science initiatives differ in how researchers can get involved. Some teams recruit by invitation or based on specific expertise, while others welcome collaborators across career stages, institutions, disciplines, and locations. Even within open networks, individual projects may accept new collaborators only at certain stages of the research process
+            Big Team Science initiatives differ in how researchers can get involved. 
+            Some teams recruit by invitation or based on specific expertise, while 
+            others welcome collaborators across career stages, institutions, 
+            disciplines, and locations. Even within open networks, individual projects 
+            may accept new collaborators only at certain stages of the research process
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
           </p>
@@ -524,7 +539,15 @@ title: Beginner Resources
               <div class="card card-lighterpurple">
                 <p>
                   <strong>How will my participation be recognized/remunerated?</strong>
-                    Review the project’s authorship or contribution guidelines, including any Collaboration Agreement, to understand the minimum contribution required for authorship, how many authors may be included from each laboratory or group, and whether contribution levels affect author order. Other potential benefits of participation include training in areas such as Open Science workflows, opportunities to contribute to conference presentations or press releases, and networking. Some BTS projects also offer limited funding to participating laboratories, although this is less common.
+                    Review the project’s authorship or contribution guidelines, 
+                    including any Collaboration Agreement, to understand the 
+                    minimum contribution required for authorship, how many authors 
+                    may be included from each laboratory or group, and whether 
+                    contribution levels affect author order. Other potential benefits 
+                    of participation include training in areas such as Open Science 
+                    workflows, opportunities to contribute to conference presentations 
+                    or press releases, and networking. Some BTS projects also offer 
+                    limited funding to participating laboratories, although this is less common.
                 </p>
               </div> <!--- close card lightpurple --->
               <div class="card card-lighterred">
@@ -704,26 +727,35 @@ title: Beginner Resources
           </div>
           <ul>
             <li>
-              <strong>Repository:</strong> An online archive for the storage of digital objects including research outputs, manuscripts, analysis code, and/or data (Lonsdorf, 2026).
+              <strong>Repository:</strong> An online archive for the storage of 
+              digital objects including research outputs, manuscripts, analysis 
+              code, and/or data (Lonsdorf, 2026).
             </li>
             <li>
-              <strong>Data Sharing:</strong> A collection of practices, data, and technologies that make research outputs accessible and reusable by other researchers (Elsherif et al., 2026).
+              <strong>Data Sharing:</strong> A collection of practices, data, 
+              and technologies that make research outputs accessible and reusable 
+              by other researchers (Elsherif et al., 2026).
             </li>
             <li>
-              <strong>Open Source Software:</strong> Freely accessible software that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
+              <strong>Open Source Software:</strong> Freely accessible software 
+              that can be used, modified, and distributed by anyone (Open Source Initiative, 2025).
             </li>
             <li>
               <strong>PsychoPy:</strong> Open-source software based on Python used for conducting behavioral experiments
                 (<a href="https://www.psychopy.org/" target="_blank" rel="noopener noreferrer">Peirce et al., 2019 / PsychoPy</a>).
             </li>
             <li>
-              <strong>R / RStudio:</strong> R is a programming language for statistical computing, and RStudio is an integrated development environment used for data management, cleaning, and analysis.
+              <strong>R / RStudio:</strong> R is a programming language for statistical 
+              computing, and RStudio is an integrated development environment 
+              used for data management, cleaning, and analysis.
               <br>
               <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">Beginner’s Guide to RStudio</a> |
               <a href="https://posit.co/resources/cheatsheets/" target="_blank" rel="noopener noreferrer">Posit Cheatsheets</a>
             </li>
             <li>
-              <strong>GitHub:</strong> A cloud-based platform that allows developers and researchers to collaborate, store, and share code—especially useful for large-scale projects such as BTS.
+              <strong>GitHub:</strong> A cloud-based platform that allows developers 
+              and researchers to collaborate, store, and share code—especially useful 
+              for large-scale projects such as BTS.
               <br>
               <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> |
               <a href="https://guides.github.com/" target="_blank" rel="noopener noreferrer">Guide to Using GitHub</a> |
