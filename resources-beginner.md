@@ -582,7 +582,7 @@ title: Beginner Resources
             <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
           </p>
           <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
-            For PIs considering participation by their lab
+            For PIs Considering Participation by their Lab
           </h2>
           <details>
             <summary style="margin-left: 30px;">
