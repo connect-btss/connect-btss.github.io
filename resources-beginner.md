@@ -693,7 +693,7 @@ title: Beginner Resources
                         Participation can reduce your/your students’ time for 
                         independent projects, and collaborative contributions may 
                         be valued differently in hiring, promotion, or funding 
-                        evaluations.<strong>Recognition and credit within the collaboration 
+                        evaluations.<strong> Recognition and credit within the collaboration 
                         may also vary depending on the project’s authorship and 
                         contribution policies. </strong>
                       </p>
@@ -715,9 +715,31 @@ title: Beginner Resources
                 </li>
                 <li>
                 <strong> What can your lab realistically commit given the timeframe? </strong>
+                  <ul>
+                    <li> Consider the expertise and resources you could contribute, 
+                    including access to relevant participant populations, a feasible 
+                    recruitment target, and your ability to meet the project’s 
+                    data collection timeline or deadlines.
+                    </li>
+                    <li> Check staffing, equipment, participant payments, and 
+                    ethics requirements, alongside available project support.
+                    </li>
+                  </ul>
                 </li>
                 <li>
                 <strong> How will your lab members be involved, benefited and supported? </strong>
+                  <ul>
+                    <li> Discuss students’ interests, availability, and supervision needs.
+                    </li>
+                    <li> Consider opportunities for learning, meaningful 
+                    participation, mentorship, and recognition, and whether the 
+                    work can support their research or degree requirements.
+                    </li>
+                    <li> Consider how responsibilities and credit will be 
+                    distributed among lab members, particularly when students 
+                    contribute substantially to the project.
+                    </li>
+                  </ul>
                 </li>
               </ul>
           </details>
