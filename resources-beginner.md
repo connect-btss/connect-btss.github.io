@@ -617,9 +617,12 @@ title: Beginner Resources
             </li>
             <li>
               <strong> Consider the benefits and costs of committing: </strong>
+            </li>
+          </ul>
+          <br>
               <details>
                 <summary style="margin-left: 30px;">
-                  Click to expand
+                  Click here to learn more about benefits and costs
                 </summary>
                   <h3 style="margin-left: 30px;">
                       Potential Benefits
@@ -733,9 +736,6 @@ title: Beginner Resources
                     </div> <!--- closing card --->
                   </div> <!--- closing card set --->
                 </details>
-                </li>
-              </ul>
-          </details>
           <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             For Students and Trainees Considering Joining
           </h2>
