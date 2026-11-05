@@ -603,6 +603,9 @@ title: Beginner Resources
                   <strong> Consider the benefits and costs of committing: </strong>
                   <div class="bts-comparison">
                     <div class="bts-card bts-benefit">
+                    <h3 style="margin-left: 30px;">
+                      Potential Benefits
+                    </h3>
                       <h3>Expanding your reach</h3>
                       <p>
                         Contribute to research beyond the capacity of a single 
