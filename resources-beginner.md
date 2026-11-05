@@ -743,7 +743,7 @@ title: Beginner Resources
             <summary style="margin-left: 30px;">
               Click to expand
             </summary>
-          <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
+          <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
             <!--- Card 1: Existing skills --->
             <div class="card card-lighterteal">
               <div class="header-blue">
@@ -783,6 +783,18 @@ title: Beginner Resources
                 or mentorship and whether you would need lab resources or approval 
                 to participate. If you hope to use the work toward your degree, 
                 check both the project’s policies and your program’s requirements.
+              </p>
+            </div> <!--- closing card --->
+            <!-- Card 4: benefits -->
+            <div class="card card-lighterteal">
+              <div class="header-blue">
+                <h3 style="margin: 0; color: #FFFFFF;">
+                  4. Consider the benefits and costs
+                </h3>
+              </div> <!--- closing header --->
+              <p>
+                Joining a BTS groups can pose several potential benefits and 
+                costs that are important for you to consider before joining.
               </p>
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
