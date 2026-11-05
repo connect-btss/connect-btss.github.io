@@ -586,6 +586,30 @@ title: Beginner Resources
             <a href="https://doi.org/10.1177/17456916221082970">[2]</a>, 
             <a href="https://doi.org/10.1037/cap0000216">[3]</a>.
           </p>
+          <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
+            For PIs considering participation by their lab
+          </h2>
+          <details>
+            <summary style="margin-left: 30px;">
+              Click to expand
+            </summary>
+              <br>
+              <ul>
+                <li>
+                  Consider whether the research question and approach align with 
+                  your (and your lab’s) interests and priorities.
+                </li>
+                <li>
+                  <strong> Consider the benefits and costs of committing: </strong>
+                </li>
+                <li>
+                <strong> What can your lab realistically commit given the timeframe? </strong>
+                </li>
+                <li>
+                <strong> How will your lab members be involved, benefited and supported? </strong>
+                </li>
+              </ul>
+          </details>
           <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             For Students and Trainees Considering Joining
           </h3>
@@ -636,8 +660,7 @@ title: Beginner Resources
               </p>
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
-        </details>
-        <div class="header-teal">
+          <div class="header-teal">
           <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
             Consider the Benefits and Costs
           </h3>
@@ -715,6 +738,8 @@ title: Beginner Resources
               </p>
             </div> <!--- closing card --->
           </div> <!--- closing card set --->
+        </details>
+        
         </div> <!--- closing getting involved --->
         <!--- tools --->
         <div style="width: 100%; display: flex; flex-direction: column; gap: 20px; align-items: stretch; margin-bottom: 40px;">
