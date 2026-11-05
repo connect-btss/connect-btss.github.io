@@ -624,9 +624,9 @@ title: Beginner Resources
                 <summary style="margin-left: 40px;">
                   Click here to learn more about benefits and costs
                 </summary>
-                  <h3 style="margin-left: 30px;">
+                  <h4 style="margin-left: 30px;">
                       Potential Benefits
-                    </h3>
+                    </h4>
                   <div class="bts-comparison">
                     <div class="bts-card bts-benefit">
                       <h3>Expanding your reach</h3>
@@ -674,9 +674,9 @@ title: Beginner Resources
                       </p>
                     </div> <!--- closing card --->
                   </div> <!--- closing card set --->
-                  <h3 style="margin-left: 30px;">
+                  <h4 style="margin-left: 30px;">
                     Potential costs and challenges
-                  </h3>
+                  </h4>
                   <div class="bts-comparison bts-costs">
                     <div class="bts-card bts-cost">
                       <h3>Time and workload</h3>
