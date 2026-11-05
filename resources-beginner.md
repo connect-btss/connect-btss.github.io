@@ -131,6 +131,7 @@ title: Beginner Resources
             <h2 style="margin-bottom:0;margin-top:0;margin-left:30px;color:#364362;">
               How has BTS been implemented across different research fields?
             </h2>
+            <br>
             <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch;">
               <!--- Card 1: Neuroscience --->
               <div class="card card-lighteryellow">
