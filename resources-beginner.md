@@ -167,6 +167,7 @@ title: Beginner Resources
             </div> <!---- closing grid --->
            </div> <!--- close id --->
         </div> <!--- close block -->
+        <br>
             
       <!--- WHAT IS OS & BTS --->
         <div id="WhatisOSrelatestoBTS?" style="display: width: 100%; flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 40px;">
