@@ -768,11 +768,9 @@ title: Beginner Resources
               </p>
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
-          <div class="header-teal">
-            <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-              Consider the Benefits and Costs
-            </h3>
-          </div> <!--- close header teal --->
+          <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+            Consider the Benefits and Costs
+          </h3>
           <h3 style="margin-left: 30px;">
             Potential benefits
           </h3>
