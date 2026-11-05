@@ -383,7 +383,13 @@ title: Beginner Resources
                               where researchers are unable to replicate previous 
                               studies’ results. This has led the scientific community 
                               to question the reliability and validity of previous 
-                              research findings 
+                              research findings. 
+                            </p>
+                            <p style="font-size: 16px;">
+                              Replication and reproducibility both play important 
+                              roles in strengthening confidence in scientific 
+                              research, but they address different questions and 
+                              differ in the data they use.
                             </p>
                             <table>
                               <tr><th>Feature</th><th>Replication</th><th>Reproducibility</th>
