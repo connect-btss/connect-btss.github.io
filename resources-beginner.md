@@ -520,64 +520,59 @@ title: Beginner Resources
             checklist below can help you decide whether, and how you or your 
             lab might participate: 
           </p>
-          <details>
-            <summary style="margin-left: 30px;">
-              Click to expand
-            </summary>
-              <br>
-              <ul>
-                <li>
-                  <strong>Is the project open to new collaborators?</strong>
-                    Look at the project webpage, manual, or online community 
-                    (e.g., Slack, Zulip) to learn more about its current status 
-                    <a href="#">[18]</a>.
-                </li>
-                <li>
-                  <strong>What kinds of contributions are needed?</strong>
-                    Look for opportunities to contribute, such as study design, 
-                    materials development, translation, data collection, analysis, 
-                    writing, or project coordination. Check the project’s participation 
-                    guidelines, lab manual, or Collaboration Agreement to understand 
-                    responsibilities, timelines, ethics requirements, and other 
-                    expectations.
-                </li>
-                <li>
-                <strong>How will my participation be recognized/remunerated?</strong>
-                    Review the project’s authorship or contribution guidelines, 
-                    including any Collaboration Agreement, to understand the 
-                    minimum contribution required for authorship, how many authors 
-                    may be included from each laboratory or group, and whether 
-                    contribution levels affect author order. Other potential benefits 
-                    of participation include training in areas such as Open Science 
-                    workflows, opportunities to contribute to conference presentations 
-                    or press releases, and networking. Some BTS projects also offer 
-                    limited funding to participating laboratories, although this is less common.
-                </li>
-                <li>
-                <strong>Are there any restrictions on using or presenting the work?</strong>
-                   Check policies on when and where you can present project 
-                   results, including for undergraduate projects, MA theses or 
-                   dissertations, or conduct secondary analyses and spin-off projects. 
-                   Look for any required permissions or conditions, including 
-                   restrictions while data collection is ongoing.
-                </li>
-                <li>
-                <strong>Are there any additional expectations that apply to collaborators?</strong>
-                   Look for documents such as network mission and values statements, 
-                   codes of conduct, collaboration agreements, and governance or 
-                   membership guidelines to understand how the team operates and 
-                   what is expected of its members. Identify the project’s or 
-                   network’s underlying values, as these may shape how decisions 
-                   are made throughout the research process.
-                </li>
-                <li>
-                <strong>How can I stay informed about future opportunities?</strong>
-                   Consider signing up for the network's mailing list, listserv, 
-                   or other communication channels (e.g., Slack, Zulip) to receive 
-                   announcements about new projects and opportunities to contribute.
-                </li>
-              </ul>
-          </details>
+          <br>
+          <ul>
+            <li>
+               <strong>Is the project open to new collaborators?</strong>
+                 Look at the project webpage, manual, or online community 
+                (e.g., Slack, Zulip) to learn more about its current status 
+                <a href="#">[18]</a>.
+            </li>
+            <li>
+               <strong>What kinds of contributions are needed?</strong>
+                 Look for opportunities to contribute, such as study design, 
+                 materials development, translation, data collection, analysis, 
+                 writing, or project coordination. Check the project’s participation 
+                 guidelines, lab manual, or Collaboration Agreement to understand 
+                responsibilities, timelines, ethics requirements, and other 
+                expectations.
+            </li>
+            <li>
+            <strong>How will my participation be recognized/remunerated?</strong>
+                 Review the project’s authorship or contribution guidelines, 
+                 including any Collaboration Agreement, to understand the 
+                minimum contribution required for authorship, how many authors 
+                 may be included from each laboratory or group, and whether 
+                contribution levels affect author order. Other potential benefits 
+                 of participation include training in areas such as Open Science 
+                 workflows, opportunities to contribute to conference presentations 
+                 or press releases, and networking. Some BTS projects also offer 
+                 limited funding to participating laboratories, although this is less common.
+             </li>
+             <li>
+              <strong>Are there any restrictions on using or presenting the work?</strong>
+                Check policies on when and where you can present project 
+                results, including for undergraduate projects, MA theses or 
+                dissertations, or conduct secondary analyses and spin-off projects. 
+                Look for any required permissions or conditions, including 
+                restrictions while data collection is ongoing.
+            </li>
+            <li>
+            <strong>Are there any additional expectations that apply to collaborators?</strong>
+               Look for documents such as network mission and values statements, 
+                codes of conduct, collaboration agreements, and governance or 
+                membership guidelines to understand how the team operates and 
+                what is expected of its members. Identify the project’s or 
+                network’s underlying values, as these may shape how decisions 
+                are made throughout the research process.
+            </li>
+            <li>
+            <strong>How can I stay informed about future opportunities?</strong>
+                Consider signing up for the network's mailing list, listserv, 
+                or other communication channels (e.g., Slack, Zulip) to receive 
+                announcements about new projects and opportunities to contribute.
+            </li>
+          </ul>
           <p style="margin-left: 30px;">
             Once you understand what the opportunity involves, it will be helpful 
             to weigh the potential benefits and costs of different roles and levels 
