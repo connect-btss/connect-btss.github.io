@@ -581,46 +581,46 @@ title: Beginner Resources
           <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             For PIs Considering Participation by their Lab
           </h2>
-          <details>
-            <summary style="margin-left: 30px;">
-              Click to expand
-            </summary>
-              <br>
+          <br>
+          <ul>
+            <li>
+              <strong> Consider whether the research question and approach align with 
+               your (and your lab’s) interests and priorities. </strong>
+            </li>
+            <li>
+            <strong> What can your lab realistically commit given the timeframe? </strong>
               <ul>
-                <li>
-                  <strong> Consider whether the research question and approach align with 
-                  your (and your lab’s) interests and priorities. </strong>
+                <li> Consider the expertise and resources you could contribute, 
+                including access to relevant participant populations, a feasible 
+                recruitment target, and your ability to meet the project’s 
+                data collection timeline or deadlines.
                 </li>
-                <li>
-                <strong> What can your lab realistically commit given the timeframe? </strong>
-                  <ul>
-                    <li> Consider the expertise and resources you could contribute, 
-                    including access to relevant participant populations, a feasible 
-                    recruitment target, and your ability to meet the project’s 
-                    data collection timeline or deadlines.
-                    </li>
-                    <li> Check staffing, equipment, participant payments, and 
-                    ethics requirements, alongside available project support.
-                    </li>
-                  </ul>
+                <li> Check staffing, equipment, participant payments, and 
+                ethics requirements, alongside available project support.
                 </li>
-                <li>
-                <strong> How will your lab members be involved, benefited and supported? </strong>
-                  <ul>
-                    <li> Discuss students’ interests, availability, and supervision needs.
-                    </li>
-                    <li> Consider opportunities for learning, meaningful 
-                    participation, mentorship, and recognition, and whether the 
-                    work can support their research or degree requirements.
-                    </li>
-                    <li> Consider how responsibilities and credit will be 
-                    distributed among lab members, particularly when students 
-                    contribute substantially to the project.
-                    </li>
-                  </ul>
+              </ul>
+            </li>
+            <li>
+            <strong> How will your lab members be involved, benefited and supported? </strong>
+              <ul>
+                <li> Discuss students’ interests, availability, and supervision needs.
                 </li>
-                <li>
-                  <strong> Consider the benefits and costs of committing: </strong>
+                <li> Consider opportunities for learning, meaningful 
+                participation, mentorship, and recognition, and whether the 
+                work can support their research or degree requirements.
+                </li>
+                <li> Consider how responsibilities and credit will be 
+                distributed among lab members, particularly when students 
+                contribute substantially to the project.
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong> Consider the benefits and costs of committing: </strong>
+              <details>
+                <summary style="margin-left: 30px;">
+                  Click to expand
+                </summary>
                   <h3 style="margin-left: 30px;">
                       Potential Benefits
                     </h3>
@@ -732,6 +732,7 @@ title: Beginner Resources
                       </p>
                     </div> <!--- closing card --->
                   </div> <!--- closing card set --->
+                </details>
                 </li>
               </ul>
           </details>
