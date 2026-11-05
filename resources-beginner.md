@@ -621,7 +621,7 @@ title: Beginner Resources
           </ul>
           <br>
               <details>
-                <summary style="margin-left: 30px;">
+                <summary style="margin-left: 40px;">
                   Click here to learn more about benefits and costs
                 </summary>
                   <h3 style="margin-left: 30px;">
