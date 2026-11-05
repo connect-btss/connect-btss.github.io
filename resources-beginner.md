@@ -520,7 +520,6 @@ title: Beginner Resources
             checklist below can help you decide whether, and how you or your 
             lab might participate: 
           </p>
-          <br>
           <ul>
             <li>
                <strong>Is the project open to new collaborators?</strong>
