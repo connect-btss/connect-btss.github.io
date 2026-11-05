@@ -73,6 +73,7 @@ title: Beginner Resources
               Introduction to Big Team Science (BTS)
             </h2>
           </div> <!--- closing header teal --->
+          <br>
           <div id="whatisbts" class="sidebar-subheading">
             <h2 style="margin-bottom:0;margin-top:0;margin-left:30px;color:#364362;">
               What is BTS and why is it important?
@@ -125,6 +126,7 @@ title: Beginner Resources
                 </div> <!--- closing collapsible --->
             </details>
           </div> <!--- close id --->
+          <br>
           <div id="acrossfields" class="sidebar-subheading">
             <h2 style="margin-bottom:0;margin-top:0;margin-left:30px;color:#364362;">
               How has BTS been implemented across different research fields?
