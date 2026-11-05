@@ -619,7 +619,6 @@ title: Beginner Resources
               <strong> Consider the benefits and costs of committing: </strong>
             </li>
           </ul>
-          <br>
               <details>
                 <summary style="margin-left: 40px;">
                   Click here to learn more about benefits and costs
