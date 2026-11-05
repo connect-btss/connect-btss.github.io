@@ -571,7 +571,8 @@ title: Beginner Resources
                   announcements about new projects and opportunities to contribute.
               </li>
             </ul>
-            Once you understand what the opportunity involves, it will be helpful 
+          </p>
+          <p> Once you understand what the opportunity involves, it will be helpful 
             to weigh the potential benefits and costs of different roles and levels 
             of involvement before deciding whether and how you and/or your group 
             might participate<a href="https://doi.org/10.1177/17456916221082970">[2]</a>,<a href="https://doi.org/10.1037/cap0000216">[3]</a>.
