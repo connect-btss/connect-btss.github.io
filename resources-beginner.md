@@ -601,6 +601,114 @@ title: Beginner Resources
                 </li>
                 <li>
                   <strong> Consider the benefits and costs of committing: </strong>
+                  <div class="bts-comparison">
+                    <div class="bts-card bts-benefit">
+                      <h3>Expanding your reach</h3>
+                      <p>
+                        Contribute to research beyond the capacity of a single 
+                        lab by drawing on larger, more diverse samples and broader 
+                        methodological expertise to address questions across 
+                        populations and contexts.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-benefit">
+                      <h3>Expand your network</h3>
+                      <p>
+                        Build connections with researchers beyond your usual 
+                        disciplinary, institutional, and geographic networks, 
+                        and learn from their perspectives and expertise.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-benefit">
+                      <h3> Strengthening skills</h3>
+                      <p>
+                        Develop methodological and open-science skills for yourself 
+                        and your lab members while strengthening your lab’s research 
+                        practices.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-benefit">
+                      <h3>Open Science Commitment</h3>
+                      <p>
+                        Model your commitment to Open Science and collaboration 
+                        to your trainees.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-benefit">
+                      <h3>Recognition</h3>
+                      <p>
+                        Gain recognition for research contributions made by you 
+                        and your lab members.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-benefit">
+                      <h3>Visibility</h3>
+                      <p>
+                       Increase the visibility of your lab and your trainees.
+                      </p>
+                    </div> <!--- closing card --->
+                  </div> <!--- closing card set --->
+                  <h3 style="margin-left: 30px;">
+                    Potential costs and challenges
+                  </h3>
+                  <div class="bts-comparison bts-costs">
+                    <div class="bts-card bts-cost">
+                      <h3>Time and workload</h3>
+                      <p>
+                        Depending on the project and your lab’s role, participation 
+                        may require additional <strong> time and resources </strong> 
+                        for coordination (e.g., meetings to clarify procedures 
+                        and timelines), documentation (e.g., recording local 
+                        procedures and deviations from the shared protocol), 
+                        and administrative and data-management tasks (e.g., ethics applications, 
+                        formatting data to meet shared standards, and data submission). 
+                        <strong>The workload may be difficult to predict and can 
+                        exceed initial expectations. </strong>
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-cost">
+                      <h3>A need to adapt</h3>
+                      <p>
+                        Participation will likely require adapting your lab’s 
+                        usual procedures to align with shared protocols, data 
+                        standards, and open-science practices, which also requires 
+                        additional training, preparation, and ethical approval.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-cost">
+                      <h3>Understand the limits of independence</h3>
+                      <p>
+                        Individual labs may have less control over research 
+                        questions, methods, and timelines than in independent 
+                        projects. Large-team collaboration can also involve 
+                        disagreements, uneven workloads and changing responsibilities.
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-cost">
+                      <h3>Impact on students</h3>
+                      <p>
+                        Participation can reduce your/your students’ time for 
+                        independent projects, and collaborative contributions may 
+                        be valued differently in hiring, promotion, or funding 
+                        evaluations.<strong>Recognition and credit within the collaboration 
+                        may also vary depending on the project’s authorship and 
+                        contribution policies. </strong>
+                      </p>
+                    </div> <!--- closing card --->
+                    <div class="bts-card bts-cost">
+                      <h3>Timeline</h3>
+                      <p>
+                        BTS projects may take several years to produce 
+                        publications, with progress partly dependent on other 
+                        collaborators. Joining early may offer more opportunities 
+                        to shape or lead the work, but may also involve more work 
+                        and a longer, less predictable commitment. Consider 
+                        whether the timeline fits your lab’s research plans, 
+                        students’ degree timelines, and career priorities, and 
+                        whether your lab can sustain its commitment.
+                      </p>
+                    </div> <!--- closing card --->
+                  </div> <!--- closing card set --->
                 </li>
                 <li>
                 <strong> What can your lab realistically commit given the timeframe? </strong>
@@ -661,10 +769,10 @@ title: Beginner Resources
             </div> <!--- closing card --->
           </div> <!--- closing grid --->
           <div class="header-teal">
-          <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
-            Consider the Benefits and Costs
-          </h3>
-        </div> <!--- close header teal --->
+            <h3 style="margin-bottom:0; margin-top:0; color:#FFFFFF;">
+              Consider the Benefits and Costs
+            </h3>
+          </div> <!--- close header teal --->
           <h3 style="margin-left: 30px;">
             Potential benefits
           </h3>
