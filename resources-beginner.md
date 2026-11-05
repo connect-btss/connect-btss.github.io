@@ -512,9 +512,9 @@ title: Beginner Resources
             <a href="https://royalsocietypublishing.org/rsos/article/10/6/230235/92248/How-to-build-up-big-team-science-a-practical-guide">[1]</a>,
             <a href="https://doi.org/10.1177/2515245918797607">[4]</a>.
           </p>
-          <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
+          <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             Things to Check and Consider Before Joining/Committing
-          </h3>
+          </h2>
           <p style="margin-left: 30px;">
             If you find a specific project or network that interests you, the 
             checklist below can help you decide whether, and how you or your 
@@ -524,6 +524,23 @@ title: Beginner Resources
             <summary style="margin-left: 30px;">
               Click to expand
             </summary>
+              <ul>
+                <li>
+                  <strong>Is the project open to new collaborators?</strong>
+                    Look at the project webpage, manual, or online community 
+                    (e.g., Slack, Zulip) to learn more about its current status 
+                    <a href="#">[18]</a>.
+                </li>
+                <li>
+                  <strong>What kinds of contributions are needed?</strong>
+                    Look for opportunities to contribute, such as study design, 
+                    materials development, translation, data collection, analysis, 
+                    writing, or project coordination. Check the project’s participation 
+                    guidelines, lab manual, or Collaboration Agreement to understand 
+                    responsibilities, timelines, ethics requirements, and other 
+                    expectations.
+                </li>
+              </ul>
               <div class="card card-lighteryellow">
                 <p>
                   <strong>Is the project open to new collaborators?</strong>
