@@ -610,9 +610,9 @@ title: Beginner Resources
                 </li>
               </ul>
           </details>
-          <h3 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
+          <h2 style="margin-left:30px;margin-bottom:0;margin-top:0;color:#364362;">
             For Students and Trainees Considering Joining
-          </h3>
+          </h2>
           <details>
             <summary style="margin-left: 30px;">
               Click to expand
